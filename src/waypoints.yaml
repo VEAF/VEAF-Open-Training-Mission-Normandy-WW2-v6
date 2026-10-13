@@ -1,0 +1,93 @@
+# Plans de vol injectés dans les groupes joueurs (Open Training Normandie WW2) — écrit par tools/gen_13_waypoints.py.
+# RNG_A/B/C = champs d'entraînement appui rapproché (Cotentin), bombardement (Salisbury) et antiflak (Aurigny) ;
+# TOUR_1/2/3 = circuits touristiques (plages, Cotentin, côte sud de l'Angleterre) ; ARENE = arène de combat entre joueurs.
+# Le build ajoute le BULLSEYE (Saint-Lô) à chaque plan.
+waypoints:
+  RNG_A:
+    type: Turning Point
+    action: Turning Point
+    alt: 914
+    alt_type: BARO
+    speed: 128.6
+    speed_type: TAS
+    x: -647
+    y: -84744
+    name: RNG_A
+  RNG_B:
+    type: Turning Point
+    action: Turning Point
+    alt: 2438
+    alt_type: BARO
+    speed: 113.2
+    speed_type: TAS
+    x: 187747
+    y: -124262
+    name: RNG_B
+  RNG_C:
+    type: Turning Point
+    action: Turning Point
+    alt: 1829
+    alt_type: BARO
+    speed: 128.6
+    speed_type: TAS
+    x: 23334
+    y: -140445
+    name: RNG_C
+  TOUR_1:
+    type: Turning Point
+    action: Turning Point
+    alt: 457
+    alt_type: BARO
+    speed: 82.3
+    speed_type: TAS
+    x: -15724
+    y: -22677
+    name: TOUR_1
+  TOUR_2:
+    type: Turning Point
+    action: Turning Point
+    alt: 457
+    alt_type: BARO
+    speed: 82.3
+    speed_type: TAS
+    x: 12723
+    y: -83571
+    name: TOUR_2
+  TOUR_3:
+    type: Turning Point
+    action: Turning Point
+    alt: 457
+    alt_type: BARO
+    speed: 82.3
+    speed_type: TAS
+    x: 144316
+    y: -68683
+    name: TOUR_3
+  ARENE:
+    type: Turning Point
+    action: Turning Point
+    alt: 4572
+    alt_type: BARO
+    speed: 128.6
+    speed_type: TAS
+    x: 75000
+    y: -95000
+    name: ARENE
+settings:
+  blue_planes:
+    category: plane
+    coalition: blue
+    waypoints:
+    - RNG_A
+    - RNG_B
+    - RNG_C
+    - TOUR_1
+    - TOUR_2
+    - TOUR_3
+    - ARENE
+  red_planes:
+    category: plane
+    coalition: red
+    waypoints:
+    - RNG_C
+    - ARENE

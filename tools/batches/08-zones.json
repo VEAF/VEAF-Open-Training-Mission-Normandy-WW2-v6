@@ -1,0 +1,2247 @@
+[
+ {
+  "name": "create_combat_zone",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Normandy-WW2-v6",
+   "zone_name": "combatZone_VillersBocage",
+   "position": {
+    "x": -45628,
+    "y": -24353
+   },
+   "radius": 2500,
+   "groups": [
+    {
+     "name": "Z01-1",
+     "position": {
+      "x": -44828,
+      "y": -24353
+     },
+     "keep_position": true,
+     "units": [
+      {
+       "type": "Pz_IV_H",
+       "name": "#command=\"-armor, defense 2, country germany\" #Z01-1"
+      }
+     ]
+    },
+    {
+     "name": "Z01-2",
+     "position": {
+      "x": -46078,
+      "y": -23574
+     },
+     "keep_position": true,
+     "units": [
+      {
+       "type": "Pz_IV_H",
+       "name": "#command=\"-armor, defense 1, country germany\" #Z01-2"
+      }
+     ]
+    },
+    {
+     "name": "Z01-3",
+     "position": {
+      "x": -45978,
+      "y": -24959
+     },
+     "keep_position": true,
+     "units": [
+      {
+       "type": "flak37",
+       "name": "#command=\"-samSR, country germany\" #Z01-3"
+      }
+     ]
+    },
+    {
+     "name": "Z01-4",
+     "position": {
+      "x": -45028,
+      "y": -25392
+     },
+     "keep_position": true,
+     "units": [
+      {
+       "type": "flak38",
+       "name": "#command=\"-aaa, defense 1, country germany\" #Z01-4"
+      }
+     ]
+    },
+    {
+     "name": "Artillerie",
+     "position": {
+      "x": -45628,
+      "y": -23053
+     },
+     "keep_position": true,
+     "units": [
+      {
+       "type": "LeFH_18-40-105",
+       "count": 4
+      }
+     ]
+    },
+    {
+     "name": "Antichars",
+     "position": {
+      "x": -46474,
+      "y": -24661
+     },
+     "keep_position": true,
+     "units": [
+      {
+       "type": "Pak40",
+       "count": 3
+      }
+     ]
+    }
+   ],
+   "coalition": "red",
+   "country_id": 66,
+   "country_name": "Third Reich",
+   "category": "vehicle",
+   "combat_zone": {
+    "friendly_name": "Z01 Front — Villers-Bocage",
+    "radio_group_name": "Front",
+    "training": false,
+    "briefing": "Les chars de la Panzer-Lehr tiennent les hauteurs de Villers-Bocage, face à la poussée britannique : Panzer IV, Tiger et canons antichars en position, appuyés par de l'artillerie. Détruire les blindés et les canons ; flak légère et moyenne pour la couverture.\nPosition : bullseye 095°/17 nm (N49°04.902' W000°39.348'). Base amie la plus proche : Bazenville, à 14 nm."
+   }
+  }
+ },
+ {
+  "name": "add_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Normandy-WW2-v6",
+   "coalition": "red",
+   "country_id": 66,
+   "country_name": "Third Reich",
+   "category": "static",
+   "name": "Static-Bunker-1",
+   "position": {
+    "x": -44329,
+    "y": -25103
+   },
+   "units": [
+    {
+     "type": "Bunker"
+    }
+   ],
+   "for_combat_zone": "combatZone_VillersBocage",
+   "keep_position": true
+  }
+ },
+ {
+  "name": "add_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Normandy-WW2-v6",
+   "coalition": "red",
+   "country_id": 66,
+   "country_name": "Third Reich",
+   "category": "static",
+   "name": "Static-Bunker-2",
+   "position": {
+    "x": -44124,
+    "y": -24900
+   },
+   "units": [
+    {
+     "type": "Bunker"
+    }
+   ],
+   "for_combat_zone": "combatZone_VillersBocage",
+   "keep_position": true
+  }
+ },
+ {
+  "name": "create_combat_zone",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Normandy-WW2-v6",
+   "zone_name": "combatZone_CaenNord",
+   "position": {
+    "x": -33562,
+    "y": -6799
+   },
+   "radius": 2500,
+   "groups": [
+    {
+     "name": "Z02-1",
+     "position": {
+      "x": -32869,
+      "y": -6399
+     },
+     "keep_position": true,
+     "units": [
+      {
+       "type": "Pz_IV_H",
+       "name": "#command=\"-armor, defense 2, country germany\" #Z02-1"
+      }
+     ]
+    },
+    {
+     "name": "Z02-2",
+     "position": {
+      "x": -34341,
+      "y": -6349
+     },
+     "keep_position": true,
+     "units": [
+      {
+       "type": "Pz_IV_H",
+       "name": "#command=\"-armor, defense 1, country germany\" #Z02-2"
+      }
+     ]
+    },
+    {
+     "name": "Z02-3",
+     "position": {
+      "x": -33562,
+      "y": -7499
+     },
+     "keep_position": true,
+     "units": [
+      {
+       "type": "flak37",
+       "name": "#command=\"-samSR, country germany\" #Z02-3"
+      }
+     ]
+    },
+    {
+     "name": "Tigers",
+     "position": {
+      "x": -33042,
+      "y": -7099
+     },
+     "keep_position": true,
+     "units": [
+      {
+       "type": "Tiger_I",
+       "count": 2
+      }
+     ]
+    },
+    {
+     "name": "Artillerie",
+     "position": {
+      "x": -34601,
+      "y": -7399
+     },
+     "keep_position": true,
+     "units": [
+      {
+       "type": "Wespe124",
+       "count": 3
+      }
+     ]
+    }
+   ],
+   "coalition": "red",
+   "country_id": 66,
+   "country_name": "Third Reich",
+   "category": "vehicle",
+   "combat_zone": {
+    "friendly_name": "Z02 Front — Caen et Carpiquet",
+    "radio_group_name": "Front",
+    "training": false,
+    "briefing": "La ligne de défense de la 12e SS Hitlerjugend au nord de Caen, autour de Carpiquet : Panzer IV, Tiger et automoteurs d'artillerie dans les ruines. Détruire les blindés et l'artillerie ; flak moyenne de 37 mm, sous la QRA de Caen.\nPosition : bullseye 079°/27 nm (N49°11.100' W000°24.600'). Base amie la plus proche : Beny-sur-Mer, à 7 nm."
+   }
+  }
+ },
+ {
+  "name": "add_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Normandy-WW2-v6",
+   "coalition": "red",
+   "country_id": 66,
+   "country_name": "Third Reich",
+   "category": "static",
+   "name": "Static-Bunker-1",
+   "position": {
+    "x": -32262,
+    "y": -6799
+   },
+   "units": [
+    {
+     "type": "Bunker"
+    }
+   ],
+   "for_combat_zone": "combatZone_CaenNord",
+   "keep_position": true
+  }
+ },
+ {
+  "name": "add_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Normandy-WW2-v6",
+   "coalition": "red",
+   "country_id": 66,
+   "country_name": "Third Reich",
+   "category": "static",
+   "name": "Static-Bunker-2",
+   "position": {
+    "x": -32246,
+    "y": -6320
+   },
+   "units": [
+    {
+     "type": "Bunker"
+    }
+   ],
+   "for_combat_zone": "combatZone_CaenNord",
+   "keep_position": true
+  }
+ },
+ {
+  "name": "create_combat_zone",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Normandy-WW2-v6",
+   "zone_name": "combatZone_CotentinSud",
+   "position": {
+    "x": -32929,
+    "y": -86276
+   },
+   "radius": 2500,
+   "groups": [
+    {
+     "name": "Z03-1",
+     "position": {
+      "x": -32236,
+      "y": -86676
+     },
+     "keep_position": true,
+     "units": [
+      {
+       "type": "Sd_Kfz_251",
+       "name": "#command=\"-armor, defense 1, country germany\" #Z03-1"
+      }
+     ]
+    },
+    {
+     "name": "Z03-2",
+     "position": {
+      "x": -32929,
+      "y": -85376
+     },
+     "keep_position": true,
+     "units": [
+      {
+       "type": "Pz_IV_H",
+       "name": "#command=\"-armor, defense 2, country germany\" #Z03-2"
+      }
+     ]
+    },
+    {
+     "name": "Z03-3",
+     "position": {
+      "x": -33493,
+      "y": -86481
+     },
+     "keep_position": true,
+     "units": [
+      {
+       "type": "flak37",
+       "name": "#command=\"-samSR, country germany\" #Z03-3"
+      }
+     ]
+    },
+    {
+     "name": "Antichars",
+     "position": {
+      "x": -33968,
+      "y": -86876
+     },
+     "keep_position": true,
+     "units": [
+      {
+       "type": "Pak40",
+       "count": 4
+      }
+     ]
+    },
+    {
+     "name": "Artillerie",
+     "position": {
+      "x": -33629,
+      "y": -85064
+     },
+     "keep_position": true,
+     "units": [
+      {
+       "type": "LeFH_18-40-105",
+       "count": 3
+      }
+     ]
+    }
+   ],
+   "coalition": "red",
+   "country_id": 66,
+   "country_name": "Third Reich",
+   "category": "vehicle",
+   "combat_zone": {
+    "friendly_name": "Z03 Front — La Haye-du-Puits et Lessay",
+    "radio_group_name": "Front",
+    "training": false,
+    "briefing": "La ligne de défense allemande qui bloque le Cotentin, des marais de Lessay à La Haye-du-Puits : canons antichars, blindés légers et artillerie dans le bocage. Détruire les blindés et les canons ; flak moyenne, sous la QRA de Lessay si elle est active.\nPosition : bullseye 288°/17 nm (N49°12.600' W001°30.000'). Base amie la plus proche : Picauville, à 12 nm."
+   }
+  }
+ },
+ {
+  "name": "add_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Normandy-WW2-v6",
+   "coalition": "red",
+   "country_id": 66,
+   "country_name": "Third Reich",
+   "category": "static",
+   "name": "Static-Bunker-1",
+   "position": {
+    "x": -32529,
+    "y": -86276
+   },
+   "units": [
+    {
+     "type": "Bunker"
+    }
+   ],
+   "for_combat_zone": "combatZone_CotentinSud",
+   "keep_position": true
+  }
+ },
+ {
+  "name": "add_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Normandy-WW2-v6",
+   "coalition": "red",
+   "country_id": 66,
+   "country_name": "Third Reich",
+   "category": "static",
+   "name": "Static-Bunker-2",
+   "position": {
+    "x": -33154,
+    "y": -85886
+   },
+   "units": [
+    {
+     "type": "Bunker"
+    }
+   ],
+   "for_combat_zone": "combatZone_CotentinSud",
+   "keep_position": true
+  }
+ },
+ {
+  "name": "add_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Normandy-WW2-v6",
+   "coalition": "red",
+   "country_id": 66,
+   "country_name": "Third Reich",
+   "category": "static",
+   "name": "Static-Bunker-3",
+   "position": {
+    "x": -33139,
+    "y": -86640
+   },
+   "units": [
+    {
+     "type": "Bunker"
+    }
+   ],
+   "for_combat_zone": "combatZone_CotentinSud",
+   "keep_position": true
+  }
+ },
+ {
+  "name": "create_combat_zone",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Normandy-WW2-v6",
+   "zone_name": "combatZone_Antifer",
+   "position": {
+    "x": 23775,
+    "y": 32723
+   },
+   "radius": 2000,
+   "groups": [
+    {
+     "name": "Z04-1",
+     "position": {
+      "x": 23075,
+      "y": 32723
+     },
+     "keep_position": true,
+     "units": [
+      {
+       "type": "flak36",
+       "name": "#command=\"-samLR, country germany\" #Z04-1"
+      }
+     ]
+    },
+    {
+     "name": "Z04-2",
+     "position": {
+      "x": 23775,
+      "y": 33223
+     },
+     "keep_position": true,
+     "units": [
+      {
+       "type": "flak38",
+       "name": "#command=\"-aaa, defense 2, country germany\" #Z04-2"
+      }
+     ]
+    },
+    {
+     "name": "Radars",
+     "position": {
+      "x": 23775,
+      "y": 32723
+     },
+     "keep_position": true,
+     "units": [
+      {
+       "type": "FuMG-401",
+       "count": 2
+      },
+      {
+       "type": "FuSe-65",
+       "count": 2
+      }
+     ]
+    }
+   ],
+   "coalition": "red",
+   "country_id": 66,
+   "country_name": "Third Reich",
+   "category": "vehicle",
+   "combat_zone": {
+    "friendly_name": "Z04 Radars — station du cap d'Antifer",
+    "radio_group_name": "Flak et radars",
+    "training": false,
+    "briefing": "La station radar du cap d'Antifer, sur la côte au nord du Havre : radar d'alerte avancée Freya et radars de conduite de tir Würzburg, protégés par de la flak lourde. Détruire les radars ; elle ouvre le ciel de la Manche aux bombardiers.\nPosition : bullseye 053°/60 nm (N49°41.192' E000°09.875'). Base amie la plus proche : Beny-sur-Mer, à 33 nm."
+   }
+  }
+ },
+ {
+  "name": "add_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Normandy-WW2-v6",
+   "coalition": "red",
+   "country_id": 66,
+   "country_name": "Third Reich",
+   "category": "static",
+   "name": "Static-Freya_Shelter_Brick-1",
+   "position": {
+    "x": 23775,
+    "y": 32723
+   },
+   "units": [
+    {
+     "type": "Freya_Shelter_Brick"
+    }
+   ],
+   "for_combat_zone": "combatZone_Antifer",
+   "keep_position": true
+  }
+ },
+ {
+  "name": "add_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Normandy-WW2-v6",
+   "coalition": "red",
+   "country_id": 66,
+   "country_name": "Third Reich",
+   "category": "static",
+   "name": "Static-Freya_Shelter_Brick-2",
+   "position": {
+    "x": 23813,
+    "y": 32691
+   },
+   "units": [
+    {
+     "type": "Freya_Shelter_Brick"
+    }
+   ],
+   "for_combat_zone": "combatZone_Antifer",
+   "keep_position": true
+  }
+ },
+ {
+  "name": "add_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Normandy-WW2-v6",
+   "coalition": "red",
+   "country_id": 66,
+   "country_name": "Third Reich",
+   "category": "static",
+   "name": "Static-Bunker-3",
+   "position": {
+    "x": 24081,
+    "y": 32980
+   },
+   "units": [
+    {
+     "type": "Bunker"
+    }
+   ],
+   "for_combat_zone": "combatZone_Antifer",
+   "keep_position": true
+  }
+ },
+ {
+  "name": "create_combat_zone",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Normandy-WW2-v6",
+   "zone_name": "combatZone_GrisNez",
+   "position": {
+    "x": 160808,
+    "y": 126925
+   },
+   "radius": 2000,
+   "groups": [
+    {
+     "name": "Z05-1",
+     "position": {
+      "x": 160108,
+      "y": 126925
+     },
+     "keep_position": true,
+     "units": [
+      {
+       "type": "flak36",
+       "name": "#command=\"-samLR, country germany\" #Z05-1"
+      }
+     ]
+    },
+    {
+     "name": "Z05-2",
+     "position": {
+      "x": 160808,
+      "y": 127525
+     },
+     "keep_position": true,
+     "units": [
+      {
+       "type": "flak37",
+       "name": "#command=\"-samSR, country germany\" #Z05-2"
+      }
+     ]
+    },
+    {
+     "name": "Radars",
+     "position": {
+      "x": 160808,
+      "y": 126925
+     },
+     "keep_position": true,
+     "units": [
+      {
+       "type": "FuMG-401",
+       "count": 1
+      },
+      {
+       "type": "FuSe-65",
+       "count": 2
+      }
+     ]
+    }
+   ],
+   "coalition": "red",
+   "country_id": 66,
+   "country_name": "Third Reich",
+   "category": "vehicle",
+   "combat_zone": {
+    "friendly_name": "Z05 Radars — cap Gris-Nez",
+    "radio_group_name": "Flak et radars",
+    "training": false,
+    "briefing": "Le cap Gris-Nez, au plus près des côtes anglaises : radars Freya et Würzburg, flak lourde et batterie côtière. Détruire les radars et réduire la flak ; la batterie côtière est une menace pour les navires, pas pour les avions.\nPosition : bullseye 042°/148 nm (N50°52.328' E001°35.023'). Base amie la plus proche : Manston, à 30 nm."
+   }
+  }
+ },
+ {
+  "name": "add_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Normandy-WW2-v6",
+   "coalition": "red",
+   "country_id": 66,
+   "country_name": "Third Reich",
+   "category": "static",
+   "name": "Static-SK_C_28_naval_gun-1",
+   "position": {
+    "x": 160783,
+    "y": 126924
+   },
+   "units": [
+    {
+     "type": "SK_C_28_naval_gun"
+    }
+   ],
+   "for_combat_zone": "combatZone_GrisNez",
+   "keep_position": true
+  }
+ },
+ {
+  "name": "add_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Normandy-WW2-v6",
+   "coalition": "red",
+   "country_id": 66,
+   "country_name": "Third Reich",
+   "category": "static",
+   "name": "Static-SK_C_28_naval_gun-2",
+   "position": {
+    "x": 160829,
+    "y": 126969
+   },
+   "units": [
+    {
+     "type": "SK_C_28_naval_gun"
+    }
+   ],
+   "for_combat_zone": "combatZone_GrisNez",
+   "keep_position": true
+  }
+ },
+ {
+  "name": "add_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Normandy-WW2-v6",
+   "coalition": "red",
+   "country_id": 66,
+   "country_name": "Third Reich",
+   "category": "static",
+   "name": "Static-Bunker-3",
+   "position": {
+    "x": 160791,
+    "y": 126903
+   },
+   "units": [
+    {
+     "type": "Bunker"
+    }
+   ],
+   "for_combat_zone": "combatZone_GrisNez",
+   "keep_position": true
+  }
+ },
+ {
+  "name": "create_combat_zone",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Normandy-WW2-v6",
+   "zone_name": "combatZone_ConvoiFalaise",
+   "position": {
+    "x": -64667,
+    "y": 10405
+   },
+   "radius": 1500,
+   "groups": [
+    {
+     "name": "Convoi",
+     "position": {
+      "x": -64667,
+      "y": 10405
+     },
+     "keep_position": true,
+     "units": [
+      {
+       "type": "Pz_IV_H",
+       "count": 2
+      },
+      {
+       "type": "Sd_Kfz_251",
+       "count": 2
+      },
+      {
+       "type": "Blitz_36-6700A",
+       "count": 4
+      },
+      {
+       "type": "flak38",
+       "count": 1
+      }
+     ],
+     "route": [
+      {
+       "x": -64667,
+       "y": 10405
+      },
+      {
+       "x": -51464,
+       "y": 6256
+      },
+      {
+       "x": -41618,
+       "y": 1513
+      }
+     ]
+    }
+   ],
+   "coalition": "red",
+   "country_id": 66,
+   "country_name": "Third Reich",
+   "category": "vehicle",
+   "combat_zone": {
+    "friendly_name": "Z06 Convoi — Falaise vers Caen",
+    "radio_group_name": "Convois",
+    "training": false,
+    "briefing": "Des renforts blindés quittent Falaise par la route de Caen pour relever la 12e SS. L'arrêter avant Caen ; le convoi porte sa propre flak de 20 mm.\nPosition : bullseye 108°/38 nm (N48°54.000' W000°11.400'). Base amie la plus proche : Beny-sur-Mer, à 26 nm."
+   }
+  }
+ },
+ {
+  "name": "create_combat_zone",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Normandy-WW2-v6",
+   "zone_name": "combatZone_ConvoiLisieux",
+   "position": {
+    "x": -37881,
+    "y": 40091
+   },
+   "radius": 1500,
+   "groups": [
+    {
+     "name": "Convoi",
+     "position": {
+      "x": -37881,
+      "y": 40091
+     },
+     "keep_position": true,
+     "units": [
+      {
+       "type": "Blitz_36-6700A",
+       "count": 6
+      },
+      {
+       "type": "Sd_Kfz_7",
+       "count": 2
+      },
+      {
+       "type": "flak38",
+       "count": 1
+      }
+     ],
+     "route": [
+      {
+       "x": -37881,
+       "y": 40091
+      },
+      {
+       "x": -36203,
+       "y": 26873
+      },
+      {
+       "x": -34684,
+       "y": 8563
+      }
+     ]
+    }
+   ],
+   "coalition": "red",
+   "country_id": 66,
+   "country_name": "Third Reich",
+   "category": "vehicle",
+   "combat_zone": {
+    "friendly_name": "Z07 Convoi — Lisieux vers Caen",
+    "radio_group_name": "Convois",
+    "training": false,
+    "briefing": "Un convoi de ravitaillement roule de Lisieux vers Caen, par la route de Mézidon. Le détruire avant le front ; camions, tracteurs et une pièce de 20 mm.\nPosition : bullseye 087°/52 nm (N49°07.800' E000°13.800'). Base amie la plus proche : Beny-sur-Mer, à 28 nm."
+   }
+  }
+ },
+ {
+  "name": "create_combat_zone",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Normandy-WW2-v6",
+   "zone_name": "combatZone_ConvoiVire",
+   "position": {
+    "x": -71865,
+    "y": -40003
+   },
+   "radius": 1500,
+   "groups": [
+    {
+     "name": "Convoi",
+     "position": {
+      "x": -71865,
+      "y": -40003
+     },
+     "keep_position": true,
+     "units": [
+      {
+       "type": "Sd_Kfz_251",
+       "count": 2
+      },
+      {
+       "type": "Blitz_36-6700A",
+       "count": 4
+      },
+      {
+       "type": "Kubelwagen_82",
+       "count": 1
+      },
+      {
+       "type": "flak38",
+       "count": 1
+      }
+     ],
+     "route": [
+      {
+       "x": -71865,
+       "y": -40003
+      },
+      {
+       "x": -60454,
+       "y": -30064
+      },
+      {
+       "x": -49161,
+       "y": -24551
+      }
+     ]
+    }
+   ],
+   "coalition": "red",
+   "country_id": 66,
+   "country_name": "Third Reich",
+   "category": "vehicle",
+   "combat_zone": {
+    "friendly_name": "Z08 Convoi — Vire vers Villers-Bocage",
+    "radio_group_name": "Convois",
+    "training": false,
+    "briefing": "Des renforts quittent Vire vers Villers-Bocage, par le bocage. Les arrêter avant le front ; deux blindés légers et une pièce de 20 mm les escortent.\nPosition : bullseye 151°/18 nm (N48°51.000' W000°52.800'). Base amie la plus proche : Bazenville, à 30 nm."
+   }
+  }
+ },
+ {
+  "name": "create_combat_zone",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Normandy-WW2-v6",
+   "zone_name": "combatZone_RocheGuyon",
+   "position": {
+    "x": -37521,
+    "y": 142308
+   },
+   "radius": 1200,
+   "groups": [
+    {
+     "name": "Z09-1",
+     "position": {
+      "x": -38179,
+      "y": 142069
+     },
+     "keep_position": true,
+     "units": [
+      {
+       "type": "flak36",
+       "name": "#command=\"-samLR, country germany\" #Z09-1"
+      }
+     ]
+    },
+    {
+     "name": "Z09-2",
+     "position": {
+      "x": -37271,
+      "y": 142741
+     },
+     "keep_position": true,
+     "units": [
+      {
+       "type": "flak37",
+       "name": "#command=\"-samSR, country germany\" #Z09-2"
+      }
+     ]
+    },
+    {
+     "name": "PC mobile",
+     "position": {
+      "x": -37371,
+      "y": 142048
+     },
+     "keep_position": true,
+     "units": [
+      {
+       "type": "Horch_901_typ_40_kfz_21",
+       "count": 3
+      },
+      {
+       "type": "Kubelwagen_82",
+       "count": 2
+      }
+     ]
+    }
+   ],
+   "coalition": "red",
+   "country_id": 66,
+   "country_name": "Third Reich",
+   "category": "vehicle",
+   "combat_zone": {
+    "friendly_name": "Z09 Frappe — état-major de La Roche-Guyon",
+    "radio_group_name": "Frappes en profondeur",
+    "training": false,
+    "briefing": "Le quartier général du groupe d'armées B, dans le château de La Roche-Guyon, au bord de la Seine : bunkers, centre de transmissions, véhicules de commandement. Tout détruire ; flak moyenne et lourde, sous la QRA de la Seine si elle est active.\nPosition : bullseye 088°/107 nm (N49°05.136' E001°37.650'). Base amie la plus proche : Beny-sur-Mer, à 82 nm."
+   }
+  }
+ },
+ {
+  "name": "add_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Normandy-WW2-v6",
+   "coalition": "red",
+   "country_id": 66,
+   "country_name": "Third Reich",
+   "category": "static",
+   "name": "Static-Command-1",
+   "position": {
+    "x": -37521,
+    "y": 142308
+   },
+   "units": [
+    {
+     "type": ".Command Center"
+    }
+   ],
+   "for_combat_zone": "combatZone_RocheGuyon",
+   "keep_position": true
+  }
+ },
+ {
+  "name": "add_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Normandy-WW2-v6",
+   "coalition": "red",
+   "country_id": 66,
+   "country_name": "Third Reich",
+   "category": "static",
+   "name": "Static-Bunker-2",
+   "position": {
+    "x": -37521,
+    "y": 142508
+   },
+   "units": [
+    {
+     "type": "Bunker"
+    }
+   ],
+   "for_combat_zone": "combatZone_RocheGuyon",
+   "keep_position": true
+  }
+ },
+ {
+  "name": "add_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Normandy-WW2-v6",
+   "coalition": "red",
+   "country_id": 66,
+   "country_name": "Third Reich",
+   "category": "static",
+   "name": "Static-Bunker-3",
+   "position": {
+    "x": -37721,
+    "y": 142308
+   },
+   "units": [
+    {
+     "type": "Bunker"
+    }
+   ],
+   "for_combat_zone": "combatZone_RocheGuyon",
+   "keep_position": true
+  }
+ },
+ {
+  "name": "add_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Normandy-WW2-v6",
+   "coalition": "red",
+   "country_id": 66,
+   "country_name": "Third Reich",
+   "category": "static",
+   "name": "Static-Bunker-4",
+   "position": {
+    "x": -37521,
+    "y": 142108
+   },
+   "units": [
+    {
+     "type": "Bunker"
+    }
+   ],
+   "for_combat_zone": "combatZone_RocheGuyon",
+   "keep_position": true
+  }
+ },
+ {
+  "name": "add_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Normandy-WW2-v6",
+   "coalition": "red",
+   "country_id": 66,
+   "country_name": "Third Reich",
+   "category": "static",
+   "name": "Static-Military-5",
+   "position": {
+    "x": -37698,
+    "y": 142485
+   },
+   "units": [
+    {
+     "type": "Military staff"
+    }
+   ],
+   "for_combat_zone": "combatZone_RocheGuyon",
+   "keep_position": true
+  }
+ },
+ {
+  "name": "add_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Normandy-WW2-v6",
+   "coalition": "red",
+   "country_id": 66,
+   "country_name": "Third Reich",
+   "category": "static",
+   "name": "Static-Barracks-6",
+   "position": {
+    "x": -37309,
+    "y": 142520
+   },
+   "units": [
+    {
+     "type": "Barracks 2"
+    }
+   ],
+   "for_combat_zone": "combatZone_RocheGuyon",
+   "keep_position": true
+  }
+ },
+ {
+  "name": "create_combat_zone",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Normandy-WW2-v6",
+   "zone_name": "combatZone_TriageArgentan",
+   "position": {
+    "x": -81349,
+    "y": 23902
+   },
+   "radius": 1500,
+   "groups": [
+    {
+     "name": "Z10-1",
+     "position": {
+      "x": -81913,
+      "y": 23697
+     },
+     "keep_position": true,
+     "units": [
+      {
+       "type": "flak37",
+       "name": "#command=\"-samSR, country germany\" #Z10-1"
+      }
+     ]
+    },
+    {
+     "name": "Z10-2",
+     "position": {
+      "x": -80879,
+      "y": 24073
+     },
+     "keep_position": true,
+     "units": [
+      {
+       "type": "flak38",
+       "name": "#command=\"-aaa, defense 2, country germany\" #Z10-2"
+      }
+     ]
+    }
+   ],
+   "coalition": "red",
+   "country_id": 66,
+   "country_name": "Third Reich",
+   "category": "vehicle",
+   "combat_zone": {
+    "friendly_name": "Z10 Frappe — gare de triage d'Argentan",
+    "radio_group_name": "Frappes en profondeur",
+    "training": false,
+    "briefing": "La gare de triage d'Argentan, nœud ferroviaire qui alimente le front de Normandie : gare, entrepôts, réservoirs de carburant. Tout détruire ; flak moyenne.\nPosition : bullseye 116°/48 nm (N48°44.730' W000°00.900'). Base amie la plus proche : Beny-sur-Mer, à 37 nm."
+   }
+  }
+ },
+ {
+  "name": "add_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Normandy-WW2-v6",
+   "coalition": "red",
+   "country_id": 66,
+   "country_name": "Third Reich",
+   "category": "static",
+   "name": "Static-Railway-1",
+   "position": {
+    "x": -81349,
+    "y": 23902
+   },
+   "units": [
+    {
+     "type": "Railway station"
+    }
+   ],
+   "for_combat_zone": "combatZone_TriageArgentan",
+   "keep_position": true
+  }
+ },
+ {
+  "name": "add_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Normandy-WW2-v6",
+   "coalition": "red",
+   "country_id": 66,
+   "country_name": "Third Reich",
+   "category": "static",
+   "name": "Static-Warehouse-2",
+   "position": {
+    "x": -81196,
+    "y": 24031
+   },
+   "units": [
+    {
+     "type": "Warehouse"
+    }
+   ],
+   "for_combat_zone": "combatZone_TriageArgentan",
+   "keep_position": true
+  }
+ },
+ {
+  "name": "add_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Normandy-WW2-v6",
+   "coalition": "red",
+   "country_id": 66,
+   "country_name": "Third Reich",
+   "category": "static",
+   "name": "Static-Warehouse-3",
+   "position": {
+    "x": -81224,
+    "y": 24119
+   },
+   "units": [
+    {
+     "type": "Warehouse"
+    }
+   ],
+   "for_combat_zone": "combatZone_TriageArgentan",
+   "keep_position": true
+  }
+ },
+ {
+  "name": "add_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Normandy-WW2-v6",
+   "coalition": "red",
+   "country_id": 66,
+   "country_name": "Third Reich",
+   "category": "static",
+   "name": "Static-Warehouse-4",
+   "position": {
+    "x": -81349,
+    "y": 24202
+   },
+   "units": [
+    {
+     "type": "Warehouse"
+    }
+   ],
+   "for_combat_zone": "combatZone_TriageArgentan",
+   "keep_position": true
+  }
+ },
+ {
+  "name": "add_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Normandy-WW2-v6",
+   "coalition": "red",
+   "country_id": 66,
+   "country_name": "Third Reich",
+   "category": "static",
+   "name": "Static-Fuel-5",
+   "position": {
+    "x": -81678,
+    "y": 23782
+   },
+   "units": [
+    {
+     "type": "Fuel tank"
+    }
+   ],
+   "for_combat_zone": "combatZone_TriageArgentan",
+   "keep_position": true
+  }
+ },
+ {
+  "name": "add_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Normandy-WW2-v6",
+   "coalition": "red",
+   "country_id": 66,
+   "country_name": "Third Reich",
+   "category": "static",
+   "name": "Static-Fuel-6",
+   "position": {
+    "x": -81695,
+    "y": 23702
+   },
+   "units": [
+    {
+     "type": "Fuel tank"
+    }
+   ],
+   "for_combat_zone": "combatZone_TriageArgentan",
+   "keep_position": true
+  }
+ },
+ {
+  "name": "add_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Normandy-WW2-v6",
+   "coalition": "red",
+   "country_id": 66,
+   "country_name": "Third Reich",
+   "category": "static",
+   "name": "Static-Fuel-7",
+   "position": {
+    "x": -81694,
+    "y": 23613
+   },
+   "units": [
+    {
+     "type": "Fuel tank"
+    }
+   ],
+   "for_combat_zone": "combatZone_TriageArgentan",
+   "keep_position": true
+  }
+ },
+ {
+  "name": "create_combat_zone",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Normandy-WW2-v6",
+   "zone_name": "combatZone_Eperlecques",
+   "position": {
+    "x": 156099,
+    "y": 163695
+   },
+   "radius": 1500,
+   "groups": [
+    {
+     "name": "Z11-1",
+     "position": {
+      "x": 155347,
+      "y": 163421
+     },
+     "keep_position": true,
+     "units": [
+      {
+       "type": "flak36",
+       "name": "#command=\"-samLR, country germany\" #Z11-1"
+      }
+     ]
+    },
+    {
+     "name": "Z11-2",
+     "position": {
+      "x": 156399,
+      "y": 164215
+     },
+     "keep_position": true,
+     "units": [
+      {
+       "type": "flak37",
+       "name": "#command=\"-samSR, country germany\" #Z11-2"
+      }
+     ]
+    },
+    {
+     "name": "Z11-3",
+     "position": {
+      "x": 156349,
+      "y": 163262
+     },
+     "keep_position": true,
+     "units": [
+      {
+       "type": "flak38",
+       "name": "#command=\"-aaa, defense 2, country germany\" #Z11-3"
+      }
+     ]
+    }
+   ],
+   "coalition": "red",
+   "country_id": 66,
+   "country_name": "Third Reich",
+   "category": "vehicle",
+   "combat_zone": {
+    "friendly_name": "Z11 Frappe — blockhaus d'Éperlecques",
+    "radio_group_name": "Frappes en profondeur",
+    "training": false,
+    "briefing": "Le blockhaus d'Éperlecques, près de Saint-Omer : un énorme bunker de béton destiné au lancement des fusées V2, bâti en 1943 et déjà bombardé. Détruire le blockhaus et ses annexes ; flak lourde et moyenne, sous la QRA du Pas-de-Calais.\nPosition : bullseye 048°/160 nm (N50°48.498' E002°05.982'). Base amie la plus proche : Manston, à 43 nm."
+   }
+  }
+ },
+ {
+  "name": "add_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Normandy-WW2-v6",
+   "coalition": "red",
+   "country_id": 66,
+   "country_name": "Third Reich",
+   "category": "static",
+   "name": "Static-Bunker-1",
+   "position": {
+    "x": 156099,
+    "y": 163695
+   },
+   "units": [
+    {
+     "type": "Bunker"
+    }
+   ],
+   "for_combat_zone": "combatZone_Eperlecques",
+   "keep_position": true
+  }
+ },
+ {
+  "name": "add_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Normandy-WW2-v6",
+   "coalition": "red",
+   "country_id": 66,
+   "country_name": "Third Reich",
+   "category": "static",
+   "name": "Static-Bunker-2",
+   "position": {
+    "x": 156214,
+    "y": 163791
+   },
+   "units": [
+    {
+     "type": "Bunker"
+    }
+   ],
+   "for_combat_zone": "combatZone_Eperlecques",
+   "keep_position": true
+  }
+ },
+ {
+  "name": "add_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Normandy-WW2-v6",
+   "coalition": "red",
+   "country_id": 66,
+   "country_name": "Third Reich",
+   "category": "static",
+   "name": "Static-Hangar-3",
+   "position": {
+    "x": 156099,
+    "y": 164045
+   },
+   "units": [
+    {
+     "type": "Hangar A"
+    }
+   ],
+   "for_combat_zone": "combatZone_Eperlecques",
+   "keep_position": true
+  }
+ },
+ {
+  "name": "add_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Normandy-WW2-v6",
+   "coalition": "red",
+   "country_id": 66,
+   "country_name": "Third Reich",
+   "category": "static",
+   "name": "Static-Hangar-4",
+   "position": {
+    "x": 155962,
+    "y": 164071
+   },
+   "units": [
+    {
+     "type": "Hangar A"
+    }
+   ],
+   "for_combat_zone": "combatZone_Eperlecques",
+   "keep_position": true
+  }
+ },
+ {
+  "name": "add_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Normandy-WW2-v6",
+   "coalition": "red",
+   "country_id": 66,
+   "country_name": "Third Reich",
+   "category": "static",
+   "name": "Static-Fuel-5",
+   "position": {
+    "x": 155723,
+    "y": 163558
+   },
+   "units": [
+    {
+     "type": "Fuel tank"
+    }
+   ],
+   "for_combat_zone": "combatZone_Eperlecques",
+   "keep_position": true
+  }
+ },
+ {
+  "name": "add_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Normandy-WW2-v6",
+   "coalition": "red",
+   "country_id": 66,
+   "country_name": "Third Reich",
+   "category": "static",
+   "name": "Static-Military-6",
+   "position": {
+    "x": 155996,
+    "y": 163413
+   },
+   "units": [
+    {
+     "type": "Military staff"
+    }
+   ],
+   "for_combat_zone": "combatZone_Eperlecques",
+   "keep_position": true
+  }
+ },
+ {
+  "name": "create_combat_zone",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Normandy-WW2-v6",
+   "zone_name": "combatZone_DepotLisieux",
+   "position": {
+    "x": -36214,
+    "y": 40020
+   },
+   "radius": 1500,
+   "groups": [
+    {
+     "name": "Z12-1",
+     "position": {
+      "x": -36684,
+      "y": 39849
+     },
+     "keep_position": true,
+     "units": [
+      {
+       "type": "flak37",
+       "name": "#command=\"-samSR, country germany\" #Z12-1"
+      }
+     ]
+    },
+    {
+     "name": "Z12-2",
+     "position": {
+      "x": -35838,
+      "y": 40157
+     },
+     "keep_position": true,
+     "units": [
+      {
+       "type": "flak38",
+       "name": "#command=\"-aaa, defense 2, country germany\" #Z12-2"
+      }
+     ]
+    }
+   ],
+   "coalition": "red",
+   "country_id": 66,
+   "country_name": "Third Reich",
+   "category": "vehicle",
+   "combat_zone": {
+    "friendly_name": "Z12 Frappe — dépôts d'essence de Lisieux",
+    "radio_group_name": "Frappes en profondeur",
+    "training": false,
+    "briefing": "Les dépôts d'essence de la région de Lisieux, qui alimentent les divisions blindées du front : réservoirs, pompes, entrepôts. Tout détruire ; flak moyenne.\nPosition : bullseye 086°/52 nm (N49°08.700' E000°13.800'). Base amie la plus proche : Beny-sur-Mer, à 27 nm."
+   }
+  }
+ },
+ {
+  "name": "add_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Normandy-WW2-v6",
+   "coalition": "red",
+   "country_id": 66,
+   "country_name": "Third Reich",
+   "category": "static",
+   "name": "Static-Fuel-1",
+   "position": {
+    "x": -36084,
+    "y": 40095
+   },
+   "units": [
+    {
+     "type": "Fuel tank"
+    }
+   ],
+   "for_combat_zone": "combatZone_DepotLisieux",
+   "keep_position": true
+  }
+ },
+ {
+  "name": "add_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Normandy-WW2-v6",
+   "coalition": "red",
+   "country_id": 66,
+   "country_name": "Third Reich",
+   "category": "static",
+   "name": "Static-Fuel-2",
+   "position": {
+    "x": -36114,
+    "y": 40193
+   },
+   "units": [
+    {
+     "type": "Fuel tank"
+    }
+   ],
+   "for_combat_zone": "combatZone_DepotLisieux",
+   "keep_position": true
+  }
+ },
+ {
+  "name": "add_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Normandy-WW2-v6",
+   "coalition": "red",
+   "country_id": 66,
+   "country_name": "Third Reich",
+   "category": "static",
+   "name": "Static-Fuel-3",
+   "position": {
+    "x": -36214,
+    "y": 40170
+   },
+   "units": [
+    {
+     "type": "Fuel tank"
+    }
+   ],
+   "for_combat_zone": "combatZone_DepotLisieux",
+   "keep_position": true
+  }
+ },
+ {
+  "name": "add_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Normandy-WW2-v6",
+   "coalition": "red",
+   "country_id": 66,
+   "country_name": "Third Reich",
+   "category": "static",
+   "name": "Static-Fuel-4",
+   "position": {
+    "x": -36324,
+    "y": 40211
+   },
+   "units": [
+    {
+     "type": "Fuel tank"
+    }
+   ],
+   "for_combat_zone": "combatZone_DepotLisieux",
+   "keep_position": true
+  }
+ },
+ {
+  "name": "add_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Normandy-WW2-v6",
+   "coalition": "red",
+   "country_id": 66,
+   "country_name": "Third Reich",
+   "category": "static",
+   "name": "Static-Fuel-5",
+   "position": {
+    "x": -36439,
+    "y": 40150
+   },
+   "units": [
+    {
+     "type": "Fuel tank"
+    }
+   ],
+   "for_combat_zone": "combatZone_DepotLisieux",
+   "keep_position": true
+  }
+ },
+ {
+  "name": "add_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Normandy-WW2-v6",
+   "coalition": "red",
+   "country_id": 66,
+   "country_name": "Third Reich",
+   "category": "static",
+   "name": "Static-Pump-6",
+   "position": {
+    "x": -36274,
+    "y": 39916
+   },
+   "units": [
+    {
+     "type": "Pump station"
+    }
+   ],
+   "for_combat_zone": "combatZone_DepotLisieux",
+   "keep_position": true
+  }
+ },
+ {
+  "name": "add_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Normandy-WW2-v6",
+   "coalition": "red",
+   "country_id": 66,
+   "country_name": "Third Reich",
+   "category": "static",
+   "name": "Static-Warehouse-7",
+   "position": {
+    "x": -36114,
+    "y": 39847
+   },
+   "units": [
+    {
+     "type": "Warehouse"
+    }
+   ],
+   "for_combat_zone": "combatZone_DepotLisieux",
+   "keep_position": true
+  }
+ },
+ {
+  "name": "add_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Normandy-WW2-v6",
+   "coalition": "red",
+   "country_id": 66,
+   "country_name": "Third Reich",
+   "category": "static",
+   "name": "Static-Warehouse-8",
+   "position": {
+    "x": -36015,
+    "y": 39853
+   },
+   "units": [
+    {
+     "type": "Warehouse"
+    }
+   ],
+   "for_combat_zone": "combatZone_DepotLisieux",
+   "keep_position": true
+  }
+ },
+ {
+  "name": "create_combat_zone",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Normandy-WW2-v6",
+   "zone_name": "combatZone_Triqueville",
+   "position": {
+    "x": -14227,
+    "y": 56291
+   },
+   "radius": 1500,
+   "groups": [
+    {
+     "name": "Z13-1",
+     "position": {
+      "x": -14227,
+      "y": 57191
+     },
+     "keep_position": true,
+     "units": [
+      {
+       "type": "flak37",
+       "name": "#command=\"-samSR, country germany\" #Z13-1"
+      }
+     ]
+    },
+    {
+     "name": "Z13-2",
+     "position": {
+      "x": -14227,
+      "y": 55491
+     },
+     "keep_position": true,
+     "units": [
+      {
+       "type": "flak36",
+       "name": "#command=\"-samLR, country germany\" #Z13-2"
+      }
+     ]
+    }
+   ],
+   "coalition": "red",
+   "country_id": 66,
+   "country_name": "Third Reich",
+   "category": "vehicle",
+   "combat_zone": {
+    "friendly_name": "Z13 OCA — base aérienne de Triqueville",
+    "radio_group_name": "Bases aériennes",
+    "training": false,
+    "briefing": "La base aérienne de Triqueville, au sud de l'estuaire de la Seine : chasseurs au parking, hangars et carburant. Tout détruire au sol ; flak moyenne et lourde, sous la QRA de la Seine.\nPosition : bullseye 076°/63 nm (N49°20.158' E000°27.991'). Base amie la plus proche : Beny-sur-Mer, à 35 nm."
+   }
+  }
+ },
+ {
+  "name": "add_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Normandy-WW2-v6",
+   "coalition": "red",
+   "country_id": 66,
+   "country_name": "Third Reich",
+   "category": "static",
+   "name": "Static-FW-190A8-1",
+   "position": {
+    "x": -13927,
+    "y": 56291
+   },
+   "units": [
+    {
+     "type": "FW-190A8"
+    }
+   ],
+   "for_combat_zone": "combatZone_Triqueville",
+   "keep_position": true
+  }
+ },
+ {
+  "name": "add_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Normandy-WW2-v6",
+   "coalition": "red",
+   "country_id": 66,
+   "country_name": "Third Reich",
+   "category": "static",
+   "name": "Static-FW-190A8-2",
+   "position": {
+    "x": -13898,
+    "y": 56379
+   },
+   "units": [
+    {
+     "type": "FW-190A8"
+    }
+   ],
+   "for_combat_zone": "combatZone_Triqueville",
+   "keep_position": true
+  }
+ },
+ {
+  "name": "add_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Normandy-WW2-v6",
+   "coalition": "red",
+   "country_id": 66,
+   "country_name": "Third Reich",
+   "category": "static",
+   "name": "Static-Bf-109K-4-3",
+   "position": {
+    "x": -13997,
+    "y": 56484
+   },
+   "units": [
+    {
+     "type": "Bf-109K-4"
+    }
+   ],
+   "for_combat_zone": "combatZone_Triqueville",
+   "keep_position": true
+  }
+ },
+ {
+  "name": "add_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Normandy-WW2-v6",
+   "coalition": "red",
+   "country_id": 66,
+   "country_name": "Third Reich",
+   "category": "static",
+   "name": "Static-Bf-109K-4-4",
+   "position": {
+    "x": -14008,
+    "y": 56552
+   },
+   "units": [
+    {
+     "type": "Bf-109K-4"
+    }
+   ],
+   "for_combat_zone": "combatZone_Triqueville",
+   "keep_position": true
+  }
+ },
+ {
+  "name": "add_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Normandy-WW2-v6",
+   "coalition": "red",
+   "country_id": 66,
+   "country_name": "Third Reich",
+   "category": "static",
+   "name": "Static-Hangar-5",
+   "position": {
+    "x": -13967,
+    "y": 56141
+   },
+   "units": [
+    {
+     "type": "Hangar A"
+    }
+   ],
+   "for_combat_zone": "combatZone_Triqueville",
+   "keep_position": true
+  }
+ },
+ {
+  "name": "add_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Normandy-WW2-v6",
+   "coalition": "red",
+   "country_id": 66,
+   "country_name": "Third Reich",
+   "category": "static",
+   "name": "Static-Fuel-6",
+   "position": {
+    "x": -14627,
+    "y": 56291
+   },
+   "units": [
+    {
+     "type": "Fuel tank"
+    }
+   ],
+   "for_combat_zone": "combatZone_Triqueville",
+   "keep_position": true
+  }
+ },
+ {
+  "name": "create_combat_zone",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Normandy-WW2-v6",
+   "zone_name": "combatZone_BeaumontLeRoger",
+   "position": {
+    "x": -39697,
+    "y": 82226
+   },
+   "radius": 1500,
+   "groups": [
+    {
+     "name": "Z14-1",
+     "position": {
+      "x": -39697,
+      "y": 83126
+     },
+     "keep_position": true,
+     "units": [
+      {
+       "type": "flak37",
+       "name": "#command=\"-samSR, country germany\" #Z14-1"
+      }
+     ]
+    },
+    {
+     "name": "Z14-2",
+     "position": {
+      "x": -39697,
+      "y": 81426
+     },
+     "keep_position": true,
+     "units": [
+      {
+       "type": "flak36",
+       "name": "#command=\"-samLR, country germany\" #Z14-2"
+      }
+     ]
+    }
+   ],
+   "coalition": "red",
+   "country_id": 66,
+   "country_name": "Third Reich",
+   "category": "vehicle",
+   "combat_zone": {
+    "friendly_name": "Z14 OCA — base aérienne de Beaumont-le-Roger",
+    "radio_group_name": "Bases aériennes",
+    "training": false,
+    "briefing": "La base aérienne de Beaumont-le-Roger, à l'arrière du front : bombardiers et chasseurs au parking, hangars et carburant. Tout détruire au sol ; flak moyenne et lourde.\nPosition : bullseye 089°/75 nm (N49°05.767' E000°48.308'). Base amie la plus proche : Beny-sur-Mer, à 50 nm."
+   }
+  }
+ },
+ {
+  "name": "add_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Normandy-WW2-v6",
+   "coalition": "red",
+   "country_id": 66,
+   "country_name": "Third Reich",
+   "category": "static",
+   "name": "Static-Ju-88A4-1",
+   "position": {
+    "x": -39397,
+    "y": 82226
+   },
+   "units": [
+    {
+     "type": "Ju-88A4"
+    }
+   ],
+   "for_combat_zone": "combatZone_BeaumontLeRoger",
+   "keep_position": true
+  }
+ },
+ {
+  "name": "add_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Normandy-WW2-v6",
+   "coalition": "red",
+   "country_id": 66,
+   "country_name": "Third Reich",
+   "category": "static",
+   "name": "Static-Ju-88A4-2",
+   "position": {
+    "x": -39340,
+    "y": 82356
+   },
+   "units": [
+    {
+     "type": "Ju-88A4"
+    }
+   ],
+   "for_combat_zone": "combatZone_BeaumontLeRoger",
+   "keep_position": true
+  }
+ },
+ {
+  "name": "add_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Normandy-WW2-v6",
+   "coalition": "red",
+   "country_id": 66,
+   "country_name": "Third Reich",
+   "category": "static",
+   "name": "Static-Ju-88A4-3",
+   "position": {
+    "x": -39468,
+    "y": 82419
+   },
+   "units": [
+    {
+     "type": "Ju-88A4"
+    }
+   ],
+   "for_combat_zone": "combatZone_BeaumontLeRoger",
+   "keep_position": true
+  }
+ },
+ {
+  "name": "add_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Normandy-WW2-v6",
+   "coalition": "red",
+   "country_id": 66,
+   "country_name": "Third Reich",
+   "category": "static",
+   "name": "Static-FW-190A8-4",
+   "position": {
+    "x": -39527,
+    "y": 82520
+   },
+   "units": [
+    {
+     "type": "FW-190A8"
+    }
+   ],
+   "for_combat_zone": "combatZone_BeaumontLeRoger",
+   "keep_position": true
+  }
+ },
+ {
+  "name": "add_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Normandy-WW2-v6",
+   "coalition": "red",
+   "country_id": 66,
+   "country_name": "Third Reich",
+   "category": "static",
+   "name": "Static-Hangar-5",
+   "position": {
+    "x": -39997,
+    "y": 82226
+   },
+   "units": [
+    {
+     "type": "Hangar A"
+    }
+   ],
+   "for_combat_zone": "combatZone_BeaumontLeRoger",
+   "keep_position": true
+  }
+ },
+ {
+  "name": "add_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Normandy-WW2-v6",
+   "coalition": "red",
+   "country_id": 66,
+   "country_name": "Third Reich",
+   "category": "static",
+   "name": "Static-Fuel-6",
+   "position": {
+    "x": -40073,
+    "y": 82089
+   },
+   "units": [
+    {
+     "type": "Fuel tank"
+    }
+   ],
+   "for_combat_zone": "combatZone_BeaumontLeRoger",
+   "keep_position": true
+  }
+ },
+ {
+  "name": "create_combat_zone",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Normandy-WW2-v6",
+   "zone_name": "combatZone_VedettesLeHavre",
+   "position": {
+    "x": 5917,
+    "y": 22272
+   },
+   "radius": 6500,
+   "groups": [
+    {
+     "name": "Vedettes",
+     "position": {
+      "x": 5917,
+      "y": 22272
+     },
+     "keep_position": true,
+     "patrol": true,
+     "units": [
+      {
+       "type": "Schnellboot_type_S130",
+       "count": 4
+      }
+     ],
+     "route": [
+      {
+       "x": 5917,
+       "y": 22272
+      },
+      {
+       "x": 11388,
+       "y": 19881
+      }
+     ]
+    }
+   ],
+   "coalition": "red",
+   "country_id": 66,
+   "country_name": "Third Reich",
+   "category": "ship",
+   "combat_zone": {
+    "friendly_name": "Z15 Antinavire — vedettes lance-torpilles du Havre",
+    "radio_group_name": "Antinavire",
+    "training": false,
+    "briefing": "Les vedettes lance-torpilles de la 5e flottille de S-boote, qui sortent du Havre pour attaquer les convois de la Manche, et la batterie côtière du cap de la Hève. Couler les vedettes ; flak de bord et batterie côtière (portée de 20 km environ pour les canons, sans menace pour les avions).\nPosition : bullseye 058°/50 nm (N49°31.800' E000°00.600'). Base amie la plus proche : Beny-sur-Mer, à 22 nm."
+   }
+  }
+ },
+ {
+  "name": "add_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Normandy-WW2-v6",
+   "coalition": "red",
+   "country_id": 66,
+   "country_name": "Third Reich",
+   "category": "vehicle",
+   "name": "Batterie Hève",
+   "position": {
+    "x": 3884,
+    "y": 27065
+   },
+   "units": [
+    {
+     "type": "flak37",
+     "count": 2
+    },
+    {
+     "type": "SK_C_28_naval_gun",
+     "count": 2
+    }
+   ],
+   "for_combat_zone": "combatZone_VedettesLeHavre",
+   "keep_position": true
+  }
+ },
+ {
+  "name": "create_combat_zone",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Normandy-WW2-v6",
+   "zone_name": "combatZone_ConvoiCotier",
+   "position": {
+    "x": 47922,
+    "y": 41443
+   },
+   "radius": 4000,
+   "groups": [
+    {
+     "name": "Convoi",
+     "position": {
+      "x": 47922,
+      "y": 41443
+     },
+     "keep_position": true,
+     "patrol": true,
+     "units": [
+      {
+       "type": "Dry-cargo ship-1",
+       "count": 2
+      },
+      {
+       "type": "Dry-cargo ship-2",
+       "count": 1
+      },
+      {
+       "type": "Schnellboot_type_S130",
+       "count": 2
+      }
+     ],
+     "route": [
+      {
+       "x": 47922,
+       "y": 41443
+      },
+      {
+       "x": 54301,
+       "y": 59128
+      }
+     ]
+    }
+   ],
+   "coalition": "red",
+   "country_id": 66,
+   "country_name": "Third Reich",
+   "category": "ship",
+   "combat_zone": {
+    "friendly_name": "Z16 Antinavire — convoi côtier vers Dieppe",
+    "radio_group_name": "Antinavire",
+    "training": false,
+    "briefing": "Un convoi de cargos escortés longe la côte du Havre vers Dieppe, avec deux vedettes lance-torpilles. Couler les cargos ; flak de bord sur les escorteurs.\nPosition : bullseye 047°/72 nm (N49°54.000' E000°18.000'). Base amie la plus proche : Beny-sur-Mer, à 46 nm."
+   }
+  }
+ }
+]

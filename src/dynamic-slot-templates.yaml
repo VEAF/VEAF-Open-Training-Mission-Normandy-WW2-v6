@@ -1,0 +1,790 @@
+# Open Training Normandie WW2 (6 juillet 1944) : catalogue livré par veaf-tools 6.29.0, réduit par
+# tools/gen_14_slots_dynamiques.py aux appareils de 1944 de chaque camp (bleu : P-47D, P-51D, Spitfire LF IX, Mosquito ;
+# rouge : Bf 109 K-4, Fw 190 A-8 et D-9), sans hélicoptère. Ce fichier n'est donc plus vide : le catalogue livré n'est plus
+# lu, une mise à jour de veaf-tools n'y ajoute rien.
+airplanes:
+  coalitions:
+    blue:
+      CJTF Blue:
+        Mosquito Template:
+          communication: true
+          dynSpawnTemplate: true
+          frequency: 124
+          groupId: 491
+          hidden: true
+          lateActivation: true
+          modulation: 0
+          name: Mosquito Template
+          radioSet: false
+          route:
+            points:
+              1:
+                ETA: 0
+                ETA_locked: true
+                action: Turning Point
+                alt: 69
+                alt_type: BARO
+                formation_template: ''
+                name: Mosquito Template
+                speed: 113.88888888889
+                speed_locked: true
+                task:
+                  id: ComboTask
+                  params:
+                    tasks:
+                      1:
+                        auto: true
+                        enabled: true
+                        id: WrappedAction
+                        number: 1
+                        params:
+                          action:
+                            id: Option
+                            params:
+                              name: 35
+                              value: true
+                type: Turning Point
+                x: 0
+                y: 0
+          start_time: 0
+          task: Nothing
+          taskSelected: true
+          tasks: {}
+          uncontrollable: false
+          uncontrolled: false
+          units:
+            1:
+              AddPropAircraft:
+                Flare_Gun: 1
+                ResinLights: 0.15
+                SoloFlight: false
+              alt: 69
+              alt_type: BARO
+              callsign:
+                1: 7
+                2: 5
+                name: Chevy55
+                3: 5
+              heading: 2.8099800957109
+              livery_id: 305sqn july
+              name: 'Mosquito Template #01'
+              onboard_num: '010'
+              payload:
+                ammo_type: 1
+                chaff: 0
+                flare: 0
+                fuel: 996.6432
+                gun: 100
+                pylons: {}
+              psi: -2.8099800957109
+              skill: Client
+              speed: 113.88888888889
+              type: MosquitoFBMkVI
+              unitId: 575
+              x: 0
+              y: 0
+          x: 0
+          y: 0
+        P-47D Template:
+          communication: true
+          dynSpawnTemplate: true
+          frequency: 124
+          groupId: 518
+          hidden: true
+          lateActivation: true
+          modulation: 0
+          name: P-47D Template
+          radioSet: false
+          route:
+            points:
+              1:
+                ETA: 0
+                ETA_locked: true
+                action: Turning Point
+                alt: 30
+                alt_type: BARO
+                formation_template: ''
+                name: P-47D Template
+                speed: 123.33333333333
+                speed_locked: true
+                task:
+                  id: ComboTask
+                  params:
+                    tasks:
+                      1:
+                        auto: true
+                        enabled: true
+                        id: WrappedAction
+                        number: 1
+                        params:
+                          action:
+                            id: Option
+                            params:
+                              name: 35
+                              value: true
+                type: Turning Point
+                x: 0
+                y: 0
+          start_time: 0
+          task: Nothing
+          taskSelected: true
+          tasks: {}
+          uncontrollable: false
+          uncontrolled: false
+          units:
+            1:
+              AddPropAircraft:
+                WaterTankContents: 1
+              alt: 30
+              alt_type: BARO
+              callsign:
+                1: 7
+                2: 8
+                name: Chevy89
+                3: 9
+              heading: 2.8099800957109
+              livery_id: usaf standard
+              name: 'P-47D Template #01'
+              onboard_num: '017'
+              payload:
+                ammo_type: 1
+                chaff: 0
+                flare: 0
+                fuel: 664
+                gun: 100
+                pylons: {}
+              psi: -2.8099800957109
+              skill: Client
+              speed: 123.33333333333
+              type: P-47D-30
+              unitId: 603
+              x: 0
+              y: 0
+          x: 0
+          y: 0
+        P-47D-40 Template:
+          communication: false
+          dynSpawnTemplate: true
+          frequency: 121.5
+          groupId: 537
+          hidden: true
+          lateActivation: true
+          modulation: 0
+          name: P-47D-40 Template
+          radioSet: true
+          route:
+            points:
+              1:
+                ETA: 0
+                ETA_locked: true
+                action: Turning Point
+                alt: 30
+                alt_type: BARO
+                formation_template: ''
+                name: P-47D-40 Template
+                speed: 123.33333333333
+                speed_locked: true
+                task:
+                  id: ComboTask
+                  params:
+                    tasks:
+                    - auto: true
+                      enabled: true
+                      id: EngageTargets
+                      key: CAP
+                      number: 1
+                      params:
+                        priority: 0
+                        targetTypes:
+                        - Air
+                    - auto: true
+                      enabled: true
+                      id: WrappedAction
+                      number: 2
+                      params:
+                        action:
+                          id: Option
+                          params:
+                            name: 17
+                            value: true
+                    - auto: true
+                      enabled: true
+                      id: WrappedAction
+                      number: 3
+                      params:
+                        action:
+                          id: Option
+                          params:
+                            name: 18
+                            value: 4
+                    - auto: true
+                      enabled: true
+                      id: WrappedAction
+                      number: 4
+                      params:
+                        action:
+                          id: Option
+                          params:
+                            name: 19
+                            value: true
+                    - auto: true
+                      enabled: true
+                      id: WrappedAction
+                      number: 5
+                      params:
+                        action:
+                          id: Option
+                          params:
+                            name: 21
+                            noTargetTypes:
+                            - Fighters
+                            - Multirole fighters
+                            - Bombers
+                            - Helicopters
+                            - UAVs
+                            - Infantry
+                            - Fortifications
+                            - Tanks
+                            - IFV
+                            - APC
+                            - Artillery
+                            - Unarmed vehicles
+                            - AAA
+                            - SR SAM
+                            - MR SAM
+                            - LR SAM
+                            - Aircraft Carriers
+                            - Cruisers
+                            - Destroyers
+                            - Frigates
+                            - Corvettes
+                            - Light armed ships
+                            - Unarmed ships
+                            - Submarines
+                            - Cruise missiles
+                            - Antiship Missiles
+                            - AA Missiles
+                            - AG Missiles
+                            - SA Missiles
+                            targetTypes: {}
+                            value: none;
+                    - auto: true
+                      enabled: true
+                      id: WrappedAction
+                      number: 6
+                      params:
+                        action:
+                          id: Option
+                          params:
+                            name: 35
+                            value: true
+                type: Turning Point
+                x: 0
+                y: 0
+          start_time: 0
+          task: CAP
+          tasks: {}
+          uncontrollable: false
+          uncontrolled: false
+          units:
+            1:
+              AddPropAircraft:
+                WaterTankContents: 1
+              alt: 30
+              alt_type: BARO
+              callsign:
+                1: 5
+                2: 4
+                3: 1
+                name: Dodge41
+              heading: 2.8099800957109
+              livery_id: usaf standard
+              name: 'P-47D-40 Template #01'
+              onboard_num: '021'
+              payload:
+                ammo_type: 1
+                chaff: 0
+                flare: 0
+                fuel: 676.704
+                gun: 100
+                pylons: {}
+              psi: -2.8099800957109
+              skill: Client
+              speed: 123.33333333333
+              type: P-47D-40
+              unitId: 622
+              x: 0
+              y: 0
+          x: 0
+          y: 0
+        P-51D Template:
+          communication: true
+          dynSpawnTemplate: true
+          frequency: 124
+          groupId: 495
+          hidden: true
+          lateActivation: true
+          modulation: 0
+          name: P-51D Template
+          radioSet: false
+          route:
+            points:
+              1:
+                ETA: 0
+                ETA_locked: true
+                action: Turning Point
+                alt: 30
+                alt_type: BARO
+                formation_template: ''
+                name: P-51D Template
+                properties:
+                  addopt: {}
+                speed: 138.88888888889
+                speed_locked: true
+                task:
+                  id: ComboTask
+                  params:
+                    tasks:
+                      1:
+                        auto: true
+                        enabled: true
+                        id: WrappedAction
+                        number: 1
+                        params:
+                          action:
+                            id: Option
+                            params:
+                              name: 35
+                              value: true
+                type: Turning Point
+                x: 0
+                y: 0
+          start_time: 0
+          task: Nothing
+          taskSelected: true
+          tasks: {}
+          uncontrollable: false
+          uncontrolled: false
+          units:
+            1:
+              alt: 30
+              alt_type: BARO
+              callsign:
+                1: 7
+                2: 5
+                name: Chevy59
+                3: 9
+              heading: 2.8099800957109
+              livery_id: USAF 364th FS, HURRY HOME HONEY
+              name: 'P-51D Template #01'
+              onboard_num: '033'
+              payload:
+                ammo_type: 1
+                chaff: 0
+                flare: 0
+                fuel: 497.76
+                gun: 100
+                pylons: {}
+              psi: -2.8099800957109
+              skill: Client
+              speed: 138.88888888889
+              type: P-51D
+              unitId: 579
+              x: 0
+              y: 0
+          x: 0
+          y: 0
+        P-51D-30 Template:
+          communication: false
+          dynSpawnTemplate: true
+          frequency: 121.5
+          groupId: 539
+          hidden: true
+          lateActivation: true
+          modulation: 0
+          name: P-51D-30 Template
+          radioSet: true
+          route:
+            points:
+              1:
+                ETA: 0
+                ETA_locked: true
+                action: Turning Point
+                alt: 30
+                alt_type: BARO
+                formation_template: ''
+                name: P-51D-30 Template
+                properties:
+                  addopt: {}
+                speed: 123.33333333333
+                speed_locked: true
+                task:
+                  id: ComboTask
+                  params:
+                    tasks:
+                    - auto: true
+                      enabled: true
+                      id: WrappedAction
+                      number: 1
+                      params:
+                        action:
+                          id: Option
+                          params:
+                            name: 35
+                            value: true
+                type: Turning Point
+                x: 0
+                y: 0
+          start_time: 0
+          task: Nothing
+          taskSelected: true
+          tasks: {}
+          uncontrollable: false
+          uncontrolled: false
+          units:
+            1:
+              alt: 30
+              alt_type: BARO
+              callsign:
+                1: 6
+                2: 4
+                3: 1
+                name: Ford41
+              heading: 2.8099800957109
+              livery_id: USAF 363rd FS, 357th FG DESERT RAT
+              name: 'P-51D-30 Template #01'
+              onboard_num: '023'
+              payload:
+                ammo_type: 1
+                chaff: 0
+                flare: 0
+                fuel: 497.76
+                gun: 100
+                pylons: {}
+              psi: -2.8099800957109
+              skill: Client
+              speed: 123.33333333333
+              type: P-51D-30-NA
+              unitId: 624
+              x: 0
+              y: 0
+          x: 0
+          y: 0
+        Spitfire Template:
+          communication: true
+          dynSpawnTemplate: true
+          frequency: 124
+          groupId: 501
+          hidden: true
+          lateActivation: true
+          modulation: 0
+          name: Spitfire Template
+          radioSet: false
+          route:
+            points:
+              1:
+                ETA: 0
+                ETA_locked: true
+                action: Turning Point
+                alt: 30
+                alt_type: BARO
+                formation_template: ''
+                name: Spitfire Template
+                speed: 138.88888888889
+                speed_locked: true
+                task:
+                  id: ComboTask
+                  params:
+                    tasks:
+                      1:
+                        auto: true
+                        enabled: true
+                        id: WrappedAction
+                        number: 1
+                        params:
+                          action:
+                            id: Option
+                            params:
+                              name: 35
+                              value: true
+                type: Turning Point
+                x: 0
+                y: 0
+          start_time: 0
+          task: Nothing
+          taskSelected: true
+          tasks: {}
+          uncontrollable: false
+          uncontrolled: false
+          units:
+            1:
+              alt: 30
+              alt_type: BARO
+              callsign:
+                1: 7
+                2: 6
+                name: Chevy67
+                3: 7
+              heading: 2.8099800957109
+              livery_id: raf standard
+              name: 'Spitfire Template #01'
+              onboard_num: '011'
+              payload:
+                ammo_type: 1
+                chaff: 0
+                flare: 0
+                fuel: 207
+                gun: 100
+                pylons: {}
+              psi: -2.8099800957109
+              skill: Client
+              speed: 138.88888888889
+              type: SpitfireLFMkIX
+              unitId: 585
+              x: 0
+              y: 0
+          x: 0
+          y: 0
+    red:
+      CJTF Red:
+        Bf-109K4 Template Red:
+          communication: true
+          dynSpawnTemplate: true
+          frequency: 40
+          groupId: 300
+          hidden: true
+          lateActivation: true
+          modulation: 0
+          name: Bf-109K4 Template Red
+          radioSet: false
+          route:
+            points:
+              1:
+                ETA: 0
+                ETA_locked: true
+                action: Turning Point
+                alt: 30
+                alt_type: BARO
+                formation_template: ''
+                name: Bf-109K4 Template Red
+                speed: 125
+                speed_locked: true
+                task:
+                  id: ComboTask
+                  params:
+                    tasks:
+                      1:
+                        auto: true
+                        enabled: true
+                        id: WrappedAction
+                        number: 1
+                        params:
+                          action:
+                            id: Option
+                            params:
+                              name: 35
+                              value: true
+                type: Turning Point
+                x: 0
+                y: 0
+          start_time: 0
+          task: Nothing
+          taskSelected: true
+          tasks: {}
+          uncontrollable: false
+          uncontrolled: false
+          units:
+            1:
+              AddPropAircraft:
+                Flare_Gun: 1
+                MW50TankContents: 1
+              alt: 30
+              alt_type: BARO
+              callsign:
+                1: 3
+                2: 9
+                name: Uzi92
+                3: 2
+              civil_plane: true
+              heading: 2.8099800957109
+              livery_id: Bf-109 K4 USSR Green
+              name: 'Bf-109K4 Template Red #01'
+              onboard_num: '056'
+              payload:
+                ammo_type: 1
+                chaff: 0
+                flare: 0
+                fuel: 296
+                gun: 0
+                pylons: {}
+              psi: -2.8099800957109
+              skill: Client
+              speed: 125
+              type: Bf-109K-4
+              unitId: 198
+              x: 0
+              y: 0
+          x: 0
+          y: 0
+        FW-190A8 Template Red:
+          communication: true
+          dynSpawnTemplate: true
+          frequency: 38.4
+          groupId: 294
+          hidden: true
+          lateActivation: true
+          modulation: 0
+          name: FW-190A8 Template Red
+          radioSet: false
+          route:
+            points:
+              1:
+                ETA: 0
+                ETA_locked: true
+                action: Turning Point
+                alt: 30
+                alt_type: BARO
+                formation_template: ''
+                name: FW-190A8 Template Red
+                speed: 125
+                speed_locked: true
+                task:
+                  id: ComboTask
+                  params:
+                    tasks:
+                      1:
+                        auto: true
+                        enabled: true
+                        id: WrappedAction
+                        number: 1
+                        params:
+                          action:
+                            id: Option
+                            params:
+                              name: 35
+                              value: true
+                type: Turning Point
+                x: 0
+                y: 0
+          start_time: 0
+          task: Nothing
+          taskSelected: true
+          tasks: {}
+          uncontrollable: false
+          uncontrolled: false
+          units:
+            1:
+              AddPropAircraft:
+                FW_MW50TankContents: 0
+              alt: 30
+              alt_type: BARO
+              callsign:
+                1: 3
+                2: 8
+                name: Uzi87
+                3: 7
+              civil_plane: true
+              heading: 2.8099800957109
+              livery_id: Captured_RA
+              name: 'FW-190A8 Template Red #01'
+              onboard_num: '051'
+              payload:
+                ammo_type: 1
+                chaff: 0
+                flare: 0
+                fuel: 409
+                gun: 0
+                pylons: {}
+              psi: -2.8099800957109
+              skill: Client
+              speed: 125
+              type: FW-190A8
+              unitId: 195
+              x: 0
+              y: 0
+          x: 0
+          y: 0
+        FW-190D9 Template Red:
+          communication: true
+          dynSpawnTemplate: true
+          frequency: 38.4
+          groupId: 349
+          hidden: true
+          lateActivation: true
+          modulation: 0
+          name: FW-190D9 Template Red
+          radioSet: false
+          route:
+            points:
+              1:
+                ETA: 0
+                ETA_locked: true
+                action: Turning Point
+                alt: 30
+                alt_type: BARO
+                formation_template: ''
+                name: FW-190D9 Template Red
+                speed: 125
+                speed_locked: true
+                task:
+                  id: ComboTask
+                  params:
+                    tasks:
+                      1:
+                        auto: true
+                        enabled: true
+                        id: WrappedAction
+                        number: 1
+                        params:
+                          action:
+                            id: Option
+                            params:
+                              name: 35
+                              value: true
+                type: Turning Point
+                x: 0
+                y: 0
+          start_time: 0
+          task: Nothing
+          taskSelected: true
+          tasks: {}
+          uncontrollable: false
+          uncontrolled: false
+          units:
+            1:
+              AddPropAircraft:
+                FW_MW50TankContents: 1
+              alt: 30
+              alt_type: BARO
+              callsign:
+                1: 5
+                2: 1
+                name: Dodge17
+                3: 7
+              civil_plane: true
+              heading: 2.8099800957109
+              livery_id: FW-190D9_USSR
+              name: 'FW-190D9 Template Red #01'
+              onboard_num: '046'
+              payload:
+                ammo_type: 1
+                chaff: 0
+                flare: 0
+                fuel: 388
+                gun: 0
+                pylons: {}
+              psi: -2.8099800957109
+              skill: Client
+              speed: 125
+              type: FW-190D9
+              unitId: 281
+              x: 0
+              y: 0
+          x: 0
+          y: 0
+helicopters:
+  coalitions:
+    blue:
+      CJTF Blue: {}
+    red:
+      CJTF Red: {}

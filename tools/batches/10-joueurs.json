@@ -1,0 +1,600 @@
+[
+ {
+  "name": "add_trigger_zone",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Normandy-WW2-v6",
+   "name": "SANCT-Angleterre",
+   "position": {
+    "x": 150334,
+    "y": -51221
+   },
+   "radius": 50000
+  }
+ },
+ {
+  "name": "add_trigger_zone",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Normandy-WW2-v6",
+   "name": "SANCT-Evreux",
+   "position": {
+    "x": -46155,
+    "y": 112457
+   },
+   "radius": 25000
+  }
+ },
+ {
+  "name": "add_trigger_zone",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Normandy-WW2-v6",
+   "name": "Arene",
+   "position": {
+    "x": 75000,
+    "y": -95000
+   },
+   "radius": 37000
+  }
+ },
+ {
+  "name": "add_air_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Normandy-WW2-v6",
+   "coalition": "blue",
+   "country_id": 2,
+   "country_name": "USA",
+   "name": "Arène bleue P-51D",
+   "unit_type": "P-51D",
+   "count": 2,
+   "start": "air",
+   "position": {
+    "x": 55000,
+    "y": -96500
+   },
+   "altitude_ft": 15000,
+   "speed_kt": 250,
+   "heading_deg": 0,
+   "skill": "Client",
+   "task": "CAP"
+  }
+ },
+ {
+  "name": "add_air_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Normandy-WW2-v6",
+   "coalition": "blue",
+   "country_id": 4,
+   "country_name": "UK",
+   "name": "Arène bleue Spitfire LF IX",
+   "unit_type": "SpitfireLFMkIX",
+   "count": 2,
+   "start": "air",
+   "position": {
+    "x": 55000,
+    "y": -93500
+   },
+   "altitude_ft": 15000,
+   "speed_kt": 250,
+   "heading_deg": 0,
+   "skill": "Client",
+   "task": "CAP"
+  }
+ },
+ {
+  "name": "add_air_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Normandy-WW2-v6",
+   "coalition": "blue",
+   "country_id": 2,
+   "country_name": "USA",
+   "name": "Arène bleue P-47D",
+   "unit_type": "P-47D-30",
+   "count": 2,
+   "start": "air",
+   "position": {
+    "x": 55000,
+    "y": -90500
+   },
+   "altitude_ft": 15000,
+   "speed_kt": 250,
+   "heading_deg": 0,
+   "skill": "Client",
+   "task": "CAP"
+  }
+ },
+ {
+  "name": "add_air_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Normandy-WW2-v6",
+   "coalition": "red",
+   "country_id": 66,
+   "country_name": "Third Reich",
+   "name": "Arène rouge Fw 190 A-8",
+   "unit_type": "FW-190A8",
+   "count": 2,
+   "start": "air",
+   "position": {
+    "x": 95000,
+    "y": -96500
+   },
+   "altitude_ft": 15000,
+   "speed_kt": 250,
+   "heading_deg": 180,
+   "skill": "Client",
+   "task": "CAP"
+  }
+ },
+ {
+  "name": "add_air_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Normandy-WW2-v6",
+   "coalition": "red",
+   "country_id": 66,
+   "country_name": "Third Reich",
+   "name": "Arène rouge Fw 190 D-9",
+   "unit_type": "FW-190D9",
+   "count": 2,
+   "start": "air",
+   "position": {
+    "x": 95000,
+    "y": -93500
+   },
+   "altitude_ft": 15000,
+   "speed_kt": 250,
+   "heading_deg": 180,
+   "skill": "Client",
+   "task": "CAP"
+  }
+ },
+ {
+  "name": "add_air_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Normandy-WW2-v6",
+   "coalition": "red",
+   "country_id": 66,
+   "country_name": "Third Reich",
+   "name": "Arène rouge Bf 109 K-4",
+   "unit_type": "Bf-109K-4",
+   "count": 2,
+   "start": "air",
+   "position": {
+    "x": 95000,
+    "y": -90500
+   },
+   "altitude_ft": 15000,
+   "speed_kt": 250,
+   "heading_deg": 180,
+   "skill": "Client",
+   "task": "CAP"
+  }
+ },
+ {
+  "name": "add_air_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Normandy-WW2-v6",
+   "coalition": "red",
+   "country_id": 66,
+   "country_name": "Third Reich",
+   "name": "SC-Raid-Mulberry-Bombers",
+   "unit_type": "Ju-88A4",
+   "count": 6,
+   "start": "air",
+   "position": {
+    "x": 17287,
+    "y": 53645
+   },
+   "altitude_ft": 14000,
+   "speed_kt": 220,
+   "task": "Ground Attack",
+   "skill": "High",
+   "late_activation": true,
+   "pylons": {
+    "1": {
+     "CLSID": "SC_501_SC500"
+    },
+    "2": {
+     "CLSID": "{JU88A4TORP_10xSC50_on_InvCountedAttachmentPoints}"
+    },
+    "3": {
+     "CLSID": "SC_501_SC500"
+    }
+   }
+  }
+ },
+ {
+  "name": "edit_route",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Normandy-WW2-v6",
+   "group_name": "SC-Raid-Mulberry-Bombers",
+   "operation": "add",
+   "position": {
+    "x": 7554,
+    "y": 6996
+   },
+   "altitude_ft": 14000,
+   "speed_kt": 220
+  }
+ },
+ {
+  "name": "edit_route",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Normandy-WW2-v6",
+   "group_name": "SC-Raid-Mulberry-Bombers",
+   "operation": "add",
+   "position": {
+    "x": -17178,
+    "y": -22786
+   },
+   "altitude_ft": 14000,
+   "speed_kt": 220
+  }
+ },
+ {
+  "name": "add_air_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Normandy-WW2-v6",
+   "coalition": "red",
+   "country_id": 66,
+   "country_name": "Third Reich",
+   "name": "SC-Raid-Mulberry-Escort",
+   "unit_type": "FW-190A8",
+   "count": 4,
+   "start": "air",
+   "position": {
+    "x": 19576,
+    "y": 54986
+   },
+   "altitude_ft": 15000,
+   "speed_kt": 260,
+   "task": "Escort",
+   "skill": "High",
+   "late_activation": true
+  }
+ },
+ {
+  "name": "edit_route",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Normandy-WW2-v6",
+   "group_name": "SC-Raid-Mulberry-Escort",
+   "operation": "add",
+   "position": {
+    "x": 7554,
+    "y": 6996
+   },
+   "altitude_ft": 15000,
+   "speed_kt": 260
+  }
+ },
+ {
+  "name": "edit_route",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Normandy-WW2-v6",
+   "group_name": "SC-Raid-Mulberry-Escort",
+   "operation": "add",
+   "position": {
+    "x": -17178,
+    "y": -22786
+   },
+   "altitude_ft": 15000,
+   "speed_kt": 260
+  }
+ },
+ {
+  "name": "add_air_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Normandy-WW2-v6",
+   "coalition": "blue",
+   "country_id": 2,
+   "country_name": "USA",
+   "name": "SC-Escort-B17",
+   "unit_type": "B-17G",
+   "count": 6,
+   "start": "air",
+   "position": {
+    "x": 107734,
+    "y": 6797
+   },
+   "altitude_ft": 20000,
+   "speed_kt": 170,
+   "task": "Ground Attack",
+   "skill": "High",
+   "late_activation": true,
+   "pylons": {
+    "1": {
+     "CLSID": "{12xM64}"
+    }
+   }
+  }
+ },
+ {
+  "name": "edit_route",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Normandy-WW2-v6",
+   "group_name": "SC-Escort-B17",
+   "operation": "add",
+   "position": {
+    "x": 53801,
+    "y": 48370
+   },
+   "altitude_ft": 20000,
+   "speed_kt": 170
+  }
+ },
+ {
+  "name": "edit_route",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Normandy-WW2-v6",
+   "group_name": "SC-Escort-B17",
+   "operation": "add",
+   "position": {
+    "x": -3556,
+    "y": 100243
+   },
+   "altitude_ft": 20000,
+   "speed_kt": 170
+  }
+ },
+ {
+  "name": "add_air_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Normandy-WW2-v6",
+   "coalition": "red",
+   "country_id": 66,
+   "country_name": "Third Reich",
+   "name": "SC-Escort-B17-Interceptors",
+   "unit_type": "FW-190A8",
+   "count": 4,
+   "start": "air",
+   "position": {
+    "x": 7326,
+    "y": 119400
+   },
+   "altitude_ft": 20000,
+   "speed_kt": 260,
+   "task": "CAP",
+   "skill": "High",
+   "late_activation": true
+  }
+ },
+ {
+  "name": "edit_route",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Normandy-WW2-v6",
+   "group_name": "SC-Escort-B17-Interceptors",
+   "operation": "add",
+   "position": {
+    "x": 38330,
+    "y": 74307
+   },
+   "altitude_ft": 20000,
+   "speed_kt": 260
+  }
+ },
+ {
+  "name": "edit_route",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Normandy-WW2-v6",
+   "group_name": "SC-Escort-B17-Interceptors",
+   "operation": "add",
+   "position": {
+    "x": -3556,
+    "y": 100243
+   },
+   "altitude_ft": 20000,
+   "speed_kt": 260
+  }
+ },
+ {
+  "name": "add_air_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Normandy-WW2-v6",
+   "coalition": "red",
+   "country_id": 66,
+   "country_name": "Third Reich",
+   "name": "SC-Escort-B17-Interceptors-Bf109",
+   "unit_type": "Bf-109K-4",
+   "count": 2,
+   "start": "air",
+   "position": {
+    "x": 5315,
+    "y": 123148
+   },
+   "altitude_ft": 21000,
+   "speed_kt": 260,
+   "task": "CAP",
+   "skill": "High",
+   "late_activation": true
+  }
+ },
+ {
+  "name": "edit_route",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Normandy-WW2-v6",
+   "group_name": "SC-Escort-B17-Interceptors-Bf109",
+   "operation": "add",
+   "position": {
+    "x": 38330,
+    "y": 74307
+   },
+   "altitude_ft": 21000,
+   "speed_kt": 260
+  }
+ },
+ {
+  "name": "edit_route",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Normandy-WW2-v6",
+   "group_name": "SC-Escort-B17-Interceptors-Bf109",
+   "operation": "add",
+   "position": {
+    "x": -3556,
+    "y": 100243
+   },
+   "altitude_ft": 21000,
+   "speed_kt": 260
+  }
+ },
+ {
+  "name": "add_air_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Normandy-WW2-v6",
+   "coalition": "red",
+   "country_id": 66,
+   "country_name": "Third Reich",
+   "name": "SC-Recce-Ju88",
+   "unit_type": "Ju-88A4",
+   "count": 1,
+   "start": "air",
+   "position": {
+    "x": 14577,
+    "y": 42911
+   },
+   "altitude_ft": 22000,
+   "speed_kt": 215,
+   "task": "Reconnaissance",
+   "skill": "High",
+   "late_activation": true
+  }
+ },
+ {
+  "name": "edit_route",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Normandy-WW2-v6",
+   "group_name": "SC-Recce-Ju88",
+   "operation": "add",
+   "position": {
+    "x": 996,
+    "y": -21756
+   },
+   "altitude_ft": 22000,
+   "speed_kt": 215
+  }
+ },
+ {
+  "name": "edit_route",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Normandy-WW2-v6",
+   "group_name": "SC-Recce-Ju88",
+   "operation": "add",
+   "position": {
+    "x": 8593,
+    "y": -69023
+   },
+   "altitude_ft": 22000,
+   "speed_kt": 215
+  }
+ },
+ {
+  "name": "add_air_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Normandy-WW2-v6",
+   "coalition": "red",
+   "country_id": 66,
+   "country_name": "Third Reich",
+   "name": "SC-Recce-Escort",
+   "unit_type": "Bf-109K-4",
+   "count": 2,
+   "start": "air",
+   "position": {
+    "x": 16864,
+    "y": 44257
+   },
+   "altitude_ft": 23000,
+   "speed_kt": 240,
+   "task": "Escort",
+   "skill": "High",
+   "late_activation": true
+  }
+ },
+ {
+  "name": "edit_route",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Normandy-WW2-v6",
+   "group_name": "SC-Recce-Escort",
+   "operation": "add",
+   "position": {
+    "x": 996,
+    "y": -21756
+   },
+   "altitude_ft": 23000,
+   "speed_kt": 240
+  }
+ },
+ {
+  "name": "edit_route",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Normandy-WW2-v6",
+   "group_name": "SC-Recce-Escort",
+   "operation": "add",
+   "position": {
+    "x": 8593,
+    "y": -69023
+   },
+   "altitude_ft": 23000,
+   "speed_kt": 240
+  }
+ },
+ {
+  "name": "edit_route",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Normandy-WW2-v6",
+   "group_name": "SC-Raid-Mulberry-Bombers",
+   "operation": "add_task",
+   "index": 3,
+   "task": "bombing",
+   "task_params": {
+    "position": {
+     "x": -17178,
+     "y": -22786
+    },
+    "expend": "All",
+    "attack_qty": 1
+   }
+  }
+ },
+ {
+  "name": "edit_route",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Normandy-WW2-v6",
+   "group_name": "SC-Escort-B17",
+   "operation": "add_task",
+   "index": 3,
+   "task": "bombing",
+   "task_params": {
+    "position": {
+     "x": -3556,
+     "y": 100243
+    },
+    "expend": "All",
+    "attack_qty": 1
+   }
+  }
+ },
+ {
+  "name": "edit_route",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Normandy-WW2-v6",
+   "group_name": "SC-Raid-Mulberry-Escort",
+   "operation": "add_task",
+   "index": 1,
+   "task": "escort",
+   "task_params": {
+    "group_name": "SC-Raid-Mulberry-Bombers",
+    "engagement_distance_nm": 15
+   }
+  }
+ },
+ {
+  "name": "edit_route",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Normandy-WW2-v6",
+   "group_name": "SC-Recce-Escort",
+   "operation": "add_task",
+   "index": 1,
+   "task": "escort",
+   "task_params": {
+    "group_name": "SC-Recce-Ju88",
+    "engagement_distance_nm": 15
+   }
+  }
+ }
+]

@@ -1,0 +1,1370 @@
+[
+ {
+  "name": "add_map_drawing",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Normandy-WW2-v6",
+   "layer": "Common",
+   "shape": "line",
+   "name": "Front",
+   "points": [
+    {
+     "x": -16447,
+     "y": -96772
+    },
+    {
+     "x": -24079,
+     "y": -88634
+    },
+    {
+     "x": -28175,
+     "y": -71810
+    },
+    {
+     "x": -31253,
+     "y": -60813
+    },
+    {
+     "x": -42261,
+     "y": -56163
+    },
+    {
+     "x": -45042,
+     "y": -35638
+    },
+    {
+     "x": -43581,
+     "y": -23992
+    },
+    {
+     "x": -34620,
+     "y": -22082
+    },
+    {
+     "x": -34241,
+     "y": -10423
+    },
+    {
+     "x": -31769,
+     "y": -3214
+    },
+    {
+     "x": -22565,
+     "y": 5202
+    },
+    {
+     "x": -19960,
+     "y": 15297
+    }
+   ],
+   "color": "0xcc0000ff",
+   "thickness": 6
+  }
+ },
+ {
+  "name": "add_map_drawing",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Normandy-WW2-v6",
+   "layer": "Common",
+   "shape": "textbox",
+   "name": "Front étiquette",
+   "position": {
+    "x": -35581,
+    "y": -37992
+   },
+   "text": "FRONT du 6 juillet 1944 (approximatif)",
+   "color": "0xcc0000ff",
+   "fill_color": "0xffffffe0",
+   "font_size": 14
+  }
+ },
+ {
+  "name": "add_map_drawing",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Normandy-WW2-v6",
+   "layer": "Common",
+   "shape": "circle",
+   "name": "Zone combatZone_Bocage",
+   "position": {
+    "x": -647,
+    "y": -84744
+   },
+   "radius": 2500,
+   "color": "0xe07000ff",
+   "fill_color": "0xe0700018",
+   "thickness": 3
+  }
+ },
+ {
+  "name": "add_map_drawing",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Normandy-WW2-v6",
+   "layer": "Common",
+   "shape": "textbox",
+   "name": "Zone combatZone_Bocage étiquette",
+   "position": {
+    "x": 2653,
+    "y": -84744
+   },
+   "text": "A1-A3 Entraînement appui rapproché — bocage",
+   "color": "0xe07000ff",
+   "fill_color": "0xffffffe0",
+   "font_size": 12
+  }
+ },
+ {
+  "name": "add_map_drawing",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Normandy-WW2-v6",
+   "layer": "Common",
+   "shape": "circle",
+   "name": "Zone combatZone_Salisbury",
+   "position": {
+    "x": 187747,
+    "y": -124262
+   },
+   "radius": 2500,
+   "color": "0xe07000ff",
+   "fill_color": "0xe0700018",
+   "thickness": 3
+  }
+ },
+ {
+  "name": "add_map_drawing",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Normandy-WW2-v6",
+   "layer": "Common",
+   "shape": "textbox",
+   "name": "Zone combatZone_Salisbury étiquette",
+   "position": {
+    "x": 191047,
+    "y": -124262
+   },
+   "text": "B1-B3 Entraînement bombardement — Salisbury",
+   "color": "0xe07000ff",
+   "fill_color": "0xffffffe0",
+   "font_size": 12
+  }
+ },
+ {
+  "name": "add_map_drawing",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Normandy-WW2-v6",
+   "layer": "Common",
+   "shape": "circle",
+   "name": "Zone combatZone_Aurigny",
+   "position": {
+    "x": 23334,
+    "y": -140445
+   },
+   "radius": 1500,
+   "color": "0xe07000ff",
+   "fill_color": "0xe0700018",
+   "thickness": 3
+  }
+ },
+ {
+  "name": "add_map_drawing",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Normandy-WW2-v6",
+   "layer": "Common",
+   "shape": "textbox",
+   "name": "Zone combatZone_Aurigny étiquette",
+   "position": {
+    "x": 25634,
+    "y": -140445
+   },
+   "text": "C1-C3 Entraînement antiflak — Aurigny",
+   "color": "0xe07000ff",
+   "fill_color": "0xffffffe0",
+   "font_size": 12
+  }
+ },
+ {
+  "name": "add_map_drawing",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Normandy-WW2-v6",
+   "layer": "Common",
+   "shape": "circle",
+   "name": "Zone combatZone_TourPlages",
+   "position": {
+    "x": -15724,
+    "y": -22677
+   },
+   "radius": 1500,
+   "color": "0x8b5a00ff",
+   "fill_color": "0x8b5a0018",
+   "thickness": 3
+  }
+ },
+ {
+  "name": "add_map_drawing",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Normandy-WW2-v6",
+   "layer": "Common",
+   "shape": "textbox",
+   "name": "Zone combatZone_TourPlages étiquette",
+   "position": {
+    "x": -13424,
+    "y": -22677
+   },
+   "text": "T1 Tourisme — Plages du Débarquement",
+   "color": "0x8b5a00ff",
+   "fill_color": "0xffffffe0",
+   "font_size": 12
+  }
+ },
+ {
+  "name": "add_map_drawing",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Normandy-WW2-v6",
+   "layer": "Common",
+   "shape": "line",
+   "name": "Circuit T1",
+   "points": [
+    {
+     "x": -26691,
+     "y": 2839
+    },
+    {
+     "x": -16835,
+     "y": -22642
+    },
+    {
+     "x": -15204,
+     "y": -39874
+    },
+    {
+     "x": -10782,
+     "y": -62867
+    }
+   ],
+   "color": "0x8b5a00ff",
+   "thickness": 2
+  }
+ },
+ {
+  "name": "add_map_drawing",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Normandy-WW2-v6",
+   "layer": "Common",
+   "shape": "textbox",
+   "name": "Balise SWD étiquette",
+   "position": {
+    "x": -24191,
+    "y": 2839
+   },
+   "text": "SWD VHF 130.0",
+   "color": "0x8b5a00ff",
+   "fill_color": "0xffffffe0",
+   "font_size": 10
+  }
+ },
+ {
+  "name": "add_map_drawing",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Normandy-WW2-v6",
+   "layer": "Common",
+   "shape": "textbox",
+   "name": "Balise GLD étiquette",
+   "position": {
+    "x": -14335,
+    "y": -22642
+   },
+   "text": "GLD VHF 130.5",
+   "color": "0x8b5a00ff",
+   "fill_color": "0xffffffe0",
+   "font_size": 10
+  }
+ },
+ {
+  "name": "add_map_drawing",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Normandy-WW2-v6",
+   "layer": "Common",
+   "shape": "textbox",
+   "name": "Balise OMA étiquette",
+   "position": {
+    "x": -12704,
+    "y": -39874
+   },
+   "text": "OMA VHF 131.0",
+   "color": "0x8b5a00ff",
+   "fill_color": "0xffffffe0",
+   "font_size": 10
+  }
+ },
+ {
+  "name": "add_map_drawing",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Normandy-WW2-v6",
+   "layer": "Common",
+   "shape": "textbox",
+   "name": "Balise UTH étiquette",
+   "position": {
+    "x": -8282,
+    "y": -62867
+   },
+   "text": "UTH VHF 131.5",
+   "color": "0x8b5a00ff",
+   "fill_color": "0xffffffe0",
+   "font_size": 10
+  }
+ },
+ {
+  "name": "add_map_drawing",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Normandy-WW2-v6",
+   "layer": "Common",
+   "shape": "circle",
+   "name": "Zone combatZone_TourCotentin",
+   "position": {
+    "x": 12723,
+    "y": -83571
+   },
+   "radius": 1500,
+   "color": "0x8b5a00ff",
+   "fill_color": "0x8b5a0018",
+   "thickness": 3
+  }
+ },
+ {
+  "name": "add_map_drawing",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Normandy-WW2-v6",
+   "layer": "Common",
+   "shape": "textbox",
+   "name": "Zone combatZone_TourCotentin étiquette",
+   "position": {
+    "x": 15023,
+    "y": -83571
+   },
+   "text": "T2 Tourisme — Cotentin et Cherbourg",
+   "color": "0x8b5a00ff",
+   "fill_color": "0xffffffe0",
+   "font_size": 12
+  }
+ },
+ {
+  "name": "add_map_drawing",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Normandy-WW2-v6",
+   "layer": "Common",
+   "shape": "line",
+   "name": "Circuit T2",
+   "points": [
+    {
+     "x": 13946,
+     "y": -94937
+    },
+    {
+     "x": 20018,
+     "y": -70371
+    },
+    {
+     "x": 9452,
+     "y": -70344
+    }
+   ],
+   "color": "0x8b5a00ff",
+   "thickness": 2
+  }
+ },
+ {
+  "name": "add_map_drawing",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Normandy-WW2-v6",
+   "layer": "Common",
+   "shape": "textbox",
+   "name": "Balise CHB étiquette",
+   "position": {
+    "x": 16446,
+    "y": -94937
+   },
+   "text": "CHB VHF 133.0",
+   "color": "0x8b5a00ff",
+   "fill_color": "0xffffffe0",
+   "font_size": 10
+  }
+ },
+ {
+  "name": "add_map_drawing",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Normandy-WW2-v6",
+   "layer": "Common",
+   "shape": "textbox",
+   "name": "Balise GAT étiquette",
+   "position": {
+    "x": 22518,
+    "y": -70371
+   },
+   "text": "GAT VHF 133.5",
+   "color": "0x8b5a00ff",
+   "fill_color": "0xffffffe0",
+   "font_size": 10
+  }
+ },
+ {
+  "name": "add_map_drawing",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Normandy-WW2-v6",
+   "layer": "Common",
+   "shape": "textbox",
+   "name": "Balise VAA étiquette",
+   "position": {
+    "x": 11952,
+    "y": -70344
+   },
+   "text": "VAA VHF 134.0",
+   "color": "0x8b5a00ff",
+   "fill_color": "0xffffffe0",
+   "font_size": 10
+  }
+ },
+ {
+  "name": "add_map_drawing",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Normandy-WW2-v6",
+   "layer": "Common",
+   "shape": "circle",
+   "name": "Zone combatZone_TourAngleterre",
+   "position": {
+    "x": 144316,
+    "y": -68683
+   },
+   "radius": 1500,
+   "color": "0x8b5a00ff",
+   "fill_color": "0x8b5a0018",
+   "thickness": 3
+  }
+ },
+ {
+  "name": "add_map_drawing",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Normandy-WW2-v6",
+   "layer": "Common",
+   "shape": "textbox",
+   "name": "Zone combatZone_TourAngleterre étiquette",
+   "position": {
+    "x": 146616,
+    "y": -68683
+   },
+   "text": "T3 Tourisme — Côte sud de l'Angleterre",
+   "color": "0x8b5a00ff",
+   "fill_color": "0xffffffe0",
+   "font_size": 12
+  }
+ },
+ {
+  "name": "add_map_drawing",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Normandy-WW2-v6",
+   "layer": "Common",
+   "shape": "line",
+   "name": "Circuit T3",
+   "points": [
+    {
+     "x": 128303,
+     "y": -95552
+    },
+    {
+     "x": 144481,
+     "y": -62059
+    },
+    {
+     "x": 140446,
+     "y": 33238
+    },
+    {
+     "x": 188137,
+     "y": 106921
+    }
+   ],
+   "color": "0x8b5a00ff",
+   "thickness": 2
+  }
+ },
+ {
+  "name": "add_map_drawing",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Normandy-WW2-v6",
+   "layer": "Common",
+   "shape": "textbox",
+   "name": "Balise NDL étiquette",
+   "position": {
+    "x": 130803,
+    "y": -95552
+   },
+   "text": "NDL VHF 135.0",
+   "color": "0x8b5a00ff",
+   "fill_color": "0xffffffe0",
+   "font_size": 10
+  }
+ },
+ {
+  "name": "add_map_drawing",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Normandy-WW2-v6",
+   "layer": "Common",
+   "shape": "textbox",
+   "name": "Balise POR étiquette",
+   "position": {
+    "x": 146981,
+    "y": -62059
+   },
+   "text": "POR VHF 135.5",
+   "color": "0x8b5a00ff",
+   "fill_color": "0xffffffe0",
+   "font_size": 10
+  }
+ },
+ {
+  "name": "add_map_drawing",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Normandy-WW2-v6",
+   "layer": "Common",
+   "shape": "textbox",
+   "name": "Balise BCH étiquette",
+   "position": {
+    "x": 142946,
+    "y": 33238
+   },
+   "text": "BCH VHF 136.0",
+   "color": "0x8b5a00ff",
+   "fill_color": "0xffffffe0",
+   "font_size": 10
+  }
+ },
+ {
+  "name": "add_map_drawing",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Normandy-WW2-v6",
+   "layer": "Common",
+   "shape": "textbox",
+   "name": "Balise DVR étiquette",
+   "position": {
+    "x": 190637,
+    "y": 106921
+   },
+   "text": "DVR VHF 136.5",
+   "color": "0x8b5a00ff",
+   "fill_color": "0xffffffe0",
+   "font_size": 10
+  }
+ },
+ {
+  "name": "add_map_drawing",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Normandy-WW2-v6",
+   "layer": "Common",
+   "shape": "circle",
+   "name": "Zone combatZone_VillersBocage",
+   "position": {
+    "x": -45628,
+    "y": -24353
+   },
+   "radius": 2500,
+   "color": "0xcc0000ff",
+   "fill_color": "0xcc000018",
+   "thickness": 3
+  }
+ },
+ {
+  "name": "add_map_drawing",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Normandy-WW2-v6",
+   "layer": "Common",
+   "shape": "textbox",
+   "name": "Zone combatZone_VillersBocage étiquette",
+   "position": {
+    "x": -42328,
+    "y": -24353
+   },
+   "text": "Z01 Front — Villers-Bocage",
+   "color": "0xcc0000ff",
+   "fill_color": "0xffffffe0",
+   "font_size": 11
+  }
+ },
+ {
+  "name": "add_map_drawing",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Normandy-WW2-v6",
+   "layer": "Common",
+   "shape": "circle",
+   "name": "Zone combatZone_CaenNord",
+   "position": {
+    "x": -33562,
+    "y": -6799
+   },
+   "radius": 2500,
+   "color": "0xcc0000ff",
+   "fill_color": "0xcc000018",
+   "thickness": 3
+  }
+ },
+ {
+  "name": "add_map_drawing",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Normandy-WW2-v6",
+   "layer": "Common",
+   "shape": "textbox",
+   "name": "Zone combatZone_CaenNord étiquette",
+   "position": {
+    "x": -30262,
+    "y": -6799
+   },
+   "text": "Z02 Front — Caen et Carpiquet",
+   "color": "0xcc0000ff",
+   "fill_color": "0xffffffe0",
+   "font_size": 11
+  }
+ },
+ {
+  "name": "add_map_drawing",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Normandy-WW2-v6",
+   "layer": "Common",
+   "shape": "circle",
+   "name": "Zone combatZone_CotentinSud",
+   "position": {
+    "x": -32929,
+    "y": -86276
+   },
+   "radius": 2500,
+   "color": "0xcc0000ff",
+   "fill_color": "0xcc000018",
+   "thickness": 3
+  }
+ },
+ {
+  "name": "add_map_drawing",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Normandy-WW2-v6",
+   "layer": "Common",
+   "shape": "textbox",
+   "name": "Zone combatZone_CotentinSud étiquette",
+   "position": {
+    "x": -29629,
+    "y": -86276
+   },
+   "text": "Z03 Front — La Haye-du-Puits et Lessay",
+   "color": "0xcc0000ff",
+   "fill_color": "0xffffffe0",
+   "font_size": 11
+  }
+ },
+ {
+  "name": "add_map_drawing",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Normandy-WW2-v6",
+   "layer": "Common",
+   "shape": "circle",
+   "name": "Zone combatZone_Antifer",
+   "position": {
+    "x": 23775,
+    "y": 32723
+   },
+   "radius": 2000,
+   "color": "0xcc0000ff",
+   "fill_color": "0xcc000018",
+   "thickness": 3
+  }
+ },
+ {
+  "name": "add_map_drawing",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Normandy-WW2-v6",
+   "layer": "Common",
+   "shape": "textbox",
+   "name": "Zone combatZone_Antifer étiquette",
+   "position": {
+    "x": 26575,
+    "y": 32723
+   },
+   "text": "Z04 Radars — station du cap d'Antifer",
+   "color": "0xcc0000ff",
+   "fill_color": "0xffffffe0",
+   "font_size": 11
+  }
+ },
+ {
+  "name": "add_map_drawing",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Normandy-WW2-v6",
+   "layer": "Common",
+   "shape": "circle",
+   "name": "Zone combatZone_GrisNez",
+   "position": {
+    "x": 160808,
+    "y": 126925
+   },
+   "radius": 2000,
+   "color": "0xcc0000ff",
+   "fill_color": "0xcc000018",
+   "thickness": 3
+  }
+ },
+ {
+  "name": "add_map_drawing",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Normandy-WW2-v6",
+   "layer": "Common",
+   "shape": "textbox",
+   "name": "Zone combatZone_GrisNez étiquette",
+   "position": {
+    "x": 163608,
+    "y": 126925
+   },
+   "text": "Z05 Radars — cap Gris-Nez",
+   "color": "0xcc0000ff",
+   "fill_color": "0xffffffe0",
+   "font_size": 11
+  }
+ },
+ {
+  "name": "add_map_drawing",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Normandy-WW2-v6",
+   "layer": "Common",
+   "shape": "circle",
+   "name": "Zone combatZone_ConvoiFalaise",
+   "position": {
+    "x": -64667,
+    "y": 10405
+   },
+   "radius": 1500,
+   "color": "0xcc0000ff",
+   "fill_color": "0xcc000018",
+   "thickness": 3
+  }
+ },
+ {
+  "name": "add_map_drawing",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Normandy-WW2-v6",
+   "layer": "Common",
+   "shape": "textbox",
+   "name": "Zone combatZone_ConvoiFalaise étiquette",
+   "position": {
+    "x": -62367,
+    "y": 10405
+   },
+   "text": "Z06 Convoi — Falaise vers Caen",
+   "color": "0xcc0000ff",
+   "fill_color": "0xffffffe0",
+   "font_size": 11
+  }
+ },
+ {
+  "name": "add_map_drawing",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Normandy-WW2-v6",
+   "layer": "Common",
+   "shape": "circle",
+   "name": "Zone combatZone_ConvoiLisieux",
+   "position": {
+    "x": -37881,
+    "y": 40091
+   },
+   "radius": 1500,
+   "color": "0xcc0000ff",
+   "fill_color": "0xcc000018",
+   "thickness": 3
+  }
+ },
+ {
+  "name": "add_map_drawing",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Normandy-WW2-v6",
+   "layer": "Common",
+   "shape": "textbox",
+   "name": "Zone combatZone_ConvoiLisieux étiquette",
+   "position": {
+    "x": -35581,
+    "y": 40091
+   },
+   "text": "Z07 Convoi — Lisieux vers Caen",
+   "color": "0xcc0000ff",
+   "fill_color": "0xffffffe0",
+   "font_size": 11
+  }
+ },
+ {
+  "name": "add_map_drawing",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Normandy-WW2-v6",
+   "layer": "Common",
+   "shape": "circle",
+   "name": "Zone combatZone_ConvoiVire",
+   "position": {
+    "x": -71865,
+    "y": -40003
+   },
+   "radius": 1500,
+   "color": "0xcc0000ff",
+   "fill_color": "0xcc000018",
+   "thickness": 3
+  }
+ },
+ {
+  "name": "add_map_drawing",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Normandy-WW2-v6",
+   "layer": "Common",
+   "shape": "textbox",
+   "name": "Zone combatZone_ConvoiVire étiquette",
+   "position": {
+    "x": -69565,
+    "y": -40003
+   },
+   "text": "Z08 Convoi — Vire vers Villers-Bocage",
+   "color": "0xcc0000ff",
+   "fill_color": "0xffffffe0",
+   "font_size": 11
+  }
+ },
+ {
+  "name": "add_map_drawing",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Normandy-WW2-v6",
+   "layer": "Common",
+   "shape": "circle",
+   "name": "Zone combatZone_RocheGuyon",
+   "position": {
+    "x": -37521,
+    "y": 142308
+   },
+   "radius": 1200,
+   "color": "0xcc0000ff",
+   "fill_color": "0xcc000018",
+   "thickness": 3
+  }
+ },
+ {
+  "name": "add_map_drawing",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Normandy-WW2-v6",
+   "layer": "Common",
+   "shape": "textbox",
+   "name": "Zone combatZone_RocheGuyon étiquette",
+   "position": {
+    "x": -35521,
+    "y": 142308
+   },
+   "text": "Z09 Frappe — état-major de La Roche-Guyon",
+   "color": "0xcc0000ff",
+   "fill_color": "0xffffffe0",
+   "font_size": 11
+  }
+ },
+ {
+  "name": "add_map_drawing",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Normandy-WW2-v6",
+   "layer": "Common",
+   "shape": "circle",
+   "name": "Zone combatZone_TriageArgentan",
+   "position": {
+    "x": -81349,
+    "y": 23902
+   },
+   "radius": 1500,
+   "color": "0xcc0000ff",
+   "fill_color": "0xcc000018",
+   "thickness": 3
+  }
+ },
+ {
+  "name": "add_map_drawing",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Normandy-WW2-v6",
+   "layer": "Common",
+   "shape": "textbox",
+   "name": "Zone combatZone_TriageArgentan étiquette",
+   "position": {
+    "x": -79049,
+    "y": 23902
+   },
+   "text": "Z10 Frappe — gare de triage d'Argentan",
+   "color": "0xcc0000ff",
+   "fill_color": "0xffffffe0",
+   "font_size": 11
+  }
+ },
+ {
+  "name": "add_map_drawing",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Normandy-WW2-v6",
+   "layer": "Common",
+   "shape": "circle",
+   "name": "Zone combatZone_Eperlecques",
+   "position": {
+    "x": 156099,
+    "y": 163695
+   },
+   "radius": 1500,
+   "color": "0xcc0000ff",
+   "fill_color": "0xcc000018",
+   "thickness": 3
+  }
+ },
+ {
+  "name": "add_map_drawing",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Normandy-WW2-v6",
+   "layer": "Common",
+   "shape": "textbox",
+   "name": "Zone combatZone_Eperlecques étiquette",
+   "position": {
+    "x": 158399,
+    "y": 163695
+   },
+   "text": "Z11 Frappe — blockhaus d'Éperlecques",
+   "color": "0xcc0000ff",
+   "fill_color": "0xffffffe0",
+   "font_size": 11
+  }
+ },
+ {
+  "name": "add_map_drawing",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Normandy-WW2-v6",
+   "layer": "Common",
+   "shape": "circle",
+   "name": "Zone combatZone_DepotLisieux",
+   "position": {
+    "x": -36214,
+    "y": 40020
+   },
+   "radius": 1500,
+   "color": "0xcc0000ff",
+   "fill_color": "0xcc000018",
+   "thickness": 3
+  }
+ },
+ {
+  "name": "add_map_drawing",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Normandy-WW2-v6",
+   "layer": "Common",
+   "shape": "textbox",
+   "name": "Zone combatZone_DepotLisieux étiquette",
+   "position": {
+    "x": -33914,
+    "y": 40020
+   },
+   "text": "Z12 Frappe — dépôts d'essence de Lisieux",
+   "color": "0xcc0000ff",
+   "fill_color": "0xffffffe0",
+   "font_size": 11
+  }
+ },
+ {
+  "name": "add_map_drawing",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Normandy-WW2-v6",
+   "layer": "Common",
+   "shape": "circle",
+   "name": "Zone combatZone_Triqueville",
+   "position": {
+    "x": -14227,
+    "y": 56291
+   },
+   "radius": 1500,
+   "color": "0xcc0000ff",
+   "fill_color": "0xcc000018",
+   "thickness": 3
+  }
+ },
+ {
+  "name": "add_map_drawing",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Normandy-WW2-v6",
+   "layer": "Common",
+   "shape": "textbox",
+   "name": "Zone combatZone_Triqueville étiquette",
+   "position": {
+    "x": -11927,
+    "y": 56291
+   },
+   "text": "Z13 OCA — base aérienne de Triqueville",
+   "color": "0xcc0000ff",
+   "fill_color": "0xffffffe0",
+   "font_size": 11
+  }
+ },
+ {
+  "name": "add_map_drawing",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Normandy-WW2-v6",
+   "layer": "Common",
+   "shape": "circle",
+   "name": "Zone combatZone_BeaumontLeRoger",
+   "position": {
+    "x": -39697,
+    "y": 82226
+   },
+   "radius": 1500,
+   "color": "0xcc0000ff",
+   "fill_color": "0xcc000018",
+   "thickness": 3
+  }
+ },
+ {
+  "name": "add_map_drawing",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Normandy-WW2-v6",
+   "layer": "Common",
+   "shape": "textbox",
+   "name": "Zone combatZone_BeaumontLeRoger étiquette",
+   "position": {
+    "x": -37397,
+    "y": 82226
+   },
+   "text": "Z14 OCA — base aérienne de Beaumont-le-Roger",
+   "color": "0xcc0000ff",
+   "fill_color": "0xffffffe0",
+   "font_size": 11
+  }
+ },
+ {
+  "name": "add_map_drawing",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Normandy-WW2-v6",
+   "layer": "Common",
+   "shape": "circle",
+   "name": "Zone combatZone_VedettesLeHavre",
+   "position": {
+    "x": 5917,
+    "y": 22272
+   },
+   "radius": 6500,
+   "color": "0xcc0000ff",
+   "fill_color": "0xcc000018",
+   "thickness": 3
+  }
+ },
+ {
+  "name": "add_map_drawing",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Normandy-WW2-v6",
+   "layer": "Common",
+   "shape": "textbox",
+   "name": "Zone combatZone_VedettesLeHavre étiquette",
+   "position": {
+    "x": 13217,
+    "y": 22272
+   },
+   "text": "Z15 Antinavire — vedettes lance-torpilles du Havre",
+   "color": "0xcc0000ff",
+   "fill_color": "0xffffffe0",
+   "font_size": 11
+  }
+ },
+ {
+  "name": "add_map_drawing",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Normandy-WW2-v6",
+   "layer": "Common",
+   "shape": "circle",
+   "name": "Zone combatZone_ConvoiCotier",
+   "position": {
+    "x": 47922,
+    "y": 41443
+   },
+   "radius": 4000,
+   "color": "0xcc0000ff",
+   "fill_color": "0xcc000018",
+   "thickness": 3
+  }
+ },
+ {
+  "name": "add_map_drawing",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Normandy-WW2-v6",
+   "layer": "Common",
+   "shape": "textbox",
+   "name": "Zone combatZone_ConvoiCotier étiquette",
+   "position": {
+    "x": 52722,
+    "y": 41443
+   },
+   "text": "Z16 Antinavire — convoi côtier vers Dieppe",
+   "color": "0xcc0000ff",
+   "fill_color": "0xffffffe0",
+   "font_size": 11
+  }
+ },
+ {
+  "name": "add_map_drawing",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Normandy-WW2-v6",
+   "layer": "Common",
+   "shape": "circle",
+   "name": "QRA QRA Caen",
+   "position": {
+    "x": -39769,
+    "y": -1341
+   },
+   "radius": 14000,
+   "color": "0xb000b0ff",
+   "fill_color": "0x00000000",
+   "thickness": 2
+  }
+ },
+ {
+  "name": "add_map_drawing",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Normandy-WW2-v6",
+   "layer": "Common",
+   "shape": "textbox",
+   "name": "QRA QRA Caen étiquette",
+   "position": {
+    "x": -29769,
+    "y": -1341
+   },
+   "text": "QRA Caen (8 nm)",
+   "color": "0xb000b0ff",
+   "fill_color": "0xffffffe0",
+   "font_size": 11
+  }
+ },
+ {
+  "name": "add_map_drawing",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Normandy-WW2-v6",
+   "layer": "Common",
+   "shape": "circle",
+   "name": "QRA QRA Seine",
+   "position": {
+    "x": -14227,
+    "y": 55691
+   },
+   "radius": 22000,
+   "color": "0xb000b0ff",
+   "fill_color": "0x00000000",
+   "thickness": 2
+  }
+ },
+ {
+  "name": "add_map_drawing",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Normandy-WW2-v6",
+   "layer": "Common",
+   "shape": "textbox",
+   "name": "QRA QRA Seine étiquette",
+   "position": {
+    "x": 3773,
+    "y": 55691
+   },
+   "text": "QRA Seine (12 nm)",
+   "color": "0xb000b0ff",
+   "fill_color": "0xffffffe0",
+   "font_size": 11
+  }
+ },
+ {
+  "name": "add_map_drawing",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Normandy-WW2-v6",
+   "layer": "Common",
+   "shape": "circle",
+   "name": "QRA QRA Pas-de-Calais",
+   "position": {
+    "x": 147926,
+    "y": 173656
+   },
+   "radius": 30000,
+   "color": "0xb000b0ff",
+   "fill_color": "0x00000000",
+   "thickness": 2
+  }
+ },
+ {
+  "name": "add_map_drawing",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Normandy-WW2-v6",
+   "layer": "Common",
+   "shape": "textbox",
+   "name": "QRA QRA Pas-de-Calais étiquette",
+   "position": {
+    "x": 173926,
+    "y": 173656
+   },
+   "text": "QRA Pas-de-Calais (16 nm)",
+   "color": "0xb000b0ff",
+   "fill_color": "0xffffffe0",
+   "font_size": 11
+  }
+ },
+ {
+  "name": "add_map_drawing",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Normandy-WW2-v6",
+   "layer": "Common",
+   "shape": "circle",
+   "name": "QRA QRA Solent",
+   "position": {
+    "x": 150377,
+    "y": -33744
+   },
+   "radius": 25000,
+   "color": "0x0040ccff",
+   "fill_color": "0x00000000",
+   "thickness": 2
+  }
+ },
+ {
+  "name": "add_map_drawing",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Normandy-WW2-v6",
+   "layer": "Common",
+   "shape": "textbox",
+   "name": "QRA QRA Solent étiquette",
+   "position": {
+    "x": 171377,
+    "y": -33744
+   },
+   "text": "QRA Solent (13 nm)",
+   "color": "0x0040ccff",
+   "fill_color": "0xffffffe0",
+   "font_size": 11
+  }
+ },
+ {
+  "name": "add_map_drawing",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Normandy-WW2-v6",
+   "layer": "Common",
+   "shape": "circle",
+   "name": "QRA QRA Tête de pont",
+   "position": {
+    "x": -12733,
+    "y": -28909
+   },
+   "radius": 20000,
+   "color": "0x0040ccff",
+   "fill_color": "0x00000000",
+   "thickness": 2
+  }
+ },
+ {
+  "name": "add_map_drawing",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Normandy-WW2-v6",
+   "layer": "Common",
+   "shape": "textbox",
+   "name": "QRA QRA Tête de pont étiquette",
+   "position": {
+    "x": 3267,
+    "y": -28909
+   },
+   "text": "QRA Tête de pont (11 nm)",
+   "color": "0x0040ccff",
+   "fill_color": "0xffffffe0",
+   "font_size": 11
+  }
+ },
+ {
+  "name": "add_map_drawing",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Normandy-WW2-v6",
+   "layer": "Common",
+   "shape": "circle",
+   "name": "Sanctuaire Angleterre du sud",
+   "position": {
+    "x": 150334,
+    "y": -51221
+   },
+   "radius": 50000,
+   "color": "0x008000ff",
+   "fill_color": "0x00800018",
+   "thickness": 2
+  }
+ },
+ {
+  "name": "add_map_drawing",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Normandy-WW2-v6",
+   "layer": "Common",
+   "shape": "textbox",
+   "name": "Sanctuaire Angleterre du sud étiquette",
+   "position": {
+    "x": 98834,
+    "y": -51221
+   },
+   "text": "Sanctuaire Angleterre du sud",
+   "color": "0x008000ff",
+   "fill_color": "0xffffffe0",
+   "font_size": 10
+  }
+ },
+ {
+  "name": "add_map_drawing",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Normandy-WW2-v6",
+   "layer": "Common",
+   "shape": "circle",
+   "name": "Sanctuaire Évreux",
+   "position": {
+    "x": -46155,
+    "y": 112457
+   },
+   "radius": 25000,
+   "color": "0x008000ff",
+   "fill_color": "0x00800018",
+   "thickness": 2
+  }
+ },
+ {
+  "name": "add_map_drawing",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Normandy-WW2-v6",
+   "layer": "Common",
+   "shape": "textbox",
+   "name": "Sanctuaire Évreux étiquette",
+   "position": {
+    "x": -72655,
+    "y": 112457
+   },
+   "text": "Sanctuaire Évreux",
+   "color": "0x008000ff",
+   "fill_color": "0xffffffe0",
+   "font_size": 10
+  }
+ },
+ {
+  "name": "add_map_drawing",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Normandy-WW2-v6",
+   "layer": "Common",
+   "shape": "circle",
+   "name": "Arène cercle",
+   "position": {
+    "x": 75000,
+    "y": -95000
+   },
+   "radius": 37000,
+   "color": "0x008000ff",
+   "fill_color": "0x00000000",
+   "thickness": 3
+  }
+ },
+ {
+  "name": "add_map_drawing",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Normandy-WW2-v6",
+   "layer": "Common",
+   "shape": "textbox",
+   "name": "Arène étiquette",
+   "position": {
+    "x": 115000,
+    "y": -95000
+   },
+   "text": "ARÈNE joueurs contre joueurs (slots en vol)",
+   "color": "0x008000ff",
+   "fill_color": "0xffffffe0",
+   "font_size": 14
+  }
+ }
+]

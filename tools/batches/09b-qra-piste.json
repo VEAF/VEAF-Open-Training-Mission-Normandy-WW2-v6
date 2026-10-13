@@ -1,0 +1,618 @@
+[
+ {
+  "name": "remove_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Normandy-WW2-v6",
+   "group_name": "QRA-Caen-Bf109"
+  }
+ },
+ {
+  "name": "remove_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Normandy-WW2-v6",
+   "group_name": "QRA-Caen-Fw190A8"
+  }
+ },
+ {
+  "name": "remove_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Normandy-WW2-v6",
+   "group_name": "QRA-Caen-Fw190D9x4"
+  }
+ },
+ {
+  "name": "remove_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Normandy-WW2-v6",
+   "group_name": "QRA-Caen-Bf109x4"
+  }
+ },
+ {
+  "name": "edit_zone",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Normandy-WW2-v6",
+   "zone_name": "QRA-Caen",
+   "remove": true
+  }
+ },
+ {
+  "name": "remove_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Normandy-WW2-v6",
+   "group_name": "QRA-Seine-Fw190A8"
+  }
+ },
+ {
+  "name": "remove_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Normandy-WW2-v6",
+   "group_name": "QRA-Seine-Bf109"
+  }
+ },
+ {
+  "name": "remove_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Normandy-WW2-v6",
+   "group_name": "QRA-Seine-Fw190A8x4"
+  }
+ },
+ {
+  "name": "remove_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Normandy-WW2-v6",
+   "group_name": "QRA-Seine-Fw190D9x4"
+  }
+ },
+ {
+  "name": "edit_zone",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Normandy-WW2-v6",
+   "zone_name": "QRA-Seine",
+   "remove": true
+  }
+ },
+ {
+  "name": "remove_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Normandy-WW2-v6",
+   "group_name": "QRA-PdC-Bf109"
+  }
+ },
+ {
+  "name": "remove_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Normandy-WW2-v6",
+   "group_name": "QRA-PdC-Fw190D9"
+  }
+ },
+ {
+  "name": "remove_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Normandy-WW2-v6",
+   "group_name": "QRA-PdC-Bf109x4"
+  }
+ },
+ {
+  "name": "remove_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Normandy-WW2-v6",
+   "group_name": "QRA-PdC-Fw190A8x4"
+  }
+ },
+ {
+  "name": "edit_zone",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Normandy-WW2-v6",
+   "zone_name": "QRA-PasDeCalais",
+   "remove": true
+  }
+ },
+ {
+  "name": "remove_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Normandy-WW2-v6",
+   "group_name": "QRA-Solent-Spitfire"
+  }
+ },
+ {
+  "name": "remove_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Normandy-WW2-v6",
+   "group_name": "QRA-Solent-P51D"
+  }
+ },
+ {
+  "name": "remove_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Normandy-WW2-v6",
+   "group_name": "QRA-Solent-Spitfirex4"
+  }
+ },
+ {
+  "name": "remove_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Normandy-WW2-v6",
+   "group_name": "QRA-Solent-P51Dx4"
+  }
+ },
+ {
+  "name": "edit_zone",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Normandy-WW2-v6",
+   "zone_name": "QRA-Solent",
+   "remove": true
+  }
+ },
+ {
+  "name": "remove_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Normandy-WW2-v6",
+   "group_name": "QRA-TetedePont-P47D"
+  }
+ },
+ {
+  "name": "remove_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Normandy-WW2-v6",
+   "group_name": "QRA-TetedePont-P51D"
+  }
+ },
+ {
+  "name": "remove_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Normandy-WW2-v6",
+   "group_name": "QRA-TetedePont-P47Dx4"
+  }
+ },
+ {
+  "name": "remove_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Normandy-WW2-v6",
+   "group_name": "QRA-TetedePont-P51Dx4"
+  }
+ },
+ {
+  "name": "edit_zone",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Normandy-WW2-v6",
+   "zone_name": "QRA-TetedePont",
+   "remove": true
+  }
+ },
+ {
+  "name": "set_mission_module",
+  "params": {
+   "mission_yaml_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Normandy-WW2-v6/mission.yaml",
+   "module_id": "QRA",
+   "value": {
+    "enabled": true,
+    "definitions": []
+   }
+  }
+ },
+ {
+  "name": "create_qra",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Normandy-WW2-v6",
+   "name": "QRA Caen",
+   "coalition": "red",
+   "country_id": 66,
+   "country_name": "Third Reich",
+   "trigger_zone": "QRA-Caen",
+   "position": {
+    "x": -39769,
+    "y": -1341
+   },
+   "radius": 14000,
+   "groups": [
+    {
+     "name": "QRA-Caen-Bf109",
+     "units": [
+      {
+       "type": "Bf-109K-4",
+       "count": 2
+      }
+     ],
+     "airfield": "Carpiquet"
+    },
+    {
+     "name": "QRA-Caen-Fw190A8",
+     "units": [
+      {
+       "type": "FW-190A8",
+       "count": 2
+      }
+     ],
+     "airfield": "Carpiquet"
+    },
+    {
+     "name": "QRA-Caen-Fw190D9x4",
+     "units": [
+      {
+       "type": "FW-190D9",
+       "count": 4
+      }
+     ],
+     "airfield": "Carpiquet"
+    },
+    {
+     "name": "QRA-Caen-Bf109x4",
+     "units": [
+      {
+       "type": "Bf-109K-4",
+       "count": 4
+      }
+     ],
+     "airfield": "Carpiquet"
+    }
+   ],
+   "enemy_coalitions": [
+    "BLUE"
+   ],
+   "qra": {
+    "groups_by_enemy_count": [
+     {
+      "enemy_count": 1,
+      "groups": [
+       "QRA-Caen-Bf109",
+       "QRA-Caen-Fw190A8"
+      ],
+      "random_pick": 1
+     },
+     {
+      "enemy_count": 3,
+      "groups": [
+       "QRA-Caen-Fw190D9x4",
+       "QRA-Caen-Bf109x4"
+      ],
+      "random_pick": 1
+     }
+    ],
+    "delay_before_activating": 90,
+    "delay_before_rearming": 600,
+    "react_on_helicopters": false,
+    "airport_link": "Carpiquet"
+   }
+  }
+ },
+ {
+  "name": "create_qra",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Normandy-WW2-v6",
+   "name": "QRA Seine",
+   "coalition": "red",
+   "country_id": 66,
+   "country_name": "Third Reich",
+   "trigger_zone": "QRA-Seine",
+   "position": {
+    "x": -14227,
+    "y": 55691
+   },
+   "radius": 22000,
+   "groups": [
+    {
+     "name": "QRA-Seine-Fw190A8",
+     "units": [
+      {
+       "type": "FW-190A8",
+       "count": 2
+      }
+     ],
+     "airfield": "Triqueville"
+    },
+    {
+     "name": "QRA-Seine-Bf109",
+     "units": [
+      {
+       "type": "Bf-109K-4",
+       "count": 2
+      }
+     ],
+     "airfield": "Triqueville"
+    },
+    {
+     "name": "QRA-Seine-Fw190A8x4",
+     "units": [
+      {
+       "type": "FW-190A8",
+       "count": 4
+      }
+     ],
+     "airfield": "Triqueville"
+    },
+    {
+     "name": "QRA-Seine-Fw190D9x4",
+     "units": [
+      {
+       "type": "FW-190D9",
+       "count": 4
+      }
+     ],
+     "airfield": "Triqueville"
+    }
+   ],
+   "enemy_coalitions": [
+    "BLUE"
+   ],
+   "qra": {
+    "groups_by_enemy_count": [
+     {
+      "enemy_count": 1,
+      "groups": [
+       "QRA-Seine-Fw190A8",
+       "QRA-Seine-Bf109"
+      ],
+      "random_pick": 1
+     },
+     {
+      "enemy_count": 3,
+      "groups": [
+       "QRA-Seine-Fw190A8x4",
+       "QRA-Seine-Fw190D9x4"
+      ],
+      "random_pick": 1
+     }
+    ],
+    "delay_before_activating": 90,
+    "delay_before_rearming": 600,
+    "react_on_helicopters": false,
+    "airport_link": "Triqueville"
+   }
+  }
+ },
+ {
+  "name": "create_qra",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Normandy-WW2-v6",
+   "name": "QRA Pas-de-Calais",
+   "coalition": "red",
+   "country_id": 66,
+   "country_name": "Third Reich",
+   "trigger_zone": "QRA-PasDeCalais",
+   "position": {
+    "x": 147926,
+    "y": 173656
+   },
+   "radius": 30000,
+   "groups": [
+    {
+     "name": "QRA-PdC-Bf109",
+     "units": [
+      {
+       "type": "Bf-109K-4",
+       "count": 2
+      }
+     ],
+     "airfield": "Saint-Omer Wizernes"
+    },
+    {
+     "name": "QRA-PdC-Fw190D9",
+     "units": [
+      {
+       "type": "FW-190D9",
+       "count": 2
+      }
+     ],
+     "airfield": "Saint-Omer Wizernes"
+    },
+    {
+     "name": "QRA-PdC-Bf109x4",
+     "units": [
+      {
+       "type": "Bf-109K-4",
+       "count": 4
+      }
+     ],
+     "airfield": "Saint-Omer Wizernes"
+    },
+    {
+     "name": "QRA-PdC-Fw190A8x4",
+     "units": [
+      {
+       "type": "FW-190A8",
+       "count": 4
+      }
+     ],
+     "airfield": "Saint-Omer Wizernes"
+    }
+   ],
+   "enemy_coalitions": [
+    "BLUE"
+   ],
+   "qra": {
+    "groups_by_enemy_count": [
+     {
+      "enemy_count": 1,
+      "groups": [
+       "QRA-PdC-Bf109",
+       "QRA-PdC-Fw190D9"
+      ],
+      "random_pick": 1
+     },
+     {
+      "enemy_count": 3,
+      "groups": [
+       "QRA-PdC-Bf109x4",
+       "QRA-PdC-Fw190A8x4"
+      ],
+      "random_pick": 1
+     }
+    ],
+    "delay_before_activating": 90,
+    "delay_before_rearming": 600,
+    "react_on_helicopters": false,
+    "airport_link": "Saint-Omer Wizernes"
+   }
+  }
+ },
+ {
+  "name": "create_qra",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Normandy-WW2-v6",
+   "name": "QRA Solent",
+   "coalition": "blue",
+   "country_id": 4,
+   "country_name": "UK",
+   "trigger_zone": "QRA-Solent",
+   "position": {
+    "x": 150377,
+    "y": -33744
+   },
+   "radius": 25000,
+   "groups": [
+    {
+     "name": "QRA-Solent-Spitfire",
+     "units": [
+      {
+       "type": "SpitfireLFMkIX",
+       "count": 2
+      }
+     ],
+     "airfield": "Tangmere"
+    },
+    {
+     "name": "QRA-Solent-P51D",
+     "units": [
+      {
+       "type": "P-51D",
+       "count": 2
+      }
+     ],
+     "airfield": "Tangmere"
+    },
+    {
+     "name": "QRA-Solent-Spitfirex4",
+     "units": [
+      {
+       "type": "SpitfireLFMkIX",
+       "count": 4
+      }
+     ],
+     "airfield": "Tangmere"
+    },
+    {
+     "name": "QRA-Solent-P51Dx4",
+     "units": [
+      {
+       "type": "P-51D-30-NA",
+       "count": 4
+      }
+     ],
+     "airfield": "Tangmere"
+    }
+   ],
+   "enemy_coalitions": [
+    "RED"
+   ],
+   "qra": {
+    "groups_by_enemy_count": [
+     {
+      "enemy_count": 1,
+      "groups": [
+       "QRA-Solent-Spitfire",
+       "QRA-Solent-P51D"
+      ],
+      "random_pick": 1
+     },
+     {
+      "enemy_count": 3,
+      "groups": [
+       "QRA-Solent-Spitfirex4",
+       "QRA-Solent-P51Dx4"
+      ],
+      "random_pick": 1
+     }
+    ],
+    "delay_before_activating": 90,
+    "delay_before_rearming": 600,
+    "react_on_helicopters": false,
+    "airport_link": "Tangmere"
+   }
+  }
+ },
+ {
+  "name": "create_qra",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Normandy-WW2-v6",
+   "name": "QRA Tête de pont",
+   "coalition": "blue",
+   "country_id": 2,
+   "country_name": "USA",
+   "trigger_zone": "QRA-TetedePont",
+   "position": {
+    "x": -12733,
+    "y": -28909
+   },
+   "radius": 20000,
+   "groups": [
+    {
+     "name": "QRA-TetedePont-P47D",
+     "units": [
+      {
+       "type": "P-47D-30",
+       "count": 2
+      }
+     ],
+     "airfield": "Longues-sur-Mer"
+    },
+    {
+     "name": "QRA-TetedePont-P51D",
+     "units": [
+      {
+       "type": "P-51D",
+       "count": 2
+      }
+     ],
+     "airfield": "Longues-sur-Mer"
+    },
+    {
+     "name": "QRA-TetedePont-P47Dx4",
+     "units": [
+      {
+       "type": "P-47D-40",
+       "count": 4
+      }
+     ],
+     "airfield": "Longues-sur-Mer"
+    },
+    {
+     "name": "QRA-TetedePont-P51Dx4",
+     "units": [
+      {
+       "type": "P-51D-30-NA",
+       "count": 4
+      }
+     ],
+     "airfield": "Longues-sur-Mer"
+    }
+   ],
+   "enemy_coalitions": [
+    "RED"
+   ],
+   "qra": {
+    "groups_by_enemy_count": [
+     {
+      "enemy_count": 1,
+      "groups": [
+       "QRA-TetedePont-P47D",
+       "QRA-TetedePont-P51D"
+      ],
+      "random_pick": 1
+     },
+     {
+      "enemy_count": 3,
+      "groups": [
+       "QRA-TetedePont-P47Dx4",
+       "QRA-TetedePont-P51Dx4"
+      ],
+      "random_pick": 1
+     }
+    ],
+    "delay_before_activating": 90,
+    "delay_before_rearming": 600,
+    "react_on_helicopters": false,
+    "airport_link": "Longues-sur-Mer"
+   }
+  }
+ }
+]

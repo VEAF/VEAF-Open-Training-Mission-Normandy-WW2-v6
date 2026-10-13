@@ -1,0 +1,319 @@
+[
+ {
+  "name": "remove_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Normandy-WW2-v6",
+   "group_name": "combatZone_ConvoiFalaise-Convoi"
+  }
+ },
+ {
+  "name": "edit_zone",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Normandy-WW2-v6",
+   "zone_name": "combatZone_ConvoiFalaise",
+   "remove": true
+  }
+ },
+ {
+  "name": "remove_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Normandy-WW2-v6",
+   "group_name": "combatZone_ConvoiLisieux-Convoi"
+  }
+ },
+ {
+  "name": "edit_zone",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Normandy-WW2-v6",
+   "zone_name": "combatZone_ConvoiLisieux",
+   "remove": true
+  }
+ },
+ {
+  "name": "remove_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Normandy-WW2-v6",
+   "group_name": "combatZone_ConvoiCoutances-Convoi"
+  }
+ },
+ {
+  "name": "edit_zone",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Normandy-WW2-v6",
+   "zone_name": "combatZone_ConvoiCoutances",
+   "remove": true
+  }
+ },
+ {
+  "name": "create_combat_zone",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Normandy-WW2-v6",
+   "zone_name": "combatZone_ConvoiFalaise",
+   "position": {
+    "x": -63340,
+    "y": 8886
+   },
+   "radius": 1500,
+   "groups": [
+    {
+     "name": "Convoi",
+     "position": {
+      "x": -63340,
+      "y": 8886
+     },
+     "keep_position": true,
+     "units": [
+      {
+       "type": "Pz_IV_H",
+       "count": 2
+      },
+      {
+       "type": "Sd_Kfz_251",
+       "count": 2
+      },
+      {
+       "type": "Blitz_36-6700A",
+       "count": 4
+      },
+      {
+       "type": "Sd_Kfz_234_2_Puma",
+       "count": 1
+      }
+     ],
+     "route": [
+      {
+       "x": -63340,
+       "y": 8886
+      },
+      {
+       "x": -59433,
+       "y": 8073
+      },
+      {
+       "x": -55964,
+       "y": 6233
+      },
+      {
+       "x": -52353,
+       "y": 4498
+      },
+      {
+       "x": -49084,
+       "y": 3279
+      },
+      {
+       "x": -45221,
+       "y": 1671
+      },
+      {
+       "x": -42151,
+       "y": 352
+      },
+      {
+       "x": -37637,
+       "y": -1267
+      },
+      {
+       "x": -36781,
+       "y": -1407
+      }
+     ]
+    }
+   ],
+   "coalition": "red",
+   "country_id": 66,
+   "country_name": "Third Reich",
+   "category": "vehicle",
+   "combat_zone": {
+    "friendly_name": "Z06 Convoi — Falaise vers Caen",
+    "radio_group_name": "Convois",
+    "training": false,
+    "briefing": "Des renforts blindés quittent Falaise par la route de Caen. L'arrêter avant Caen ; deux Sd.Kfz 251 et un Puma l'escortent.\nPosition : bullseye 108°/37 nm (N48°54.745' W000°12.602'). Base amie la plus proche : Beny-sur-Mer, à 25 nm."
+   }
+  }
+ },
+ {
+  "name": "create_combat_zone",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Normandy-WW2-v6",
+   "zone_name": "combatZone_ConvoiLisieux",
+   "position": {
+    "x": -36837,
+    "y": 38504
+   },
+   "radius": 1500,
+   "groups": [
+    {
+     "name": "Convoi",
+     "position": {
+      "x": -36837,
+      "y": 38504
+     },
+     "keep_position": true,
+     "units": [
+      {
+       "type": "Blitz_36-6700A",
+       "count": 6
+      },
+      {
+       "type": "Sd_Kfz_7",
+       "count": 2
+      },
+      {
+       "type": "Sd_Kfz_251",
+       "count": 1
+      }
+     ],
+     "route": [
+      {
+       "x": -36837,
+       "y": 38504
+      },
+      {
+       "x": -37585,
+       "y": 34208
+      },
+      {
+       "x": -36988,
+       "y": 30205
+      },
+      {
+       "x": -37386,
+       "y": 26316
+      },
+      {
+       "x": -37368,
+       "y": 22527
+      },
+      {
+       "x": -39576,
+       "y": 19342
+      },
+      {
+       "x": -38779,
+       "y": 16290
+      },
+      {
+       "x": -37587,
+       "y": 13075
+      },
+      {
+       "x": -36121,
+       "y": 9959
+      },
+      {
+       "x": -34972,
+       "y": 6248
+      },
+      {
+       "x": -35221,
+       "y": 2069
+      },
+      {
+       "x": -35051,
+       "y": 1267
+      }
+     ]
+    }
+   ],
+   "coalition": "red",
+   "country_id": 66,
+   "country_name": "Third Reich",
+   "category": "vehicle",
+   "combat_zone": {
+    "friendly_name": "Z07 Convoi — Lisieux vers Caen",
+    "radio_group_name": "Convois",
+    "training": false,
+    "briefing": "Un convoi de ravitaillement roule de Lisieux vers Caen, par la route de Mézidon. Le détruire avant le front ; camions, tracteurs et un Sd.Kfz 251 d'escorte.\nPosition : bullseye 086°/51 nm (N49°08.399' E000°12.533'). Base amie la plus proche : Beny-sur-Mer, à 27 nm."
+   }
+  }
+ },
+ {
+  "name": "create_combat_zone",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Normandy-WW2-v6",
+   "zone_name": "combatZone_ConvoiCoutances",
+   "position": {
+    "x": -49428,
+    "y": -83711
+   },
+   "radius": 1500,
+   "groups": [
+    {
+     "name": "Convoi",
+     "position": {
+      "x": -49428,
+      "y": -83711
+     },
+     "keep_position": true,
+     "units": [
+      {
+       "type": "Sd_Kfz_251",
+       "count": 2
+      },
+      {
+       "type": "Blitz_36-6700A",
+       "count": 4
+      },
+      {
+       "type": "Kubelwagen_82",
+       "count": 1
+      },
+      {
+       "type": "Sd_Kfz_234_2_Puma",
+       "count": 1
+      }
+     ],
+     "route": [
+      {
+       "x": -49428,
+       "y": -83711
+      },
+      {
+       "x": -46191,
+       "y": -84441
+      },
+      {
+       "x": -42819,
+       "y": -85529
+      },
+      {
+       "x": -39534,
+       "y": -85717
+      },
+      {
+       "x": -36658,
+       "y": -83110
+      },
+      {
+       "x": -33816,
+       "y": -82794
+      },
+      {
+       "x": -30437,
+       "y": -83785
+      },
+      {
+       "x": -26979,
+       "y": -83389
+      },
+      {
+       "x": -24698,
+       "y": -86360
+      }
+     ]
+    }
+   ],
+   "coalition": "red",
+   "country_id": 66,
+   "country_name": "Third Reich",
+   "category": "vehicle",
+   "combat_zone": {
+    "friendly_name": "Z08 Convoi — Coutances vers La Haye-du-Puits",
+    "radio_group_name": "Convois",
+    "training": false,
+    "briefing": "Des renforts quittent Coutances vers La Haye-du-Puits, le long du front du Cotentin. Les arrêter avant le front ; deux Sd.Kfz 251 et un Puma les escortent.\nPosition : bullseye 256°/15 nm (N49°03.671' W001°28.162'). Base amie la plus proche : Picauville, à 20 nm."
+   }
+  }
+ }
+]

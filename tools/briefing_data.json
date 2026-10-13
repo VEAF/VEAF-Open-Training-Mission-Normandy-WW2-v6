@@ -1,0 +1,1749 @@
+{
+ "name": "VEAF_OpenTraining_Normandy_ICAO_LFRK",
+ "date": {
+  "Day": 6,
+  "Month": 7,
+  "Year": 1944
+ },
+ "start": 32400,
+ "bullseye": {
+  "x": -42728.0,
+  "y": -56219.0,
+  "ddm": "N49°06.949' W001°05.455'"
+ },
+ "bases": [
+  {
+   "name": "Azeville",
+   "side": "blue",
+   "x": -2525,
+   "y": -73664,
+   "be": "337°/24 nm",
+   "ddm": "N49°28.859' W001°19.057'",
+   "uhf": 250.25,
+   "vhf": 118.35,
+   "fm": 38.7
+  },
+  {
+   "name": "Bazenville",
+   "side": "blue",
+   "x": -20713,
+   "y": -18498,
+   "be": "060°/24 nm",
+   "ddm": "N49°18.238' W000°33.884'",
+   "uhf": 250.55,
+   "vhf": 118.7,
+   "fm": 39.0
+  },
+  {
+   "name": "Beny-sur-Mer",
+   "side": "blue",
+   "x": -21041,
+   "y": -8437,
+   "be": "066°/28 nm",
+   "ddm": "N49°17.881' W000°25.597'",
+   "uhf": 250.65,
+   "vhf": 118.8,
+   "fm": 39.1
+  },
+  {
+   "name": "Biggin Hill",
+   "side": "blue",
+   "x": 206076,
+   "y": 15670,
+   "be": "016°/140 nm",
+   "ddm": "N51°19.801' E000°01.899'",
+   "uhf": 253.3,
+   "vhf": 134.8,
+   "fm": 41.7
+  },
+  {
+   "name": "Deux Jumeaux",
+   "side": "blue",
+   "x": -16784,
+   "y": -48871,
+   "be": "016°/15 nm",
+   "ddm": "N49°20.840' W000°58.849'",
+   "uhf": 250.1,
+   "vhf": 118.15,
+   "fm": 38.55
+  },
+  {
+   "name": "Longues-sur-Mer",
+   "side": "blue",
+   "x": -16733,
+   "y": -28909,
+   "be": "046°/20 nm",
+   "ddm": "N49°20.560' W000°42.370'",
+   "uhf": 250.4,
+   "vhf": 118.55,
+   "fm": 38.85
+  },
+  {
+   "name": "Manston",
+   "side": "blue",
+   "x": 212062,
+   "y": 107130,
+   "be": "033°/163 nm",
+   "ddm": "N51°20.545' E001°20.771'",
+   "uhf": 253.35,
+   "vhf": 118.25,
+   "fm": 41.75
+  },
+  {
+   "name": "Maupertus",
+   "side": "blue",
+   "x": 16011,
+   "y": -84863,
+   "be": "334°/35 nm",
+   "ddm": "N49°38.988' W001°28.017'",
+   "uhf": 252.15,
+   "vhf": 120.35,
+   "fm": 40.6
+  },
+  {
+   "name": "Picauville",
+   "side": "blue",
+   "x": -12079,
+   "y": -80241,
+   "be": "322°/21 nm",
+   "ddm": "N49°23.782' W001°24.669'",
+   "uhf": 250.3,
+   "vhf": 118.4,
+   "fm": 38.75
+  },
+  {
+   "name": "Stoney Cross",
+   "side": "blue",
+   "x": 156400,
+   "y": -100851,
+   "be": "347°/110 nm",
+   "ddm": "N50°54.888' W001°39.193'",
+   "uhf": 252.55,
+   "vhf": 120.75,
+   "fm": 41.0
+  },
+  {
+   "name": "Tangmere",
+   "side": "blue",
+   "x": 150377,
+   "y": -33744,
+   "be": "007°/105 nm",
+   "ddm": "N50°50.746' W000°42.114'",
+   "uhf": 251.1,
+   "vhf": 119.3,
+   "fm": 39.55
+  },
+  {
+   "name": "Abbeville Drucat",
+   "side": "red",
+   "x": 80390,
+   "y": 150124,
+   "be": "059°/130 nm",
+   "ddm": "N50°08.288' E001°50.274'",
+   "uhf": 253.5,
+   "vhf": 118.05,
+   "fm": 41.9
+  },
+  {
+   "name": "Carpiquet",
+   "side": "red",
+   "x": -34769,
+   "y": -10001,
+   "be": "080°/25 nm",
+   "ddm": "N49°10.508' W000°27.268'",
+   "uhf": 250.45,
+   "vhf": 118.6,
+   "fm": 38.9
+  },
+  {
+   "name": "Evreux",
+   "side": "red",
+   "x": -46155,
+   "y": 112457,
+   "be": "091°/91 nm",
+   "ddm": "N49°01.428' E001°12.796'",
+   "uhf": 250.85,
+   "vhf": 119.0,
+   "fm": 39.3
+  },
+  {
+   "name": "Lessay",
+   "side": "red",
+   "x": -33812,
+   "y": -86866,
+   "be": "286°/17 nm",
+   "ddm": "N49°12.130' W001°30.501'",
+   "uhf": 253.95,
+   "vhf": 121.85,
+   "fm": 42.1
+  }
+ ],
+ "farps": [],
+ "support": [],
+ "caps": [
+  {
+   "name": "CAP-TetedePont-P51D",
+   "side": "blue",
+   "type": "P-51D",
+   "a": {
+    "x": -4676,
+    "y": -25202
+   },
+   "b": {
+    "x": -6896.0,
+    "y": 7533.0
+   },
+   "n": 2,
+   "fl": 150,
+   "menu": "CAP bleue P-51D — tête de pont — 15 000 ft",
+   "briefing": "Deux P-51D patrouillent au large de la tête de pont, de Port-en-Bessin à Ouistreham, à 15 000 ft. Canons seulement.",
+   "mid_be": "052°/32 nm"
+  },
+  {
+   "name": "CAP-Cotentin-Spitfire",
+   "side": "blue",
+   "type": "SpitfireLFMkIX",
+   "a": {
+    "x": 8510,
+    "y": -72637
+   },
+   "b": {
+    "x": 13789.0,
+    "y": -40237.0
+   },
+   "n": 2,
+   "fl": 120,
+   "menu": "CAP bleue Spitfire LF IX — Cotentin — 12 000 ft",
+   "briefing": "Deux Spitfire LF Mk IX patrouillent au nord du Cotentin, de Cherbourg à Saint-Vaast, à 12 000 ft. Canons seulement.",
+   "mid_be": "000°/29 nm"
+  },
+  {
+   "name": "CAP-Caen-Bf109",
+   "side": "red",
+   "type": "Bf-109K-4",
+   "a": {
+    "x": -56196,
+    "y": -1630
+   },
+   "b": {
+    "x": -52726.0,
+    "y": 31201.0
+   },
+   "n": 2,
+   "fl": 150,
+   "menu": "CAP rouge Bf 109 K-4 — sud de Caen — 15 000 ft",
+   "briefing": "Deux Bf 109 K-4 patrouillent au sud de Caen, entre Falaise et Lisieux, à 15 000 ft. Canons et mitrailleuses seulement.",
+   "mid_be": "099°/39 nm"
+  },
+  {
+   "name": "CAP-Cotentin-Fw190",
+   "side": "red",
+   "type": "FW-190A8",
+   "a": {
+    "x": -50642,
+    "y": -82271
+   },
+   "b": {
+    "x": -44680.0,
+    "y": -64136.0
+   },
+   "n": 2,
+   "fl": 120,
+   "menu": "CAP rouge Fw 190 A-8 — Cotentin sud — 12 000 ft",
+   "briefing": "Deux Fw 190 A-8 patrouillent au sud du front du Cotentin, entre Coutances et Saint-Lô, à 12 000 ft. Canons seulement.",
+   "mid_be": "254°/10 nm"
+  },
+  {
+   "name": "CAP-Seine-Fw190D9",
+   "side": "red",
+   "type": "FW-190D9",
+   "a": {
+    "x": -26833,
+    "y": 62960
+   },
+   "b": {
+    "x": -5193.0,
+    "y": 94658.0
+   },
+   "n": 2,
+   "fl": 220,
+   "menu": "CAP rouge Fw 190 D-9 — vallée de la Seine — 22 000 ft",
+   "briefing": "Deux Fw 190 D-9, le chasseur le plus performant du camp rouge, patrouillent haut au-dessus de la Seine, entre Pont-Audemer et Rouen, à 22 000 ft. Canons seulement.",
+   "mid_be": "079°/74 nm"
+  },
+  {
+   "name": "Raid-Ju88",
+   "side": "red",
+   "type": "Ju-88A4",
+   "a": {
+    "x": -2095,
+    "y": 43642
+   },
+   "b": {
+    "x": 7828.0,
+    "y": 14228.0
+   },
+   "n": 4,
+   "fl": 120,
+   "menu": "Raid rouge Ju 88 A-4 à intercepter — baie de Seine — 12 000 ft",
+   "briefing": "Quatre bombardiers Ju 88 A-4 tournent au-dessus de la baie de Seine, à 12 000 ft, prêts à frapper les plages : les intercepter. Armement défensif seulement tiré par les mitrailleurs.",
+   "mid_be": "062°/52 nm"
+  }
+ ],
+ "carriers": [],
+ "zones": [
+  {
+   "key": "combatZone_Bocage_Easy",
+   "name": "A1 Mitraillage bocage — facile",
+   "training": true,
+   "menu": "Entraînement appui rapproché",
+   "x": -647,
+   "y": -84744,
+   "radius_nm": 1.349892008639309,
+   "be": "326°/27 nm",
+   "ddm": "N49°30.000' W001°28.200'",
+   "briefing": "Champ de tir d'appui rapproché dans le bocage du Cotentin, à 6 nm à l'ouest d'Azeville : chars, blindés légers et camions immobiles en tir interdit, dépôts de carburant et casernement. À 11 nm du front, arrière bleu.",
+   "near": ""
+  },
+  {
+   "key": "combatZone_Bocage_Medium",
+   "name": "A2 Mitraillage bocage — moyen",
+   "training": true,
+   "menu": "Entraînement appui rapproché",
+   "x": -647,
+   "y": -84744,
+   "radius_nm": 1.349892008639309,
+   "be": "326°/27 nm",
+   "ddm": "N49°30.000' W001°28.200'",
+   "briefing": "Champ de tir du bocage : un groupe blindé léger actif et de la flak légère de 20 mm (deux positions tirées au sort sur trois) en plus des cibles du niveau facile.",
+   "near": ""
+  },
+  {
+   "key": "combatZone_Bocage_Hard",
+   "name": "A3 Mitraillage bocage — difficile",
+   "training": true,
+   "menu": "Entraînement appui rapproché",
+   "x": -647,
+   "y": -84744,
+   "radius_nm": 1.349892008639309,
+   "be": "326°/27 nm",
+   "ddm": "N49°30.000' W001°28.200'",
+   "briefing": "Champ de tir du bocage avec une défense courte portée réaliste : une batterie de flak de 37 mm (tirée au sort entre deux positions), de la flak de 20 mm et un second groupe blindé.",
+   "near": ""
+  },
+  {
+   "key": "combatZone_Salisbury_Easy",
+   "name": "B1 Bombardement Salisbury — facile",
+   "training": true,
+   "menu": "Entraînement bombardement",
+   "x": 187747,
+   "y": -124262,
+   "radius_nm": 1.349892008639309,
+   "be": "344°/130 nm",
+   "ddm": "N51°12.000' W001°58.800'",
+   "briefing": "Champ de tir de bombardement de la plaine de Salisbury, à 21 nm de Stoney Cross : bâtiments et véhicules fictifs immobiles en tir interdit (blockhaus, casernes, entrepôts, dépôt, gare). À 111 nm du front : aucun contact possible.",
+   "near": ""
+  },
+  {
+   "key": "combatZone_Salisbury_Medium",
+   "name": "B2 Bombardement Salisbury — moyen",
+   "training": true,
+   "menu": "Entraînement bombardement",
+   "x": 187747,
+   "y": -124262,
+   "radius_nm": 1.349892008639309,
+   "be": "344°/130 nm",
+   "ddm": "N51°12.000' W001°58.800'",
+   "briefing": "Champ de tir de Salisbury : de la flak légère de 20 mm, deux positions sur trois tirées au sort, en plus des cibles du niveau facile.",
+   "near": ""
+  },
+  {
+   "key": "combatZone_Salisbury_Hard",
+   "name": "B3 Bombardement Salisbury — difficile",
+   "training": true,
+   "menu": "Entraînement bombardement",
+   "x": 187747,
+   "y": -124262,
+   "radius_nm": 1.349892008639309,
+   "be": "344°/130 nm",
+   "ddm": "N51°12.000' W001°58.800'",
+   "briefing": "Champ de tir de Salisbury avec la flak lourde de l'époque : une batterie de pièces de 88 mm (tirée au sort entre deux positions) et une batterie de 37 mm en plus du niveau moyen.",
+   "near": ""
+  },
+  {
+   "key": "combatZone_Aurigny_Easy",
+   "name": "C1 Antiflak Aurigny — facile",
+   "training": true,
+   "menu": "Entraînement antiflak",
+   "x": 23334,
+   "y": -140445,
+   "radius_nm": 0.8099352051835853,
+   "be": "308°/58 nm",
+   "ddm": "N49°43.398' W002°14.148'",
+   "briefing": "Site antiflak du fort Tourgis, à Aurigny, à 1 nm de la piste d'Aurigny et 30 nm de Maupertus : une batterie de flak moyenne (37 mm), à détruire. À 32 nm du front, en territoire rouge.",
+   "near": ""
+  },
+  {
+   "key": "combatZone_Aurigny_Medium",
+   "name": "C2 Antiflak Aurigny — moyen",
+   "training": true,
+   "menu": "Entraînement antiflak",
+   "x": 23334,
+   "y": -140445,
+   "radius_nm": 0.8099352051835853,
+   "be": "308°/58 nm",
+   "ddm": "N49°43.398' W002°14.148'",
+   "briefing": "Site antiflak d'Aurigny : la flak lourde de 88 mm (une batterie sur deux positions) en plus de la batterie de 37 mm.",
+   "near": ""
+  },
+  {
+   "key": "combatZone_Aurigny_Hard",
+   "name": "C3 Antiflak Aurigny — difficile",
+   "training": true,
+   "menu": "Entraînement antiflak",
+   "x": 23334,
+   "y": -140445,
+   "radius_nm": 0.8099352051835853,
+   "be": "308°/58 nm",
+   "ddm": "N49°43.398' W002°14.148'",
+   "briefing": "Site antiflak d'Aurigny en réseau : un radar d'alerte Freya, un radar de conduite de tir Würzburg, un télémètre et deux projecteurs guident la flak lourde et moyenne.",
+   "near": ""
+  },
+  {
+   "key": "combatZone_TourPlages",
+   "name": "T1 Tourisme — Plages du Débarquement",
+   "training": true,
+   "menu": "Tourisme",
+   "x": -15724,
+   "y": -22677,
+   "radius_nm": 0.8099352051835853,
+   "be": "051°/23 nm",
+   "ddm": "N49°21.000' W000°37.200'",
+   "briefing": "Visite aérienne « Plages du Débarquement », hors combat, à 3 nm de Longues-sur-Mer. Une balise radio VHF/AM à chaque site (SWD 130.0, GLD 130.5, OMA 131.0, UTH 131.5) ; survolez un monument à moins de 1 500 ft sol et un guide vous le raconte.",
+   "near": ""
+  },
+  {
+   "key": "combatZone_TourCotentin",
+   "name": "T2 Tourisme — Cotentin et Cherbourg",
+   "training": true,
+   "menu": "Tourisme",
+   "x": 12723,
+   "y": -83571,
+   "radius_nm": 0.8099352051835853,
+   "be": "334°/33 nm",
+   "ddm": "N49°37.200' W001°27.000'",
+   "briefing": "Visite aérienne « Cotentin et Cherbourg », hors combat, à 2 nm de Maupertus. Une balise radio VHF/AM à chaque site (CHB 133.0, GAT 133.5, VAA 134.0) ; survolez un monument à moins de 1 500 ft sol et un guide vous le raconte.",
+   "near": ""
+  },
+  {
+   "key": "combatZone_TourAngleterre",
+   "name": "T3 Tourisme — Côte sud de l'Angleterre",
+   "training": true,
+   "menu": "Tourisme",
+   "x": 144316,
+   "y": -68683,
+   "radius_nm": 0.8099352051835853,
+   "be": "356°/101 nm",
+   "ddm": "N50°48.000' W001°12.000'",
+   "briefing": "Visite aérienne « Côte sud de l'Angleterre », hors combat, à 19 nm de Stoney Cross. Une balise radio VHF/AM à chaque site (NDL 135.0, POR 135.5, BCH 136.0, DVR 136.5) ; survolez un monument à moins de 1 500 ft sol et un guide vous le raconte.",
+   "near": ""
+  },
+  {
+   "key": "combatZone_VillersBocage",
+   "name": "Z01 Front — Villers-Bocage",
+   "training": false,
+   "menu": "Front",
+   "x": -45628,
+   "y": -24353,
+   "radius_nm": 1.349892008639309,
+   "be": "095°/17 nm",
+   "ddm": "N49°04.902' W000°39.348'",
+   "briefing": "Des chars allemands tiennent les hauteurs de Villers-Bocage, face à la poussée britannique : Panzer IV, Tiger et canons antichars en position, appuyés par de l'artillerie (composition illustrative). Détruire les blindés et les canons ; flak légère et moyenne pour la couverture.",
+   "near": "Bazenville, à 14 nm."
+  },
+  {
+   "key": "combatZone_CaenNord",
+   "name": "Z02 Front — Caen et Carpiquet",
+   "training": false,
+   "menu": "Front",
+   "x": -33562,
+   "y": -6799,
+   "radius_nm": 1.349892008639309,
+   "be": "079°/27 nm",
+   "ddm": "N49°11.100' W000°24.600'",
+   "briefing": "La ligne de défense de la 12e SS Hitlerjugend au nord de Caen, autour de Carpiquet : Panzer IV, Tiger et automoteurs d'artillerie dans les ruines. Détruire les blindés et l'artillerie ; flak moyenne de 37 mm, sous la QRA de Caen.",
+   "near": "Beny-sur-Mer, à 7 nm."
+  },
+  {
+   "key": "combatZone_CotentinSud",
+   "name": "Z03 Front — La Haye-du-Puits et Lessay",
+   "training": false,
+   "menu": "Front",
+   "x": -32929,
+   "y": -86276,
+   "radius_nm": 1.349892008639309,
+   "be": "288°/17 nm",
+   "ddm": "N49°12.600' W001°30.000'",
+   "briefing": "La ligne de défense allemande qui bloque le Cotentin, des marais de Lessay à La Haye-du-Puits : canons antichars, blindés légers et artillerie dans le bocage. Détruire les blindés et les canons ; flak moyenne. Aucune QRA ne couvre le Cotentin sud.",
+   "near": "Picauville, à 12 nm."
+  },
+  {
+   "key": "combatZone_Antifer",
+   "name": "Z04 Radars — station du cap d'Antifer",
+   "training": false,
+   "menu": "Flak et radars",
+   "x": 23775,
+   "y": 32723,
+   "radius_nm": 1.079913606911447,
+   "be": "053°/60 nm",
+   "ddm": "N49°41.192' E000°09.875'",
+   "briefing": "La station radar du cap d'Antifer, sur la côte au nord du Havre : radar d'alerte avancée Freya et radars de conduite de tir Würzburg, protégés par de la flak lourde. Détruire les radars et réduire la flak.",
+   "near": "Beny-sur-Mer, à 33 nm."
+  },
+  {
+   "key": "combatZone_GrisNez",
+   "name": "Z05 Radars — cap Gris-Nez",
+   "training": false,
+   "menu": "Flak et radars",
+   "x": 160808,
+   "y": 126925,
+   "radius_nm": 1.079913606911447,
+   "be": "042°/148 nm",
+   "ddm": "N50°52.328' E001°35.023'",
+   "briefing": "Le cap Gris-Nez, au plus près des côtes anglaises : radars Freya et Würzburg, flak lourde et batterie côtière. Détruire les radars et réduire la flak ; la batterie côtière est une menace pour les navires, pas pour les avions.",
+   "near": "Manston, à 30 nm."
+  },
+  {
+   "key": "combatZone_ConvoiFalaise",
+   "name": "Z06 Convoi — Falaise vers Caen",
+   "training": false,
+   "menu": "Convois",
+   "x": -63340,
+   "y": 8886,
+   "radius_nm": 0.8099352051835853,
+   "be": "108°/37 nm",
+   "ddm": "N48°54.745' W000°12.602'",
+   "briefing": "Des renforts blindés quittent Falaise par la route de Caen. L'arrêter avant Caen ; deux Sd.Kfz 251 et un Puma l'escortent.",
+   "near": "Beny-sur-Mer, à 25 nm."
+  },
+  {
+   "key": "combatZone_ConvoiLisieux",
+   "name": "Z07 Convoi — Lisieux vers Caen",
+   "training": false,
+   "menu": "Convois",
+   "x": -36837,
+   "y": 38504,
+   "radius_nm": 0.8099352051835853,
+   "be": "086°/51 nm",
+   "ddm": "N49°08.399' E000°12.533'",
+   "briefing": "Un convoi de ravitaillement roule de Lisieux vers Caen, par la route de Mézidon. Le détruire avant le front ; camions, tracteurs et un Sd.Kfz 251 d'escorte.",
+   "near": "Beny-sur-Mer, à 27 nm."
+  },
+  {
+   "key": "combatZone_ConvoiCoutances",
+   "name": "Z08 Convoi — Coutances vers La Haye-du-Puits",
+   "training": false,
+   "menu": "Convois",
+   "x": -49428,
+   "y": -83711,
+   "radius_nm": 0.8099352051835853,
+   "be": "256°/15 nm",
+   "ddm": "N49°03.671' W001°28.162'",
+   "briefing": "Des renforts quittent Coutances vers La Haye-du-Puits, le long du front du Cotentin. Les arrêter avant le front ; deux Sd.Kfz 251 et un Puma les escortent.",
+   "near": "Picauville, à 20 nm."
+  },
+  {
+   "key": "combatZone_RocheGuyon",
+   "name": "Z09 Frappe — état-major de La Roche-Guyon",
+   "training": false,
+   "menu": "Frappes en profondeur",
+   "x": -37521,
+   "y": 142308,
+   "radius_nm": 0.6479481641468683,
+   "be": "088°/107 nm",
+   "ddm": "N49°05.136' E001°37.650'",
+   "briefing": "Le quartier général du groupe d'armées B, dans le château de La Roche-Guyon, au bord de la Seine : bunkers, centre de transmissions, véhicules de commandement. Tout détruire ; flak moyenne et lourde. Hors des cercles de QRA.",
+   "near": "Beny-sur-Mer, à 82 nm."
+  },
+  {
+   "key": "combatZone_TriageArgentan",
+   "name": "Z10 Frappe — gare de triage d'Argentan",
+   "training": false,
+   "menu": "Frappes en profondeur",
+   "x": -81349,
+   "y": 23902,
+   "radius_nm": 0.8099352051835853,
+   "be": "116°/48 nm",
+   "ddm": "N48°44.730' W000°00.900'",
+   "briefing": "La gare de triage d'Argentan, nœud ferroviaire qui alimente le front de Normandie : gare, entrepôts, réservoirs de carburant. Tout détruire ; flak moyenne.",
+   "near": "Beny-sur-Mer, à 37 nm."
+  },
+  {
+   "key": "combatZone_Eperlecques",
+   "name": "Z11 Frappe — blockhaus d'Éperlecques",
+   "training": false,
+   "menu": "Frappes en profondeur",
+   "x": 156099,
+   "y": 163695,
+   "radius_nm": 0.8099352051835853,
+   "be": "048°/160 nm",
+   "ddm": "N50°48.498' E002°05.982'",
+   "briefing": "Le blockhaus d'Éperlecques, près de Saint-Omer : un énorme bunker de béton destiné au lancement des fusées V2, bâti en 1943 et déjà bombardé. Détruire le blockhaus et ses annexes ; flak lourde et moyenne, sous la QRA du Pas-de-Calais.",
+   "near": "Manston, à 43 nm."
+  },
+  {
+   "key": "combatZone_DepotLisieux",
+   "name": "Z12 Frappe — dépôts d'essence de Lisieux",
+   "training": false,
+   "menu": "Frappes en profondeur",
+   "x": -36214,
+   "y": 40020,
+   "radius_nm": 0.8099352051835853,
+   "be": "086°/52 nm",
+   "ddm": "N49°08.700' E000°13.800'",
+   "briefing": "Un dépôt de carburant de l'arrière du front, près de Lisieux (position illustrative) : réservoirs, pompes, entrepôts. Tout détruire ; flak moyenne.",
+   "near": "Beny-sur-Mer, à 27 nm."
+  },
+  {
+   "key": "combatZone_Triqueville",
+   "name": "Z13 OCA — base aérienne de Triqueville",
+   "training": false,
+   "menu": "Bases aériennes",
+   "x": -14227,
+   "y": 56291,
+   "radius_nm": 0.8099352051835853,
+   "be": "076°/63 nm",
+   "ddm": "N49°20.158' E000°27.991'",
+   "briefing": "La base aérienne de Triqueville, au sud de l'estuaire de la Seine : chasseurs au parking, hangars et carburant. Tout détruire au sol ; flak moyenne et lourde, sous la QRA de la Seine.",
+   "near": "Beny-sur-Mer, à 35 nm."
+  },
+  {
+   "key": "combatZone_BeaumontLeRoger",
+   "name": "Z14 OCA — base aérienne de Beaumont-le-Roger",
+   "training": false,
+   "menu": "Bases aériennes",
+   "x": -39697,
+   "y": 82226,
+   "radius_nm": 0.8099352051835853,
+   "be": "089°/75 nm",
+   "ddm": "N49°05.767' E000°48.308'",
+   "briefing": "La base aérienne de Beaumont-le-Roger, à l'arrière du front : bombardiers et chasseurs au parking, hangars et carburant. Tout détruire au sol ; flak moyenne et lourde.",
+   "near": "Beny-sur-Mer, à 50 nm."
+  },
+  {
+   "key": "combatZone_VedettesLeHavre",
+   "name": "Z15 Antinavire — vedettes lance-torpilles du Havre",
+   "training": false,
+   "menu": "Antinavire",
+   "x": 5917,
+   "y": 22272,
+   "radius_nm": 3.509719222462203,
+   "be": "058°/50 nm",
+   "ddm": "N49°31.800' E000°00.600'",
+   "briefing": "Les vedettes lance-torpilles (S-boote) basées au Havre, qui sortent attaquer les convois de la Manche, et la batterie côtière du cap de la Hève. Couler les vedettes ; flak de bord et batterie côtière (portée de 20 km environ pour les canons, sans menace pour les avions).",
+   "near": "Beny-sur-Mer, à 22 nm."
+  },
+  {
+   "key": "combatZone_ConvoiCotier",
+   "name": "Z16 Antinavire — convoi côtier vers Dieppe",
+   "training": false,
+   "menu": "Antinavire",
+   "x": 47922,
+   "y": 41443,
+   "radius_nm": 2.159827213822894,
+   "be": "047°/72 nm",
+   "ddm": "N49°54.000' E000°18.000'",
+   "briefing": "Un convoi de cargos escortés longe la côte du Havre vers Dieppe, avec deux vedettes lance-torpilles. Couler les cargos ; flak de bord sur les escorteurs.",
+   "near": "Beny-sur-Mer, à 46 nm."
+  }
+ ],
+ "qra": [
+  {
+   "name": "QRA Caen",
+   "side": "red",
+   "x": -39769,
+   "y": -1341,
+   "radius_nm": 8,
+   "airport": "Carpiquet",
+   "tiers": [
+    {
+     "n": 1,
+     "pick": 1,
+     "types": [
+      "2 × Bf-109K-4",
+      "2 × FW-190A8"
+     ]
+    },
+    {
+     "n": 3,
+     "pick": 1,
+     "types": [
+      "4 × FW-190D9",
+      "4 × Bf-109K-4"
+     ]
+    }
+   ],
+   "ddm": "N49°07.651' W000°20.291'",
+   "be": "087°/30 nm",
+   "delay": 90,
+   "helos": false
+  },
+  {
+   "name": "QRA Seine",
+   "side": "red",
+   "x": -14227,
+   "y": 55691,
+   "radius_nm": 12,
+   "airport": "Triqueville",
+   "tiers": [
+    {
+     "n": 1,
+     "pick": 1,
+     "types": [
+      "2 × FW-190A8",
+      "2 × Bf-109K-4"
+     ]
+    },
+    {
+     "n": 3,
+     "pick": 1,
+     "types": [
+      "4 × FW-190A8",
+      "4 × FW-190D9"
+     ]
+    }
+   ],
+   "ddm": "N49°20.173' E000°27.496'",
+   "be": "076°/62 nm",
+   "delay": 90,
+   "helos": false
+  },
+  {
+   "name": "QRA Pas-de-Calais",
+   "side": "red",
+   "x": 147926,
+   "y": 173656,
+   "radius_nm": 16,
+   "airport": "Saint-Omer Wizernes",
+   "tiers": [
+    {
+     "n": 1,
+     "pick": 1,
+     "types": [
+      "2 × Bf-109K-4",
+      "2 × FW-190D9"
+     ]
+    },
+    {
+     "n": 3,
+     "pick": 1,
+     "types": [
+      "4 × Bf-109K-4",
+      "4 × FW-190A8"
+     ]
+    }
+   ],
+   "ddm": "N50°43.731' E002°13.938'",
+   "be": "050°/161 nm",
+   "delay": 90,
+   "helos": false
+  },
+  {
+   "name": "QRA Solent",
+   "side": "blue",
+   "x": 150377,
+   "y": -33744,
+   "radius_nm": 13,
+   "airport": "Tangmere",
+   "tiers": [
+    {
+     "n": 1,
+     "pick": 1,
+     "types": [
+      "2 × SpitfireLFMkIX",
+      "2 × P-51D"
+     ]
+    },
+    {
+     "n": 3,
+     "pick": 1,
+     "types": [
+      "4 × SpitfireLFMkIX",
+      "4 × P-51D-30-NA"
+     ]
+    }
+   ],
+   "ddm": "N50°50.746' W000°42.114'",
+   "be": "007°/105 nm",
+   "delay": 90,
+   "helos": false
+  },
+  {
+   "name": "QRA Tête de pont",
+   "side": "blue",
+   "x": -12733,
+   "y": -28909,
+   "radius_nm": 11,
+   "airport": "Longues-sur-Mer",
+   "tiers": [
+    {
+     "n": 1,
+     "pick": 1,
+     "types": [
+      "2 × P-47D-30",
+      "2 × P-51D"
+     ]
+    },
+    {
+     "n": 3,
+     "pick": 1,
+     "types": [
+      "4 × P-47D-40",
+      "4 × P-51D-30-NA"
+     ]
+    }
+   ],
+   "ddm": "N49°22.717' W000°42.269'",
+   "be": "042°/22 nm",
+   "delay": 90,
+   "helos": false
+  }
+ ],
+ "sanctuaries": [
+  {
+   "name": "Sanctuaire Angleterre du sud",
+   "side": "blue",
+   "x": 150334,
+   "y": -51221,
+   "radius_nm": 26.997840172786177,
+   "radius_km": 50.0
+  },
+  {
+   "name": "Sanctuaire Évreux",
+   "side": "red",
+   "x": -46155,
+   "y": 112457,
+   "radius_nm": 13.498920086393088,
+   "radius_km": 25.0
+  }
+ ],
+ "front": [
+  [
+   {
+    "x": -16447.0,
+    "y": -96772.0
+   },
+   {
+    "x": -24079.0,
+    "y": -88634.0
+   },
+   {
+    "x": -28175.0,
+    "y": -71810.0
+   },
+   {
+    "x": -31253.0,
+    "y": -60813.0
+   },
+   {
+    "x": -42261.0,
+    "y": -56163.0
+   },
+   {
+    "x": -45042.0,
+    "y": -35638.0
+   },
+   {
+    "x": -43581.0,
+    "y": -23992.0
+   },
+   {
+    "x": -34620.0,
+    "y": -22082.0
+   },
+   {
+    "x": -34241.0,
+    "y": -10423.0
+   },
+   {
+    "x": -31769.0,
+    "y": -3214.0
+   },
+   {
+    "x": -22565.0,
+    "y": 5202.0
+   },
+   {
+    "x": -19960.0,
+    "y": 15297.0
+   }
+  ]
+ ],
+ "arena_zone": {
+  "x": 75000.0,
+  "y": -95000.0,
+  "radius_nm": 20,
+  "be": "342°/67 nm",
+  "ddm": "N50°10.919' W001°35.518'"
+ },
+ "ad": [
+  {
+   "name": "Stoney Cross LR",
+   "side": "blue",
+   "alias": "-samLR",
+   "x": 159864,
+   "y": -102851,
+   "ddm": "N50°56.775' W001°40.846'",
+   "be": "347°/112 nm"
+  },
+  {
+   "name": "Stoney Cross AAA",
+   "side": "blue",
+   "alias": "-aaa",
+   "x": 154842,
+   "y": -99951,
+   "ddm": "N50°54.038' W001°38.449'",
+   "be": "348°/109 nm"
+  },
+  {
+   "name": "Maupertus LR",
+   "side": "blue",
+   "alias": "-samLR",
+   "x": 20011,
+   "y": -84863,
+   "ddm": "N49°41.146' W001°27.949'",
+   "be": "335°/37 nm"
+  },
+  {
+   "name": "Maupertus AAA",
+   "side": "blue",
+   "alias": "-aaa",
+   "x": 14211,
+   "y": -84863,
+   "ddm": "N49°38.017' W001°28.048'",
+   "be": "333°/34 nm"
+  },
+  {
+   "name": "Azeville LR",
+   "side": "blue",
+   "alias": "-samLR",
+   "x": -596,
+   "y": -70271,
+   "ddm": "N49°29.859' W001°16.211'",
+   "be": "342°/24 nm"
+  },
+  {
+   "name": "Azeville AAA",
+   "side": "blue",
+   "alias": "-aaa",
+   "x": -3141,
+   "y": -75356,
+   "ddm": "N49°28.548' W001°20.469'",
+   "be": "334°/24 nm"
+  },
+  {
+   "name": "Deux Jumeaux SR",
+   "side": "blue",
+   "alias": "-samSR",
+   "x": -13753,
+   "y": -50621,
+   "ddm": "N49°22.500' W001°00.227'",
+   "be": "011°/16 nm"
+  },
+  {
+   "name": "Deux Jumeaux AAA",
+   "side": "blue",
+   "alias": "-aaa",
+   "x": -18343,
+   "y": -47971,
+   "ddm": "N49°19.986' W000°58.140'",
+   "be": "019°/14 nm"
+  },
+  {
+   "name": "Longues LR",
+   "side": "blue",
+   "alias": "-samLR",
+   "x": -16311,
+   "y": -28510,
+   "ddm": "N49°20.781' W000°42.029'",
+   "be": "046°/21 nm"
+  },
+  {
+   "name": "Longues AAA",
+   "side": "blue",
+   "alias": "-aaa",
+   "x": -16733,
+   "y": -30709,
+   "ddm": "N49°20.589' W000°43.855'",
+   "be": "044°/20 nm"
+  },
+  {
+   "name": "Picauville SR",
+   "side": "blue",
+   "alias": "-samSR",
+   "x": -9079,
+   "y": -80241,
+   "ddm": "N49°25.401' W001°24.617'",
+   "be": "324°/22 nm"
+  },
+  {
+   "name": "Picauville AAA",
+   "side": "blue",
+   "alias": "-aaa",
+   "x": -11179,
+   "y": -78682,
+   "ddm": "N49°24.250' W001°23.365'",
+   "be": "325°/21 nm"
+  },
+  {
+   "name": "Beny SR",
+   "side": "blue",
+   "alias": "-samSR",
+   "x": -18041,
+   "y": -8437,
+   "ddm": "N49°19.499' W000°25.513'",
+   "be": "063°/29 nm"
+  },
+  {
+   "name": "Beny AAA",
+   "side": "blue",
+   "alias": "-aaa",
+   "x": -20141,
+   "y": -6879,
+   "ddm": "N49°18.338' W000°24.287'",
+   "be": "065°/29 nm"
+  },
+  {
+   "name": "Mulberry Arromanches VLR",
+   "side": "blue",
+   "alias": "-samVLR",
+   "x": -16861,
+   "y": -23324,
+   "ddm": "N49°20.398' W000°37.763'",
+   "be": "052°/23 nm"
+  },
+  {
+   "name": "Cherbourg VLR",
+   "side": "blue",
+   "alias": "-samVLR",
+   "x": 16575,
+   "y": -96822,
+   "ddm": "N49°39.417' W001°37.946'",
+   "be": "326°/39 nm"
+  },
+  {
+   "name": "Director Bayeux",
+   "side": "blue",
+   "alias": "radar Allies_Director",
+   "x": -21084,
+   "y": -28418,
+   "ddm": "N49°18.205' W000°42.073'",
+   "be": "052°/19 nm"
+  },
+  {
+   "name": "Tangmere LR",
+   "side": "blue",
+   "alias": "-samLR",
+   "x": 154135,
+   "y": -32376,
+   "ddm": "N50°52.749' W000°40.849'",
+   "be": "007°/107 nm"
+  },
+  {
+   "name": "Tangmere SR",
+   "side": "blue",
+   "alias": "-samSR",
+   "x": 148027,
+   "y": -34599,
+   "ddm": "N50°49.493' W000°42.904'",
+   "be": "006°/104 nm"
+  },
+  {
+   "name": "Tangmere AAA",
+   "side": "blue",
+   "alias": "-aaa",
+   "x": 149761,
+   "y": -32052,
+   "ddm": "N50°50.385' W000°40.690'",
+   "be": "007°/105 nm"
+  },
+  {
+   "name": "Biggin Hill LR",
+   "side": "blue",
+   "alias": "-samLR",
+   "x": 210076,
+   "y": 15670,
+   "ddm": "N51°21.956' E000°02.042'",
+   "be": "016°/142 nm"
+  },
+  {
+   "name": "Biggin Hill AAA",
+   "side": "blue",
+   "alias": "-aaa",
+   "x": 204276,
+   "y": 15670,
+   "ddm": "N51°18.831' E000°01.835'",
+   "be": "016°/139 nm"
+  },
+  {
+   "name": "Manston LR",
+   "side": "blue",
+   "alias": "-samLR",
+   "x": 212062,
+   "y": 103130,
+   "ddm": "N51°20.672' E001°17.335'",
+   "be": "032°/162 nm"
+  },
+  {
+   "name": "Manston AAA",
+   "side": "blue",
+   "alias": "-aaa",
+   "x": 212062,
+   "y": 108930,
+   "ddm": "N51°20.487' E001°22.317'",
+   "be": "033°/164 nm"
+  },
+  {
+   "name": "Bazenville SR",
+   "side": "blue",
+   "alias": "-samSR",
+   "x": -17713,
+   "y": -18498,
+   "ddm": "N49°19.855' W000°33.804'",
+   "be": "056°/24 nm"
+  },
+  {
+   "name": "Bazenville AAA",
+   "side": "blue",
+   "alias": "-aaa",
+   "x": -19813,
+   "y": -20057,
+   "ddm": "N49°18.750' W000°35.145'",
+   "be": "058°/23 nm"
+  },
+  {
+   "name": "Portsmouth VLR",
+   "side": "blue",
+   "alias": "-samVLR",
+   "x": 147322,
+   "y": -61274,
+   "ddm": "N50°49.521' W001°05.630'",
+   "be": "358°/103 nm"
+  },
+  {
+   "name": "Director Tangmere",
+   "side": "blue",
+   "alias": "radar Allies_Director",
+   "x": 153912,
+   "y": -30208,
+   "ddm": "N50°52.592' W000°39.007'",
+   "be": "008°/107 nm"
+  },
+  {
+   "name": "Carpiquet SR",
+   "side": "red",
+   "alias": "-samSR",
+   "x": -37368,
+   "y": -8501,
+   "ddm": "N49°09.079' W000°26.106'",
+   "be": "084°/26 nm"
+  },
+  {
+   "name": "Carpiquet AAA",
+   "side": "red",
+   "alias": "-aaa",
+   "x": -34769,
+   "y": -8201,
+   "ddm": "N49°10.475' W000°25.787'",
+   "be": "081°/26 nm"
+  },
+  {
+   "name": "Lessay SR",
+   "side": "red",
+   "alias": "-samSR",
+   "x": -36812,
+   "y": -86866,
+   "ddm": "N49°10.511' W001°30.549'",
+   "be": "281°/17 nm"
+  },
+  {
+   "name": "Lessay AAA",
+   "side": "red",
+   "alias": "-aaa",
+   "x": -33812,
+   "y": -85066,
+   "ddm": "N49°12.111' W001°29.018'",
+   "be": "287°/16 nm"
+  },
+  {
+   "name": "Evreux LR",
+   "side": "red",
+   "alias": "-samLR",
+   "x": -46155,
+   "y": 116457,
+   "ddm": "N49°01.307' E001°16.069'",
+   "be": "091°/93 nm"
+  },
+  {
+   "name": "Evreux SR",
+   "side": "red",
+   "alias": "-samSR",
+   "x": -46155,
+   "y": 109957,
+   "ddm": "N49°01.503' E001°10.749'",
+   "be": "091°/90 nm"
+  },
+  {
+   "name": "Evreux AAA",
+   "side": "red",
+   "alias": "-aaa",
+   "x": -47955,
+   "y": 112457,
+   "ddm": "N49°00.459' E001°12.714'",
+   "be": "092°/91 nm"
+  },
+  {
+   "name": "Abbeville LR",
+   "side": "red",
+   "alias": "-samLR",
+   "x": 80390,
+   "y": 154124,
+   "ddm": "N50°08.148' E001°53.620'",
+   "be": "060°/132 nm"
+  },
+  {
+   "name": "Abbeville SR",
+   "side": "red",
+   "alias": "-samSR",
+   "x": 80390,
+   "y": 147624,
+   "ddm": "N50°08.375' E001°48.182'",
+   "be": "059°/129 nm"
+  },
+  {
+   "name": "Abbeville AAA",
+   "side": "red",
+   "alias": "-aaa",
+   "x": 82190,
+   "y": 150124,
+   "ddm": "N50°09.256' E001°50.372'",
+   "be": "059°/130 nm"
+  },
+  {
+   "name": "Le Havre VLR",
+   "side": "red",
+   "alias": "-samVLR",
+   "x": 5193,
+   "y": 29526,
+   "ddm": "N49°31.251' E000°06.581'",
+   "be": "061°/53 nm"
+  },
+  {
+   "name": "Rouen VLR",
+   "side": "red",
+   "alias": "-samVLR",
+   "x": 2669,
+   "y": 101229,
+   "ddm": "N49°28.042' E001°05.773'",
+   "be": "074°/88 nm"
+  },
+  {
+   "name": "Triqueville LR",
+   "side": "red",
+   "alias": "-samLR",
+   "x": -10727,
+   "y": 55691,
+   "ddm": "N49°22.058' E000°27.629'",
+   "be": "074°/63 nm"
+  },
+  {
+   "name": "Saint-Omer LR",
+   "side": "red",
+   "alias": "-samLR",
+   "x": 151426,
+   "y": 173656,
+   "ddm": "N50°45.612' E002°14.148'",
+   "be": "050°/162 nm"
+  },
+  {
+   "name": "EWR Honfleur",
+   "side": "red",
+   "alias": "radar FuMG-401, FuSe-65",
+   "x": -1868,
+   "y": 38996,
+   "ddm": "N49°27.231' E000°14.168'",
+   "be": "067°/56 nm"
+  },
+  {
+   "name": "EWR Vimoutiers",
+   "side": "red",
+   "alias": "radar FuMG-401",
+   "x": -57244,
+   "y": 38629,
+   "ddm": "N48°57.399' E000°11.928'",
+   "be": "099°/52 nm"
+  },
+  {
+   "name": "EWR Argentan",
+   "side": "red",
+   "alias": "radar FuMG-401, FuSe-65",
+   "x": -81660,
+   "y": 19374,
+   "ddm": "N48°44.657' W000°04.600'",
+   "be": "117°/46 nm"
+  },
+  {
+   "name": "EWR Dieppe",
+   "side": "red",
+   "alias": "radar FuMG-401, FuSe-65",
+   "x": 54593.0,
+   "y": 97775.0,
+   "ddm": "N49°56.094' E001°05.258'",
+   "be": "058°/98 nm"
+  }
+ ],
+ "drones": [],
+ "arena_slots": [
+  {
+   "group": "Arène bleue P-51D",
+   "side": "blue",
+   "type": "P-51D",
+   "n": 2,
+   "fl": 150
+  },
+  {
+   "group": "Arène bleue P-47D",
+   "side": "blue",
+   "type": "P-47D-30",
+   "n": 2,
+   "fl": 150
+  },
+  {
+   "group": "Arène bleue Spitfire LF IX",
+   "side": "blue",
+   "type": "SpitfireLFMkIX",
+   "n": 2,
+   "fl": 150
+  },
+  {
+   "group": "Arène rouge Fw 190 A-8",
+   "side": "red",
+   "type": "FW-190A8",
+   "n": 2,
+   "fl": 150
+  },
+  {
+   "group": "Arène rouge Fw 190 D-9",
+   "side": "red",
+   "type": "FW-190D9",
+   "n": 2,
+   "fl": 150
+  },
+  {
+   "group": "Arène rouge Bf 109 K-4",
+   "side": "red",
+   "type": "Bf-109K-4",
+   "n": 2,
+   "fl": 150
+  }
+ ],
+ "radio": {
+  "blue": {
+   "primary_2": {
+    "1": "Guard",
+    "2": "Arene",
+    "3": "Base-Tangmere",
+    "4": "Base-Stoney Cross",
+    "5": "Base-Biggin Hill",
+    "6": "Base-Manston",
+    "7": "Base-Maupertus",
+    "8": "Base-Longues-sur-Mer",
+    "9": "Base-Deux Jumeaux",
+    "10": "Base-Azeville",
+    "11": "Base-Picauville",
+    "12": "Base-Bazenville",
+    "13": "Base-Beny-sur-Mer"
+   }
+  },
+  "red": {
+   "primary_2": {
+    "1": "Guard",
+    "2": "Arene",
+    "3": "Base-Carpiquet",
+    "4": "Base-Lessay",
+    "5": "Base-Evreux",
+    "6": "Base-Abbeville Drucat",
+    "7": "Base-Triqueville",
+    "8": "Base-Rouen-Boos",
+    "9": "Base-Beaumont-le-Roger",
+    "10": "Base-Argentan",
+    "11": "Base-Flers",
+    "12": "Base-Saint-Omer Wizernes",
+    "13": "Base-Fecamp-Benouville",
+    "14": "Base-Deauville",
+    "15": "Base-Beauvais-Tille",
+    "16": "Base-Creil",
+    "17": "Base-Cormeilles-en-Vexin",
+    "18": "Base-Ronai",
+    "19": "Base-Vrigny"
+   }
+  }
+ },
+ "channels": {
+  "Guard": {
+   "uhf": 243,
+   "vhf": 121.5
+  },
+  "Arene": {
+   "vhf": 125.0
+  },
+  "Base-Abbeville Drucat": {
+   "uhf": 253.5,
+   "vhf": 118.05,
+   "fm": 41.9
+  },
+  "Base-Argentan": {
+   "uhf": 251.2,
+   "vhf": 119.4,
+   "fm": 39.65
+  },
+  "Base-Azeville": {
+   "uhf": 250.25,
+   "vhf": 118.35,
+   "fm": 38.7
+  },
+  "Base-Bazenville": {
+   "uhf": 250.55,
+   "vhf": 118.7,
+   "fm": 39.0
+  },
+  "Base-Beaumont-le-Roger": {
+   "uhf": 253.05,
+   "vhf": 121.25,
+   "fm": 41.45
+  },
+  "Base-Beauvais-Tille": {
+   "uhf": 251.85,
+   "vhf": 120.05,
+   "fm": 40.3
+  },
+  "Base-Beny-sur-Mer": {
+   "uhf": 250.65,
+   "vhf": 118.8,
+   "fm": 39.1
+  },
+  "Base-Biggin Hill": {
+   "uhf": 253.3,
+   "vhf": 134.8,
+   "fm": 41.7
+  },
+  "Base-Carpiquet": {
+   "uhf": 250.45,
+   "vhf": 118.6,
+   "fm": 38.9
+  },
+  "Base-Cormeilles-en-Vexin": {
+   "uhf": 251.9,
+   "vhf": 120.1,
+   "fm": 40.35
+  },
+  "Base-Creil": {
+   "uhf": 251.95,
+   "vhf": 120.15,
+   "fm": 40.4
+  },
+  "Base-Deauville": {
+   "uhf": 252.8,
+   "vhf": 121.0,
+   "fm": 41.2
+  },
+  "Base-Deux Jumeaux": {
+   "uhf": 250.1,
+   "vhf": 118.15,
+   "fm": 38.55
+  },
+  "Base-Evreux": {
+   "uhf": 250.85,
+   "vhf": 119.0,
+   "fm": 39.3
+  },
+  "Base-Fecamp-Benouville": {
+   "uhf": 252.2,
+   "vhf": 120.4,
+   "fm": 40.65
+  },
+  "Base-Flers": {
+   "uhf": 252.9,
+   "vhf": 121.1,
+   "fm": 41.3
+  },
+  "Base-Lessay": {
+   "uhf": 253.95,
+   "vhf": 121.85,
+   "fm": 42.1
+  },
+  "Base-Longues-sur-Mer": {
+   "uhf": 250.4,
+   "vhf": 118.55,
+   "fm": 38.85
+  },
+  "Base-Manston": {
+   "uhf": 253.35,
+   "vhf": 118.25,
+   "fm": 41.75
+  },
+  "Base-Maupertus": {
+   "uhf": 252.15,
+   "vhf": 120.35,
+   "fm": 40.6
+  },
+  "Base-Picauville": {
+   "uhf": 250.3,
+   "vhf": 118.4,
+   "fm": 38.75
+  },
+  "Base-Ronai": {
+   "uhf": 252.7,
+   "vhf": 120.9,
+   "fm": 41.1
+  },
+  "Base-Rouen-Boos": {
+   "uhf": 252.75,
+   "vhf": 120.95,
+   "fm": 41.15
+  },
+  "Base-Saint-Omer Wizernes": {
+   "uhf": 253.55,
+   "vhf": 121.55,
+   "fm": 41.95
+  },
+  "Base-Stoney Cross": {
+   "uhf": 252.55,
+   "vhf": 120.75,
+   "fm": 41.0
+  },
+  "Base-Tangmere": {
+   "uhf": 251.1,
+   "vhf": 119.3,
+   "fm": 39.55
+  },
+  "Base-Triqueville": {
+   "uhf": 252.4,
+   "vhf": 120.6,
+   "fm": 40.85
+  },
+  "Base-Vrigny": {
+   "uhf": 251.5,
+   "vhf": 119.7,
+   "fm": 39.95
+  }
+ },
+ "titles": {
+  "Guard": "Guard",
+  "Arene": "Arène — combat entre joueurs",
+  "Base-Abbeville Drucat": "Abbeville Drucat",
+  "Base-Argentan": "Argentan",
+  "Base-Azeville": "Azeville",
+  "Base-Bazenville": "Bazenville",
+  "Base-Beaumont-le-Roger": "Beaumont-le-Roger",
+  "Base-Beauvais-Tille": "Beauvais-Tille",
+  "Base-Beny-sur-Mer": "Beny-sur-Mer",
+  "Base-Biggin Hill": "Biggin Hill",
+  "Base-Carpiquet": "Carpiquet",
+  "Base-Cormeilles-en-Vexin": "Cormeilles-en-Vexin",
+  "Base-Creil": "Creil",
+  "Base-Deauville": "Deauville",
+  "Base-Deux Jumeaux": "Deux Jumeaux",
+  "Base-Evreux": "Evreux",
+  "Base-Fecamp-Benouville": "Fecamp-Benouville",
+  "Base-Flers": "Flers",
+  "Base-Lessay": "Lessay",
+  "Base-Longues-sur-Mer": "Longues-sur-Mer",
+  "Base-Manston": "Manston",
+  "Base-Maupertus": "Maupertus",
+  "Base-Picauville": "Picauville",
+  "Base-Ronai": "Ronai",
+  "Base-Rouen-Boos": "Rouen-Boos",
+  "Base-Saint-Omer Wizernes": "Saint-Omer Wizernes",
+  "Base-Stoney Cross": "Stoney Cross",
+  "Base-Tangmere": "Tangmere",
+  "Base-Triqueville": "Triqueville",
+  "Base-Vrigny": "Vrigny"
+ },
+ "fw_channels": {
+  "1": 38.9,
+  "2": 42.1,
+  "3": 39.3,
+  "4": 41.9,
+  "5": 40.85,
+  "6": 41.15,
+  "7": 41.45,
+  "8": 39.65,
+  "9": 41.3,
+  "10": 41.95,
+  "11": 40.65,
+  "12": 41.2,
+  "13": 40.3,
+  "14": 40.4,
+  "15": 40.35,
+  "16": 41.1,
+  "17": 39.95
+ },
+ "weather": {
+  "temperature": 18.0,
+  "wind_from": 250,
+  "wind_ms": 4.11552,
+  "visibility_km": 10.0,
+  "sky": "quelques nuages à 4 000 ft"
+ },
+ "beacons": [
+  {
+   "code": "SWD",
+   "site": "Sword et Pegasus Bridge",
+   "mhz": 130.0,
+   "ddm": "N49°14.622' W000°16.470'",
+   "be": "075°/33 nm",
+   "x": -26691,
+   "y": 2839
+  },
+  {
+   "code": "GLD",
+   "site": "Gold et Arromanches",
+   "mhz": 130.5,
+   "ddm": "N49°20.400' W000°37.200'",
+   "be": "052°/23 nm",
+   "x": -16835,
+   "y": -22642
+  },
+  {
+   "code": "OMA",
+   "site": "Omaha et Colleville",
+   "mhz": 131.0,
+   "ddm": "N49°21.558' W000°51.384'",
+   "be": "031°/17 nm",
+   "x": -15204,
+   "y": -39874
+  },
+  {
+   "code": "UTH",
+   "site": "Utah et Sainte-Mère-Église",
+   "mhz": 131.5,
+   "ddm": "N49°24.270' W001°10.284'",
+   "be": "348°/18 nm",
+   "x": -10782,
+   "y": -62867
+  },
+  {
+   "code": "CHB",
+   "site": "Cherbourg et le fort du Roule",
+   "mhz": 133.0,
+   "ddm": "N49°37.980' W001°36.420'",
+   "be": "326°/37 nm",
+   "x": 13946,
+   "y": -94937
+  },
+  {
+   "code": "GAT",
+   "site": "phare de Gatteville",
+   "mhz": 133.5,
+   "ddm": "N49°40.739' W001°15.939'",
+   "be": "347°/35 nm",
+   "x": 19571.0,
+   "y": -70408.0
+  },
+  {
+   "code": "VAA",
+   "site": "Saint-Vaast-la-Hougue",
+   "mhz": 134.0,
+   "ddm": "N49°35.280' W001°16.080'",
+   "be": "345°/29 nm",
+   "x": 9452,
+   "y": -70344
+  },
+  {
+   "code": "NDL",
+   "site": "les Needles",
+   "mhz": 135.0,
+   "ddm": "N50°39.786' W001°35.127'",
+   "be": "347°/95 nm",
+   "x": 128503.0,
+   "y": -95552.0
+  },
+  {
+   "code": "POR",
+   "site": "Portsmouth",
+   "mhz": 135.5,
+   "ddm": "N50°48.000' W001°06.360'",
+   "be": "358°/101 nm",
+   "x": 144481,
+   "y": -62059
+  },
+  {
+   "code": "BCH",
+   "site": "Beachy Head",
+   "mhz": 136.0,
+   "ddm": "N50°44.094' E000°14.524'",
+   "be": "026°/110 nm",
+   "x": 140546,
+   "y": 33238
+  },
+  {
+   "code": "DVR",
+   "site": "Douvres",
+   "mhz": 136.5,
+   "ddm": "N51°07.674' E001°19.551'",
+   "be": "035°/153 nm",
+   "x": 188137.0,
+   "y": 107121.0
+  }
+ ],
+ "fronts_nm": [
+  73
+ ],
+ "cap_missions": [
+  {
+   "name": "CAP-Caen-Bf109",
+   "menu": "CAP rouge Bf 109 K-4 — sud de Caen — 15 000 ft",
+   "briefing": "Deux Bf 109 K-4 patrouillent au sud de Caen, entre Falaise et Lisieux, à 15 000 ft. Canons et mitrailleuses seulement."
+  },
+  {
+   "name": "CAP-Cotentin-Fw190",
+   "menu": "CAP rouge Fw 190 A-8 — Cotentin sud — 12 000 ft",
+   "briefing": "Deux Fw 190 A-8 patrouillent au sud du front du Cotentin, entre Coutances et Saint-Lô, à 12 000 ft. Canons seulement."
+  },
+  {
+   "name": "CAP-Seine-Fw190D9",
+   "menu": "CAP rouge Fw 190 D-9 — vallée de la Seine — 22 000 ft",
+   "briefing": "Deux Fw 190 D-9, le chasseur le plus performant du camp rouge, patrouillent haut au-dessus de la Seine, entre Pont-Audemer et Rouen, à 22 000 ft. Canons seulement."
+  },
+  {
+   "name": "Raid-Ju88",
+   "menu": "Raid rouge Ju 88 A-4 à intercepter — baie de Seine — 12 000 ft",
+   "briefing": "Quatre bombardiers Ju 88 A-4 tournent au-dessus de la baie de Seine, à 12 000 ft, prêts à frapper les plages : les intercepter. Armement défensif seulement tiré par les mitrailleurs."
+  },
+  {
+   "name": "CAP-TetedePont-P51D",
+   "menu": "CAP bleue P-51D — tête de pont — 15 000 ft",
+   "briefing": "Deux P-51D patrouillent au large de la tête de pont, de Port-en-Bessin à Ouistreham, à 15 000 ft. Canons seulement."
+  },
+  {
+   "name": "CAP-Cotentin-Spitfire",
+   "menu": "CAP bleue Spitfire LF IX — Cotentin — 12 000 ft",
+   "briefing": "Deux Spitfire LF Mk IX patrouillent au nord du Cotentin, de Cherbourg à Saint-Vaast, à 12 000 ft. Canons seulement."
+  }
+ ],
+ "combat_missions": [
+  {
+   "name": "Défense — raid de Ju 88 sur le port artificiel d'Arromanches",
+   "briefing": "Six Ju 88 A-4 chargés de bombes, escortés de quatre Fw 190 A-8, partent de l'estuaire de la Seine vers le port artificiel d'Arromanches. Abattez les bombardiers avant le largage.\nÉchec si le port est bombardé (constaté par vous : la mission ne le vérifie pas)."
+  },
+  {
+   "name": "Escorte — six B-17G sur les triages de Rouen",
+   "briefing": "Six B-17G décollés d'Angleterre vont bombarder la gare de triage de Rouen, par la Manche et la basse Seine. Des Fw 190 A-8 et des Bf 109 K-4 les attendent au-dessus de la Seine : escortez-les, de la côte à la cible.\nÉchec si un bombardier est abattu (constaté par vous : la mission ne le vérifie pas)."
+  },
+  {
+   "name": "Interception — Ju 88 de reconnaissance sur la tête de pont",
+   "briefing": "Un Ju 88 A-4 de reconnaissance, escorté de deux Bf 109 K-4, survole la tête de pont à 22 000 ft pour photographier les plages. Interceptez-le avant qu'il ne rentre : sa route passe au large de Courseulles, de Bayeux puis du Cotentin."
+  }
+ ]
+}

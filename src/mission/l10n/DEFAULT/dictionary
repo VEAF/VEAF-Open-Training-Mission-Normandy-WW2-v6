@@ -1,0 +1,14 @@
+dictionary = 
+{
+  DictKey_MCP_subtitle_1 = "SWD — Sword et Pegasus Bridge",
+  DictKey_MCP_subtitle_10 = "BCH — Beachy Head",
+  DictKey_MCP_subtitle_11 = "DVR — Douvres",
+  DictKey_MCP_subtitle_2 = "GLD — Gold et Arromanches",
+  DictKey_MCP_subtitle_3 = "OMA — Omaha et Colleville",
+  DictKey_MCP_subtitle_4 = "UTH — Utah et Sainte-Mère-Église",
+  DictKey_MCP_subtitle_5 = "CHB — Cherbourg et le fort du Roule",
+  DictKey_MCP_subtitle_6 = "GAT — phare de Gatteville",
+  DictKey_MCP_subtitle_7 = "VAA — Saint-Vaast-la-Hougue",
+  DictKey_MCP_subtitle_8 = "NDL — les Needles",
+  DictKey_MCP_subtitle_9 = "POR — Portsmouth",
+}

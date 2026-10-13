@@ -1,0 +1,1026 @@
+[
+ {
+  "name": "add_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Normandy-WW2-v6",
+   "coalition": "blue",
+   "country_id": 4,
+   "country_name": "UK",
+   "category": "vehicle",
+   "name": "AD Tangmere LR",
+   "position": {
+    "x": 154135,
+    "y": -32376
+   },
+   "keep_position": true,
+   "units": [
+    {
+     "type": "QF_37_AA",
+     "name": "#veafInterpreter[\"-samLR, hdg 0, country usa\"] #Tangmere-LR"
+    }
+   ]
+  }
+ },
+ {
+  "name": "add_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Normandy-WW2-v6",
+   "coalition": "blue",
+   "country_id": 4,
+   "country_name": "UK",
+   "category": "vehicle",
+   "name": "AD Tangmere SR",
+   "position": {
+    "x": 148027,
+    "y": -34599
+   },
+   "keep_position": true,
+   "units": [
+    {
+     "type": "M1_37mm",
+     "name": "#veafInterpreter[\"-samSR, hdg 0, country usa\"] #Tangmere-SR"
+    }
+   ]
+  }
+ },
+ {
+  "name": "add_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Normandy-WW2-v6",
+   "coalition": "blue",
+   "country_id": 4,
+   "country_name": "UK",
+   "category": "vehicle",
+   "name": "AD Tangmere AAA",
+   "position": {
+    "x": 149761,
+    "y": -32052
+   },
+   "keep_position": true,
+   "units": [
+    {
+     "type": "M45_Quadmount",
+     "name": "#veafInterpreter[\"-aaa, hdg 0, country usa\"] #Tangmere-AAA"
+    }
+   ]
+  }
+ },
+ {
+  "name": "add_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Normandy-WW2-v6",
+   "coalition": "blue",
+   "country_id": 2,
+   "country_name": "USA",
+   "category": "vehicle",
+   "name": "AD Stoney Cross LR",
+   "position": {
+    "x": 159864,
+    "y": -102851
+   },
+   "keep_position": true,
+   "units": [
+    {
+     "type": "QF_37_AA",
+     "name": "#veafInterpreter[\"-samLR, hdg 0, country usa\"] #Stoney-Cross-LR"
+    }
+   ]
+  }
+ },
+ {
+  "name": "add_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Normandy-WW2-v6",
+   "coalition": "blue",
+   "country_id": 2,
+   "country_name": "USA",
+   "category": "vehicle",
+   "name": "AD Stoney Cross AAA",
+   "position": {
+    "x": 154842,
+    "y": -99951
+   },
+   "keep_position": true,
+   "units": [
+    {
+     "type": "M45_Quadmount",
+     "name": "#veafInterpreter[\"-aaa, hdg 0, country usa\"] #Stoney-Cross-AAA"
+    }
+   ]
+  }
+ },
+ {
+  "name": "add_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Normandy-WW2-v6",
+   "coalition": "blue",
+   "country_id": 4,
+   "country_name": "UK",
+   "category": "vehicle",
+   "name": "AD Biggin Hill LR",
+   "position": {
+    "x": 210076,
+    "y": 15670
+   },
+   "keep_position": true,
+   "units": [
+    {
+     "type": "QF_37_AA",
+     "name": "#veafInterpreter[\"-samLR, hdg 0, country usa\"] #Biggin-Hill-LR"
+    }
+   ]
+  }
+ },
+ {
+  "name": "add_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Normandy-WW2-v6",
+   "coalition": "blue",
+   "country_id": 4,
+   "country_name": "UK",
+   "category": "vehicle",
+   "name": "AD Biggin Hill AAA",
+   "position": {
+    "x": 204276,
+    "y": 15670
+   },
+   "keep_position": true,
+   "units": [
+    {
+     "type": "M45_Quadmount",
+     "name": "#veafInterpreter[\"-aaa, hdg 0, country usa\"] #Biggin-Hill-AAA"
+    }
+   ]
+  }
+ },
+ {
+  "name": "add_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Normandy-WW2-v6",
+   "coalition": "blue",
+   "country_id": 4,
+   "country_name": "UK",
+   "category": "vehicle",
+   "name": "AD Manston LR",
+   "position": {
+    "x": 212062,
+    "y": 103130
+   },
+   "keep_position": true,
+   "units": [
+    {
+     "type": "QF_37_AA",
+     "name": "#veafInterpreter[\"-samLR, hdg 0, country usa\"] #Manston-LR"
+    }
+   ]
+  }
+ },
+ {
+  "name": "add_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Normandy-WW2-v6",
+   "coalition": "blue",
+   "country_id": 4,
+   "country_name": "UK",
+   "category": "vehicle",
+   "name": "AD Manston AAA",
+   "position": {
+    "x": 212062,
+    "y": 108930
+   },
+   "keep_position": true,
+   "units": [
+    {
+     "type": "M45_Quadmount",
+     "name": "#veafInterpreter[\"-aaa, hdg 0, country usa\"] #Manston-AAA"
+    }
+   ]
+  }
+ },
+ {
+  "name": "add_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Normandy-WW2-v6",
+   "coalition": "blue",
+   "country_id": 2,
+   "country_name": "USA",
+   "category": "vehicle",
+   "name": "AD Maupertus LR",
+   "position": {
+    "x": 20011,
+    "y": -84863
+   },
+   "keep_position": true,
+   "units": [
+    {
+     "type": "QF_37_AA",
+     "name": "#veafInterpreter[\"-samLR, hdg 0, country usa\"] #Maupertus-LR"
+    }
+   ]
+  }
+ },
+ {
+  "name": "add_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Normandy-WW2-v6",
+   "coalition": "blue",
+   "country_id": 2,
+   "country_name": "USA",
+   "category": "vehicle",
+   "name": "AD Maupertus AAA",
+   "position": {
+    "x": 14211,
+    "y": -84863
+   },
+   "keep_position": true,
+   "units": [
+    {
+     "type": "M45_Quadmount",
+     "name": "#veafInterpreter[\"-aaa, hdg 0, country usa\"] #Maupertus-AAA"
+    }
+   ]
+  }
+ },
+ {
+  "name": "add_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Normandy-WW2-v6",
+   "coalition": "blue",
+   "country_id": 2,
+   "country_name": "USA",
+   "category": "vehicle",
+   "name": "AD Azeville LR",
+   "position": {
+    "x": -596,
+    "y": -70271
+   },
+   "keep_position": true,
+   "units": [
+    {
+     "type": "QF_37_AA",
+     "name": "#veafInterpreter[\"-samLR, hdg 0, country usa\"] #Azeville-LR"
+    }
+   ]
+  }
+ },
+ {
+  "name": "add_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Normandy-WW2-v6",
+   "coalition": "blue",
+   "country_id": 2,
+   "country_name": "USA",
+   "category": "vehicle",
+   "name": "AD Azeville AAA",
+   "position": {
+    "x": -3141,
+    "y": -75356
+   },
+   "keep_position": true,
+   "units": [
+    {
+     "type": "M45_Quadmount",
+     "name": "#veafInterpreter[\"-aaa, hdg 0, country usa\"] #Azeville-AAA"
+    }
+   ]
+  }
+ },
+ {
+  "name": "add_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Normandy-WW2-v6",
+   "coalition": "blue",
+   "country_id": 2,
+   "country_name": "USA",
+   "category": "vehicle",
+   "name": "AD Deux Jumeaux SR",
+   "position": {
+    "x": -13753,
+    "y": -50621
+   },
+   "keep_position": true,
+   "units": [
+    {
+     "type": "M1_37mm",
+     "name": "#veafInterpreter[\"-samSR, hdg 0, country usa\"] #Deux-Jumeaux-SR"
+    }
+   ]
+  }
+ },
+ {
+  "name": "add_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Normandy-WW2-v6",
+   "coalition": "blue",
+   "country_id": 2,
+   "country_name": "USA",
+   "category": "vehicle",
+   "name": "AD Deux Jumeaux AAA",
+   "position": {
+    "x": -18343,
+    "y": -47971
+   },
+   "keep_position": true,
+   "units": [
+    {
+     "type": "M45_Quadmount",
+     "name": "#veafInterpreter[\"-aaa, hdg 0, country usa\"] #Deux-Jumeaux-AAA"
+    }
+   ]
+  }
+ },
+ {
+  "name": "add_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Normandy-WW2-v6",
+   "coalition": "blue",
+   "country_id": 2,
+   "country_name": "USA",
+   "category": "vehicle",
+   "name": "AD Longues LR",
+   "position": {
+    "x": -16311,
+    "y": -28510
+   },
+   "keep_position": true,
+   "units": [
+    {
+     "type": "QF_37_AA",
+     "name": "#veafInterpreter[\"-samLR, hdg 0, country usa\"] #Longues-LR"
+    }
+   ]
+  }
+ },
+ {
+  "name": "add_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Normandy-WW2-v6",
+   "coalition": "blue",
+   "country_id": 2,
+   "country_name": "USA",
+   "category": "vehicle",
+   "name": "AD Longues AAA",
+   "position": {
+    "x": -16733,
+    "y": -30709
+   },
+   "keep_position": true,
+   "units": [
+    {
+     "type": "M45_Quadmount",
+     "name": "#veafInterpreter[\"-aaa, hdg 0, country usa\"] #Longues-AAA"
+    }
+   ]
+  }
+ },
+ {
+  "name": "add_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Normandy-WW2-v6",
+   "coalition": "blue",
+   "country_id": 2,
+   "country_name": "USA",
+   "category": "vehicle",
+   "name": "AD Picauville SR",
+   "position": {
+    "x": -9079,
+    "y": -80241
+   },
+   "keep_position": true,
+   "units": [
+    {
+     "type": "M1_37mm",
+     "name": "#veafInterpreter[\"-samSR, hdg 0, country usa\"] #Picauville-SR"
+    }
+   ]
+  }
+ },
+ {
+  "name": "add_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Normandy-WW2-v6",
+   "coalition": "blue",
+   "country_id": 2,
+   "country_name": "USA",
+   "category": "vehicle",
+   "name": "AD Picauville AAA",
+   "position": {
+    "x": -11179,
+    "y": -78682
+   },
+   "keep_position": true,
+   "units": [
+    {
+     "type": "M45_Quadmount",
+     "name": "#veafInterpreter[\"-aaa, hdg 0, country usa\"] #Picauville-AAA"
+    }
+   ]
+  }
+ },
+ {
+  "name": "add_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Normandy-WW2-v6",
+   "coalition": "blue",
+   "country_id": 4,
+   "country_name": "UK",
+   "category": "vehicle",
+   "name": "AD Bazenville SR",
+   "position": {
+    "x": -17713,
+    "y": -18498
+   },
+   "keep_position": true,
+   "units": [
+    {
+     "type": "M1_37mm",
+     "name": "#veafInterpreter[\"-samSR, hdg 0, country usa\"] #Bazenville-SR"
+    }
+   ]
+  }
+ },
+ {
+  "name": "add_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Normandy-WW2-v6",
+   "coalition": "blue",
+   "country_id": 4,
+   "country_name": "UK",
+   "category": "vehicle",
+   "name": "AD Bazenville AAA",
+   "position": {
+    "x": -19813,
+    "y": -20057
+   },
+   "keep_position": true,
+   "units": [
+    {
+     "type": "M45_Quadmount",
+     "name": "#veafInterpreter[\"-aaa, hdg 0, country usa\"] #Bazenville-AAA"
+    }
+   ]
+  }
+ },
+ {
+  "name": "add_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Normandy-WW2-v6",
+   "coalition": "blue",
+   "country_id": 2,
+   "country_name": "USA",
+   "category": "vehicle",
+   "name": "AD Beny SR",
+   "position": {
+    "x": -18041,
+    "y": -8437
+   },
+   "keep_position": true,
+   "units": [
+    {
+     "type": "M1_37mm",
+     "name": "#veafInterpreter[\"-samSR, hdg 0, country usa\"] #Beny-SR"
+    }
+   ]
+  }
+ },
+ {
+  "name": "add_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Normandy-WW2-v6",
+   "coalition": "blue",
+   "country_id": 2,
+   "country_name": "USA",
+   "category": "vehicle",
+   "name": "AD Beny AAA",
+   "position": {
+    "x": -20141,
+    "y": -6879
+   },
+   "keep_position": true,
+   "units": [
+    {
+     "type": "M45_Quadmount",
+     "name": "#veafInterpreter[\"-aaa, hdg 0, country usa\"] #Beny-AAA"
+    }
+   ]
+  }
+ },
+ {
+  "name": "add_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Normandy-WW2-v6",
+   "coalition": "blue",
+   "country_id": 4,
+   "country_name": "UK",
+   "category": "vehicle",
+   "name": "AD Portsmouth VLR",
+   "position": {
+    "x": 147322,
+    "y": -61274
+   },
+   "keep_position": true,
+   "units": [
+    {
+     "type": "QF_37_AA",
+     "name": "#veafInterpreter[\"-samVLR, hdg 0, country usa\"] #Portsmouth-VLR"
+    }
+   ]
+  }
+ },
+ {
+  "name": "add_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Normandy-WW2-v6",
+   "coalition": "blue",
+   "country_id": 2,
+   "country_name": "USA",
+   "category": "vehicle",
+   "name": "AD Mulberry Arromanches VLR",
+   "position": {
+    "x": -16861,
+    "y": -23324
+   },
+   "keep_position": true,
+   "units": [
+    {
+     "type": "QF_37_AA",
+     "name": "#veafInterpreter[\"-samVLR, hdg 0, country usa\"] #Mulberry-Arromanches-VLR"
+    }
+   ]
+  }
+ },
+ {
+  "name": "add_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Normandy-WW2-v6",
+   "coalition": "blue",
+   "country_id": 2,
+   "country_name": "USA",
+   "category": "vehicle",
+   "name": "AD Cherbourg VLR",
+   "position": {
+    "x": 16575,
+    "y": -96822
+   },
+   "keep_position": true,
+   "units": [
+    {
+     "type": "QF_37_AA",
+     "name": "#veafInterpreter[\"-samVLR, hdg 0, country usa\"] #Cherbourg-VLR"
+    }
+   ]
+  }
+ },
+ {
+  "name": "add_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Normandy-WW2-v6",
+   "coalition": "red",
+   "country_id": 66,
+   "country_name": "Third Reich",
+   "category": "vehicle",
+   "name": "AD Carpiquet SR",
+   "position": {
+    "x": -37368,
+    "y": -8501
+   },
+   "keep_position": true,
+   "units": [
+    {
+     "type": "flak37",
+     "name": "#veafInterpreter[\"-samSR, hdg 0, country germany\"] #Carpiquet-SR"
+    }
+   ]
+  }
+ },
+ {
+  "name": "add_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Normandy-WW2-v6",
+   "coalition": "red",
+   "country_id": 66,
+   "country_name": "Third Reich",
+   "category": "vehicle",
+   "name": "AD Carpiquet AAA",
+   "position": {
+    "x": -34769,
+    "y": -8201
+   },
+   "keep_position": true,
+   "units": [
+    {
+     "type": "flak38",
+     "name": "#veafInterpreter[\"-aaa, hdg 0, country germany\"] #Carpiquet-AAA"
+    }
+   ]
+  }
+ },
+ {
+  "name": "add_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Normandy-WW2-v6",
+   "coalition": "red",
+   "country_id": 66,
+   "country_name": "Third Reich",
+   "category": "vehicle",
+   "name": "AD Lessay SR",
+   "position": {
+    "x": -36812,
+    "y": -86866
+   },
+   "keep_position": true,
+   "units": [
+    {
+     "type": "flak37",
+     "name": "#veafInterpreter[\"-samSR, hdg 0, country germany\"] #Lessay-SR"
+    }
+   ]
+  }
+ },
+ {
+  "name": "add_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Normandy-WW2-v6",
+   "coalition": "red",
+   "country_id": 66,
+   "country_name": "Third Reich",
+   "category": "vehicle",
+   "name": "AD Lessay AAA",
+   "position": {
+    "x": -33812,
+    "y": -85066
+   },
+   "keep_position": true,
+   "units": [
+    {
+     "type": "flak38",
+     "name": "#veafInterpreter[\"-aaa, hdg 0, country germany\"] #Lessay-AAA"
+    }
+   ]
+  }
+ },
+ {
+  "name": "add_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Normandy-WW2-v6",
+   "coalition": "red",
+   "country_id": 66,
+   "country_name": "Third Reich",
+   "category": "vehicle",
+   "name": "AD Evreux LR",
+   "position": {
+    "x": -46155,
+    "y": 116457
+   },
+   "keep_position": true,
+   "units": [
+    {
+     "type": "flak36",
+     "name": "#veafInterpreter[\"-samLR, hdg 0, country germany\"] #Evreux-LR"
+    }
+   ]
+  }
+ },
+ {
+  "name": "add_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Normandy-WW2-v6",
+   "coalition": "red",
+   "country_id": 66,
+   "country_name": "Third Reich",
+   "category": "vehicle",
+   "name": "AD Evreux SR",
+   "position": {
+    "x": -46155,
+    "y": 109957
+   },
+   "keep_position": true,
+   "units": [
+    {
+     "type": "flak37",
+     "name": "#veafInterpreter[\"-samSR, hdg 0, country germany\"] #Evreux-SR"
+    }
+   ]
+  }
+ },
+ {
+  "name": "add_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Normandy-WW2-v6",
+   "coalition": "red",
+   "country_id": 66,
+   "country_name": "Third Reich",
+   "category": "vehicle",
+   "name": "AD Evreux AAA",
+   "position": {
+    "x": -47955,
+    "y": 112457
+   },
+   "keep_position": true,
+   "units": [
+    {
+     "type": "flak38",
+     "name": "#veafInterpreter[\"-aaa, hdg 0, country germany\"] #Evreux-AAA"
+    }
+   ]
+  }
+ },
+ {
+  "name": "add_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Normandy-WW2-v6",
+   "coalition": "red",
+   "country_id": 66,
+   "country_name": "Third Reich",
+   "category": "vehicle",
+   "name": "AD Abbeville LR",
+   "position": {
+    "x": 80390,
+    "y": 154124
+   },
+   "keep_position": true,
+   "units": [
+    {
+     "type": "flak36",
+     "name": "#veafInterpreter[\"-samLR, hdg 0, country germany\"] #Abbeville-LR"
+    }
+   ]
+  }
+ },
+ {
+  "name": "add_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Normandy-WW2-v6",
+   "coalition": "red",
+   "country_id": 66,
+   "country_name": "Third Reich",
+   "category": "vehicle",
+   "name": "AD Abbeville SR",
+   "position": {
+    "x": 80390,
+    "y": 147624
+   },
+   "keep_position": true,
+   "units": [
+    {
+     "type": "flak37",
+     "name": "#veafInterpreter[\"-samSR, hdg 0, country germany\"] #Abbeville-SR"
+    }
+   ]
+  }
+ },
+ {
+  "name": "add_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Normandy-WW2-v6",
+   "coalition": "red",
+   "country_id": 66,
+   "country_name": "Third Reich",
+   "category": "vehicle",
+   "name": "AD Abbeville AAA",
+   "position": {
+    "x": 82190,
+    "y": 150124
+   },
+   "keep_position": true,
+   "units": [
+    {
+     "type": "flak38",
+     "name": "#veafInterpreter[\"-aaa, hdg 0, country germany\"] #Abbeville-AAA"
+    }
+   ]
+  }
+ },
+ {
+  "name": "add_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Normandy-WW2-v6",
+   "coalition": "red",
+   "country_id": 66,
+   "country_name": "Third Reich",
+   "category": "vehicle",
+   "name": "AD Le Havre VLR",
+   "position": {
+    "x": 5193,
+    "y": 29526
+   },
+   "keep_position": true,
+   "units": [
+    {
+     "type": "flak36",
+     "name": "#veafInterpreter[\"-samVLR, hdg 0, country germany\"] #Le-Havre-VLR"
+    }
+   ]
+  }
+ },
+ {
+  "name": "add_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Normandy-WW2-v6",
+   "coalition": "red",
+   "country_id": 66,
+   "country_name": "Third Reich",
+   "category": "vehicle",
+   "name": "AD Rouen VLR",
+   "position": {
+    "x": 2669,
+    "y": 101229
+   },
+   "keep_position": true,
+   "units": [
+    {
+     "type": "flak36",
+     "name": "#veafInterpreter[\"-samVLR, hdg 0, country germany\"] #Rouen-VLR"
+    }
+   ]
+  }
+ },
+ {
+  "name": "add_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Normandy-WW2-v6",
+   "coalition": "red",
+   "country_id": 66,
+   "country_name": "Third Reich",
+   "category": "vehicle",
+   "name": "AD Triqueville LR",
+   "position": {
+    "x": -10727,
+    "y": 55691
+   },
+   "keep_position": true,
+   "units": [
+    {
+     "type": "flak36",
+     "name": "#veafInterpreter[\"-samLR, hdg 0, country germany\"] #Triqueville-LR"
+    }
+   ]
+  }
+ },
+ {
+  "name": "add_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Normandy-WW2-v6",
+   "coalition": "red",
+   "country_id": 66,
+   "country_name": "Third Reich",
+   "category": "vehicle",
+   "name": "AD Saint-Omer LR",
+   "position": {
+    "x": 151426,
+    "y": 173656
+   },
+   "keep_position": true,
+   "units": [
+    {
+     "type": "flak36",
+     "name": "#veafInterpreter[\"-samLR, hdg 0, country germany\"] #Saint-Omer-LR"
+    }
+   ]
+  }
+ },
+ {
+  "name": "add_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Normandy-WW2-v6",
+   "coalition": "red",
+   "country_id": 66,
+   "country_name": "Third Reich",
+   "category": "vehicle",
+   "name": "EWR Honfleur",
+   "position": {
+    "x": -1868,
+    "y": 38996
+   },
+   "keep_position": true,
+   "units": [
+    {
+     "type": "FuMG-401",
+     "count": 1
+    },
+    {
+     "type": "FuSe-65",
+     "count": 1
+    }
+   ]
+  }
+ },
+ {
+  "name": "add_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Normandy-WW2-v6",
+   "coalition": "red",
+   "country_id": 66,
+   "country_name": "Third Reich",
+   "category": "vehicle",
+   "name": "EWR Vimoutiers",
+   "position": {
+    "x": -57244,
+    "y": 38629
+   },
+   "keep_position": true,
+   "units": [
+    {
+     "type": "FuMG-401",
+     "count": 1
+    }
+   ]
+  }
+ },
+ {
+  "name": "add_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Normandy-WW2-v6",
+   "coalition": "red",
+   "country_id": 66,
+   "country_name": "Third Reich",
+   "category": "vehicle",
+   "name": "EWR Argentan",
+   "position": {
+    "x": -81660,
+    "y": 19374
+   },
+   "keep_position": true,
+   "units": [
+    {
+     "type": "FuMG-401",
+     "count": 1
+    },
+    {
+     "type": "FuSe-65",
+     "count": 1
+    }
+   ]
+  }
+ },
+ {
+  "name": "add_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Normandy-WW2-v6",
+   "coalition": "red",
+   "country_id": 66,
+   "country_name": "Third Reich",
+   "category": "vehicle",
+   "name": "EWR Dieppe",
+   "position": {
+    "x": 54493,
+    "y": 97775
+   },
+   "keep_position": true,
+   "units": [
+    {
+     "type": "FuMG-401",
+     "count": 1
+    },
+    {
+     "type": "FuSe-65",
+     "count": 1
+    }
+   ]
+  }
+ },
+ {
+  "name": "add_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Normandy-WW2-v6",
+   "coalition": "blue",
+   "country_id": 4,
+   "country_name": "UK",
+   "category": "vehicle",
+   "name": "Director Tangmere",
+   "position": {
+    "x": 153912,
+    "y": -30208
+   },
+   "keep_position": true,
+   "units": [
+    {
+     "type": "Allies_Director",
+     "count": 1
+    }
+   ]
+  }
+ },
+ {
+  "name": "add_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Normandy-WW2-v6",
+   "coalition": "blue",
+   "country_id": 2,
+   "country_name": "USA",
+   "category": "vehicle",
+   "name": "Director Bayeux",
+   "position": {
+    "x": -21084,
+    "y": -28418
+   },
+   "keep_position": true,
+   "units": [
+    {
+     "type": "Allies_Director",
+     "count": 1
+    }
+   ]
+  }
+ }
+]

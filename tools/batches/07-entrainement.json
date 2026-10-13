@@ -1,0 +1,1185 @@
+[
+ {
+  "name": "create_combat_zone",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Normandy-WW2-v6",
+   "zone_name": "combatZone_Bocage_Easy",
+   "position": {
+    "x": -647,
+    "y": -84744
+   },
+   "radius": 2500,
+   "groups": [
+    {
+     "name": "Inert-Pz_IV_H-A1-1",
+     "position": {
+      "x": -47,
+      "y": -84744
+     },
+     "keep_position": true,
+     "units": [
+      {
+       "type": "Pz_IV_H",
+       "count": 1
+      }
+     ]
+    },
+    {
+     "name": "Inert-Stug_III-A1-2",
+     "position": {
+      "x": -34,
+      "y": -84230
+     },
+     "keep_position": true,
+     "units": [
+      {
+       "type": "Stug_III",
+       "count": 1
+      }
+     ]
+    },
+    {
+     "name": "Inert-Sd_Kfz_251-A1-3",
+     "position": {
+      "x": -560,
+      "y": -84252
+     },
+     "keep_position": true,
+     "units": [
+      {
+       "type": "Sd_Kfz_251",
+       "count": 1
+      }
+     ]
+    },
+    {
+     "name": "Inert-Sd_Kfz_251-A1-4",
+     "position": {
+      "x": -997,
+      "y": -84138
+     },
+     "keep_position": true,
+     "units": [
+      {
+       "type": "Sd_Kfz_251",
+       "count": 1
+      }
+     ]
+    },
+    {
+     "name": "Inert-Blitz_36-6700A-A1-5",
+     "position": {
+      "x": -1211,
+      "y": -84539
+     },
+     "keep_position": true,
+     "units": [
+      {
+       "type": "Blitz_36-6700A",
+       "count": 1
+      }
+     ]
+    },
+    {
+     "name": "Inert-Blitz_36-6700A-A1-6",
+     "position": {
+      "x": -1399,
+      "y": -85018
+     },
+     "keep_position": true,
+     "units": [
+      {
+       "type": "Blitz_36-6700A",
+       "count": 1
+      }
+     ]
+    },
+    {
+     "name": "Inert-Sd_Kfz_7-A1-7",
+     "position": {
+      "x": -947,
+      "y": -85264
+     },
+     "keep_position": true,
+     "units": [
+      {
+       "type": "Sd_Kfz_7",
+       "count": 1
+      }
+     ]
+    },
+    {
+     "name": "Inert-Horch_901_typ_40_kfz_21-A1-8",
+     "position": {
+      "x": -560,
+      "y": -85236
+     },
+     "keep_position": true,
+     "units": [
+      {
+       "type": "Horch_901_typ_40_kfz_21",
+       "count": 1
+      }
+     ]
+    },
+    {
+     "name": "Inert-Kubelwagen_82-A1-9",
+     "position": {
+      "x": -111,
+      "y": -85194
+     },
+     "keep_position": true,
+     "units": [
+      {
+       "type": "Kubelwagen_82",
+       "count": 1
+      }
+     ]
+    }
+   ],
+   "coalition": "red",
+   "country_id": 66,
+   "country_name": "Third Reich",
+   "category": "vehicle",
+   "combat_zone": {
+    "friendly_name": "A1 Mitraillage bocage — facile",
+    "radio_group_name": "Entraînement appui rapproché",
+    "training": true,
+    "briefing": "Champ de tir d'appui rapproché dans le bocage du Cotentin, à 6 nm à l'ouest d'Azeville : chars, blindés légers et camions immobiles en tir interdit, dépôts de carburant et casernement. À 11 nm du front, arrière bleu.\nPosition : bullseye 326°/27 nm (N49°30.000' W001°28.200')."
+   }
+  }
+ },
+ {
+  "name": "create_combat_zone",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Normandy-WW2-v6",
+   "zone_name": "combatZone_Bocage_Medium",
+   "position": {
+    "x": -647,
+    "y": -84744
+   },
+   "radius": 2500,
+   "groups": [
+    {
+     "name": "A2-1",
+     "position": {
+      "x": -1686,
+      "y": -85344
+     },
+     "keep_position": true,
+     "units": [
+      {
+       "type": "flak38",
+       "name": "#command=\"-aaa, defense 1, country germany\" #spawngroup=\"A2AAA\" #spawncount=2 #A2-1"
+      }
+     ]
+    },
+    {
+     "name": "A2-2",
+     "position": {
+      "x": -647,
+      "y": -85844
+     },
+     "keep_position": true,
+     "units": [
+      {
+       "type": "flak38",
+       "name": "#command=\"-aaa, defense 1, country germany\" #spawngroup=\"A2AAA\" #spawncount=2 #A2-2"
+      }
+     ]
+    },
+    {
+     "name": "A2-3",
+     "position": {
+      "x": -1773,
+      "y": -84094
+     },
+     "keep_position": true,
+     "units": [
+      {
+       "type": "flak38",
+       "name": "#command=\"-aaa, defense 1, country germany\" #spawngroup=\"A2AAA\" #spawncount=2 #A2-3"
+      }
+     ]
+    },
+    {
+     "name": "A2-4",
+     "position": {
+      "x": 652,
+      "y": -85494
+     },
+     "keep_position": true,
+     "units": [
+      {
+       "type": "Sd_Kfz_251",
+       "name": "#command=\"-armor, defense 0, country germany\" #A2-4"
+      }
+     ]
+    }
+   ],
+   "coalition": "red",
+   "country_id": 66,
+   "country_name": "Third Reich",
+   "category": "vehicle",
+   "combat_zone": {
+    "friendly_name": "A2 Mitraillage bocage — moyen",
+    "radio_group_name": "Entraînement appui rapproché",
+    "training": true,
+    "briefing": "Champ de tir du bocage : un groupe blindé léger actif et de la flak légère de 20 mm (deux positions tirées au sort sur trois) en plus des cibles du niveau facile.\nPosition : bullseye 326°/27 nm (N49°30.000' W001°28.200').",
+    "includes": [
+     "combatZone_Bocage_Easy"
+    ]
+   }
+  }
+ },
+ {
+  "name": "create_combat_zone",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Normandy-WW2-v6",
+   "zone_name": "combatZone_Bocage_Hard",
+   "position": {
+    "x": -647,
+    "y": -84744
+   },
+   "radius": 2500,
+   "groups": [
+    {
+     "name": "A3-1",
+     "position": {
+      "x": -1587,
+      "y": -85086
+     },
+     "keep_position": true,
+     "units": [
+      {
+       "type": "flak37",
+       "name": "#command=\"-samSR, country germany\" #spawngroup=\"A3SR\" #spawncount=1 #A3-1"
+      }
+     ]
+    },
+    {
+     "name": "A3-2",
+     "position": {
+      "x": -989,
+      "y": -85684
+     },
+     "keep_position": true,
+     "units": [
+      {
+       "type": "flak37",
+       "name": "#command=\"-samSR, country germany\" #spawngroup=\"A3SR\" #spawncount=1 #A3-2"
+      }
+     ]
+    },
+    {
+     "name": "A3-3",
+     "position": {
+      "x": -1796,
+      "y": -85708
+     },
+     "keep_position": true,
+     "units": [
+      {
+       "type": "flak38",
+       "name": "#command=\"-aaa, defense 2, country germany\" #A3-3"
+      }
+     ]
+    },
+    {
+     "name": "A3-4",
+     "position": {
+      "x": 203,
+      "y": -86216
+     },
+     "keep_position": true,
+     "units": [
+      {
+       "type": "Pz_IV_H",
+       "name": "#command=\"-armor, defense 1, country germany\" #A3-4"
+      }
+     ]
+    }
+   ],
+   "coalition": "red",
+   "country_id": 66,
+   "country_name": "Third Reich",
+   "category": "vehicle",
+   "combat_zone": {
+    "friendly_name": "A3 Mitraillage bocage — difficile",
+    "radio_group_name": "Entraînement appui rapproché",
+    "training": true,
+    "briefing": "Champ de tir du bocage avec une défense courte portée réaliste : une batterie de flak de 37 mm (tirée au sort entre deux positions), de la flak de 20 mm et un second groupe blindé.\nPosition : bullseye 326°/27 nm (N49°30.000' W001°28.200').",
+    "includes": [
+     "combatZone_Bocage_Medium"
+    ]
+   }
+  }
+ },
+ {
+  "name": "create_combat_zone",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Normandy-WW2-v6",
+   "zone_name": "combatZone_Salisbury_Easy",
+   "position": {
+    "x": 187747,
+    "y": -124262
+   },
+   "radius": 2500,
+   "groups": [
+    {
+     "name": "Inert-Pz_IV_H-B1-1",
+     "position": {
+      "x": 188447,
+      "y": -124262
+     },
+     "keep_position": true,
+     "units": [
+      {
+       "type": "Pz_IV_H",
+       "count": 1
+      }
+     ]
+    },
+    {
+     "name": "Inert-Tiger_I-B1-2",
+     "position": {
+      "x": 188436,
+      "y": -123683
+     },
+     "keep_position": true,
+     "units": [
+      {
+       "type": "Tiger_I",
+       "count": 1
+      }
+     ]
+    },
+    {
+     "name": "Inert-Stug_III-B1-3",
+     "position": {
+      "x": 187851,
+      "y": -123671
+     },
+     "keep_position": true,
+     "units": [
+      {
+       "type": "Stug_III",
+       "count": 1
+      }
+     ]
+    },
+    {
+     "name": "Inert-Sd_Kfz_251-B1-4",
+     "position": {
+      "x": 187347,
+      "y": -123569
+     },
+     "keep_position": true,
+     "units": [
+      {
+       "type": "Sd_Kfz_251",
+       "count": 1
+      }
+     ]
+    },
+    {
+     "name": "Inert-Blitz_36-6700A-B1-5",
+     "position": {
+      "x": 187277,
+      "y": -124091
+     },
+     "keep_position": true,
+     "units": [
+      {
+       "type": "Blitz_36-6700A",
+       "count": 1
+      }
+     ]
+    },
+    {
+     "name": "Inert-Blitz_36-6700A-B1-6",
+     "position": {
+      "x": 187089,
+      "y": -124501
+     },
+     "keep_position": true,
+     "units": [
+      {
+       "type": "Blitz_36-6700A",
+       "count": 1
+      }
+     ]
+    },
+    {
+     "name": "Inert-Sd_Kfz_7-B1-7",
+     "position": {
+      "x": 187297,
+      "y": -125041
+     },
+     "keep_position": true,
+     "units": [
+      {
+       "type": "Sd_Kfz_7",
+       "count": 1
+      }
+     ]
+    },
+    {
+     "name": "Inert-Sd_Kfz_251-B1-8",
+     "position": {
+      "x": 187851,
+      "y": -124853
+     },
+     "keep_position": true,
+     "units": [
+      {
+       "type": "Sd_Kfz_251",
+       "count": 1
+      }
+     ]
+    }
+   ],
+   "coalition": "red",
+   "country_id": 66,
+   "country_name": "Third Reich",
+   "category": "vehicle",
+   "combat_zone": {
+    "friendly_name": "B1 Bombardement Salisbury — facile",
+    "radio_group_name": "Entraînement bombardement",
+    "training": true,
+    "briefing": "Champ de tir de bombardement de la plaine de Salisbury, à 21 nm de Stoney Cross : bâtiments et véhicules fictifs immobiles en tir interdit (blockhaus, casernes, entrepôts, dépôt, gare). À 111 nm du front : aucun contact possible.\nPosition : bullseye 344°/130 nm (N51°12.000' W001°58.800')."
+   }
+  }
+ },
+ {
+  "name": "create_combat_zone",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Normandy-WW2-v6",
+   "zone_name": "combatZone_Salisbury_Medium",
+   "position": {
+    "x": 187747,
+    "y": -124262
+   },
+   "radius": 2500,
+   "groups": [
+    {
+     "name": "B2-1",
+     "position": {
+      "x": 186621,
+      "y": -124912
+     },
+     "keep_position": true,
+     "units": [
+      {
+       "type": "flak38",
+       "name": "#command=\"-aaa, defense 1, country germany\" #spawngroup=\"B2AAA\" #spawncount=2 #B2-1"
+      }
+     ]
+    },
+    {
+     "name": "B2-2",
+     "position": {
+      "x": 187747,
+      "y": -125462
+     },
+     "keep_position": true,
+     "units": [
+      {
+       "type": "flak38",
+       "name": "#command=\"-aaa, defense 1, country germany\" #spawngroup=\"B2AAA\" #spawncount=2 #B2-2"
+      }
+     ]
+    },
+    {
+     "name": "B2-3",
+     "position": {
+      "x": 186535,
+      "y": -123562
+     },
+     "keep_position": true,
+     "units": [
+      {
+       "type": "flak38",
+       "name": "#command=\"-aaa, defense 2, country germany\" #spawngroup=\"B2AAA\" #spawncount=2 #B2-3"
+      }
+     ]
+    }
+   ],
+   "coalition": "red",
+   "country_id": 66,
+   "country_name": "Third Reich",
+   "category": "vehicle",
+   "combat_zone": {
+    "friendly_name": "B2 Bombardement Salisbury — moyen",
+    "radio_group_name": "Entraînement bombardement",
+    "training": true,
+    "briefing": "Champ de tir de Salisbury : de la flak légère de 20 mm, deux positions sur trois tirées au sort, en plus des cibles du niveau facile.\nPosition : bullseye 344°/130 nm (N51°12.000' W001°58.800').",
+    "includes": [
+     "combatZone_Salisbury_Easy"
+    ]
+   }
+  }
+ },
+ {
+  "name": "create_combat_zone",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Normandy-WW2-v6",
+   "zone_name": "combatZone_Salisbury_Hard",
+   "position": {
+    "x": 187747,
+    "y": -124262
+   },
+   "radius": 2500,
+   "groups": [
+    {
+     "name": "B3-1",
+     "position": {
+      "x": 186997,
+      "y": -125561
+     },
+     "keep_position": true,
+     "units": [
+      {
+       "type": "flak36",
+       "name": "#command=\"-samLR, country germany\" #spawngroup=\"B3HVY\" #spawncount=1 #B3-1"
+      }
+     ]
+    },
+    {
+     "name": "B3-2",
+     "position": {
+      "x": 188497,
+      "y": -125561
+     },
+     "keep_position": true,
+     "units": [
+      {
+       "type": "flak36",
+       "name": "#command=\"-samLR, country germany\" #spawngroup=\"B3HVY\" #spawncount=1 #B3-2"
+      }
+     ]
+    },
+    {
+     "name": "B3-3",
+     "position": {
+      "x": 186807,
+      "y": -124604
+     },
+     "keep_position": true,
+     "units": [
+      {
+       "type": "flak37",
+       "name": "#command=\"-samSR, country germany\" #B3-3"
+      }
+     ]
+    }
+   ],
+   "coalition": "red",
+   "country_id": 66,
+   "country_name": "Third Reich",
+   "category": "vehicle",
+   "combat_zone": {
+    "friendly_name": "B3 Bombardement Salisbury — difficile",
+    "radio_group_name": "Entraînement bombardement",
+    "training": true,
+    "briefing": "Champ de tir de Salisbury avec la flak lourde de l'époque : une batterie de pièces de 88 mm (tirée au sort entre deux positions) et une batterie de 37 mm en plus du niveau moyen.\nPosition : bullseye 344°/130 nm (N51°12.000' W001°58.800').",
+    "includes": [
+     "combatZone_Salisbury_Medium"
+    ]
+   }
+  }
+ },
+ {
+  "name": "create_combat_zone",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Normandy-WW2-v6",
+   "zone_name": "combatZone_Aurigny_Easy",
+   "position": {
+    "x": 23334,
+    "y": -140445
+   },
+   "radius": 1500,
+   "groups": [
+    {
+     "name": "C1-1",
+     "position": {
+      "x": 24190,
+      "y": -141508
+     },
+     "keep_position": true,
+     "units": [
+      {
+       "type": "flak37",
+       "name": "#command=\"-samSR, country germany\" #spawngroup=\"C1SR\" #spawncount=1 #C1-1"
+      }
+     ]
+    },
+    {
+     "name": "C1-2",
+     "position": {
+      "x": 23084,
+      "y": -139300
+     },
+     "keep_position": true,
+     "units": [
+      {
+       "type": "flak37",
+       "name": "#command=\"-samSR, country germany\" #spawngroup=\"C1SR\" #spawncount=1 #C1-2"
+      }
+     ]
+    }
+   ],
+   "coalition": "red",
+   "country_id": 66,
+   "country_name": "Third Reich",
+   "category": "vehicle",
+   "combat_zone": {
+    "friendly_name": "C1 Antiflak Aurigny — facile",
+    "radio_group_name": "Entraînement antiflak",
+    "training": true,
+    "briefing": "Site antiflak du fort Tourgis, à Aurigny, à 1 nm de la piste d'Aurigny et 30 nm de Maupertus : une batterie de flak moyenne (37 mm), à détruire. À 32 nm du front, en territoire rouge.\nPosition : bullseye 308°/58 nm (N49°43.398' W002°14.148')."
+   }
+  }
+ },
+ {
+  "name": "create_combat_zone",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Normandy-WW2-v6",
+   "zone_name": "combatZone_Aurigny_Medium",
+   "position": {
+    "x": 23334,
+    "y": -140445
+   },
+   "radius": 1500,
+   "groups": [
+    {
+     "name": "C2-1",
+     "position": {
+      "x": 22349,
+      "y": -139806
+     },
+     "keep_position": true,
+     "units": [
+      {
+       "type": "flak36",
+       "name": "#command=\"-samLR, country germany\" #spawngroup=\"C2HVY\" #spawncount=1 #C2-1"
+      }
+     ]
+    },
+    {
+     "name": "C2-2",
+     "position": {
+      "x": 24167,
+      "y": -141426
+     },
+     "keep_position": true,
+     "units": [
+      {
+       "type": "flak36",
+       "name": "#command=\"-samLR, country germany\" #spawngroup=\"C2HVY\" #spawncount=1 #C2-2"
+      }
+     ]
+    }
+   ],
+   "coalition": "red",
+   "country_id": 66,
+   "country_name": "Third Reich",
+   "category": "vehicle",
+   "combat_zone": {
+    "friendly_name": "C2 Antiflak Aurigny — moyen",
+    "radio_group_name": "Entraînement antiflak",
+    "training": true,
+    "briefing": "Site antiflak d'Aurigny : la flak lourde de 88 mm (une batterie sur deux positions) en plus de la batterie de 37 mm.\nPosition : bullseye 308°/58 nm (N49°43.398' W002°14.148').",
+    "includes": [
+     "combatZone_Aurigny_Easy"
+    ]
+   }
+  }
+ },
+ {
+  "name": "create_combat_zone",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Normandy-WW2-v6",
+   "zone_name": "combatZone_Aurigny_Hard",
+   "position": {
+    "x": 23334,
+    "y": -140445
+   },
+   "radius": 1500,
+   "groups": [
+    {
+     "name": "Radars",
+     "position": {
+      "x": 23073,
+      "y": -139222
+     },
+     "keep_position": true,
+     "units": [
+      {
+       "type": "FuMG-401",
+       "count": 1
+      },
+      {
+       "type": "FuSe-65",
+       "count": 1
+      }
+     ]
+    },
+    {
+     "name": "Projecteurs",
+     "position": {
+      "x": 22329,
+      "y": -139747
+     },
+     "keep_position": true,
+     "units": [
+      {
+       "type": "Flakscheinwerfer_37",
+       "count": 2
+      },
+      {
+       "type": "KDO_Mod40",
+       "count": 1
+      }
+     ]
+    }
+   ],
+   "coalition": "red",
+   "country_id": 66,
+   "country_name": "Third Reich",
+   "category": "vehicle",
+   "combat_zone": {
+    "friendly_name": "C3 Antiflak Aurigny — difficile",
+    "radio_group_name": "Entraînement antiflak",
+    "training": true,
+    "briefing": "Site antiflak d'Aurigny en réseau : un radar d'alerte Freya, un radar de conduite de tir Würzburg, un télémètre et deux projecteurs guident la flak lourde et moyenne.\nPosition : bullseye 308°/58 nm (N49°43.398' W002°14.148').",
+    "includes": [
+     "combatZone_Aurigny_Medium"
+    ]
+   }
+  }
+ },
+ {
+  "name": "add_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Normandy-WW2-v6",
+   "coalition": "red",
+   "country_id": 66,
+   "country_name": "Third Reich",
+   "category": "static",
+   "name": "Static-Fuel-B1",
+   "position": {
+    "x": -838,
+    "y": -83661
+   },
+   "units": [
+    {
+     "type": "Fuel tank"
+    }
+   ],
+   "for_combat_zone": "combatZone_Bocage_Easy",
+   "keep_position": true
+  }
+ },
+ {
+  "name": "add_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Normandy-WW2-v6",
+   "coalition": "red",
+   "country_id": 66,
+   "country_name": "Third Reich",
+   "category": "static",
+   "name": "Static-Fuel-B2",
+   "position": {
+    "x": -1057,
+    "y": -83616
+   },
+   "units": [
+    {
+     "type": "Fuel tank"
+    }
+   ],
+   "for_combat_zone": "combatZone_Bocage_Easy",
+   "keep_position": true
+  }
+ },
+ {
+  "name": "add_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Normandy-WW2-v6",
+   "coalition": "red",
+   "country_id": 66,
+   "country_name": "Third Reich",
+   "category": "static",
+   "name": "Static-Barracks-B3",
+   "position": {
+    "x": 575,
+    "y": -84299
+   },
+   "units": [
+    {
+     "type": "Barracks 2"
+    }
+   ],
+   "for_combat_zone": "combatZone_Bocage_Easy",
+   "keep_position": true
+  }
+ },
+ {
+  "name": "add_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Normandy-WW2-v6",
+   "coalition": "red",
+   "country_id": 66,
+   "country_name": "Third Reich",
+   "category": "static",
+   "name": "Static-Bunker-S1",
+   "position": {
+    "x": 188123,
+    "y": -124125
+   },
+   "units": [
+    {
+     "type": "Bunker"
+    }
+   ],
+   "for_combat_zone": "combatZone_Salisbury_Easy",
+   "keep_position": true
+  }
+ },
+ {
+  "name": "add_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Normandy-WW2-v6",
+   "coalition": "red",
+   "country_id": 66,
+   "country_name": "Third Reich",
+   "category": "static",
+   "name": "Static-Bunker-S2",
+   "position": {
+    "x": 188036,
+    "y": -123917
+   },
+   "units": [
+    {
+     "type": "Bunker"
+    }
+   ],
+   "for_combat_zone": "combatZone_Salisbury_Easy",
+   "keep_position": true
+  }
+ },
+ {
+  "name": "add_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Normandy-WW2-v6",
+   "coalition": "red",
+   "country_id": 66,
+   "country_name": "Third Reich",
+   "category": "static",
+   "name": "Static-Barracks-S3",
+   "position": {
+    "x": 187747,
+    "y": -123662
+   },
+   "units": [
+    {
+     "type": "Barracks 2"
+    }
+   ],
+   "for_combat_zone": "combatZone_Salisbury_Easy",
+   "keep_position": true
+  }
+ },
+ {
+  "name": "add_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Normandy-WW2-v6",
+   "coalition": "red",
+   "country_id": 66,
+   "country_name": "Third Reich",
+   "category": "static",
+   "name": "Static-Barracks-S4",
+   "position": {
+    "x": 187625,
+    "y": -123573
+   },
+   "units": [
+    {
+     "type": "Barracks 2"
+    }
+   ],
+   "for_combat_zone": "combatZone_Salisbury_Easy",
+   "keep_position": true
+  }
+ },
+ {
+  "name": "add_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Normandy-WW2-v6",
+   "coalition": "red",
+   "country_id": 66,
+   "country_name": "Third Reich",
+   "category": "static",
+   "name": "Static-Warehouse-S5",
+   "position": {
+    "x": 187287,
+    "y": -123876
+   },
+   "units": [
+    {
+     "type": "Warehouse"
+    }
+   ],
+   "for_combat_zone": "combatZone_Salisbury_Easy",
+   "keep_position": true
+  }
+ },
+ {
+  "name": "add_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Normandy-WW2-v6",
+   "coalition": "red",
+   "country_id": 66,
+   "country_name": "Third Reich",
+   "category": "static",
+   "name": "Static-Warehouse-S6",
+   "position": {
+    "x": 187141,
+    "y": -123912
+   },
+   "units": [
+    {
+     "type": "Warehouse"
+    }
+   ],
+   "for_combat_zone": "combatZone_Salisbury_Easy",
+   "keep_position": true
+  }
+ },
+ {
+  "name": "add_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Normandy-WW2-v6",
+   "coalition": "red",
+   "country_id": 66,
+   "country_name": "Third Reich",
+   "category": "static",
+   "name": "Static-Fuel-S7",
+   "position": {
+    "x": 186901,
+    "y": -124570
+   },
+   "units": [
+    {
+     "type": "Fuel tank"
+    }
+   ],
+   "for_combat_zone": "combatZone_Salisbury_Easy",
+   "keep_position": true
+  }
+ },
+ {
+  "name": "add_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Normandy-WW2-v6",
+   "coalition": "red",
+   "country_id": 66,
+   "country_name": "Third Reich",
+   "category": "static",
+   "name": "Static-Fuel-S8",
+   "position": {
+    "x": 186924,
+    "y": -124737
+   },
+   "units": [
+    {
+     "type": "Fuel tank"
+    }
+   ],
+   "for_combat_zone": "combatZone_Salisbury_Easy",
+   "keep_position": true
+  }
+ },
+ {
+  "name": "add_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Normandy-WW2-v6",
+   "coalition": "red",
+   "country_id": 66,
+   "country_name": "Third Reich",
+   "category": "static",
+   "name": "Static-Railway-S9",
+   "position": {
+    "x": 188247,
+    "y": -125128
+   },
+   "units": [
+    {
+     "type": "Railway station"
+    }
+   ],
+   "for_combat_zone": "combatZone_Salisbury_Easy",
+   "keep_position": true
+  }
+ },
+ {
+  "name": "create_combat_zone",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Normandy-WW2-v6",
+   "zone_name": "combatZone_TourPlages",
+   "position": {
+    "x": -15724,
+    "y": -22677
+   },
+   "radius": 1500,
+   "groups": [
+    {
+     "name": "Visiteurs-1-vehicules",
+     "position": {
+      "x": -16915,
+      "y": -22127
+     },
+     "keep_position": true,
+     "units": [
+      {
+       "type": "Willys_MB",
+       "count": 3
+      }
+     ]
+    },
+    {
+     "name": "Visiteurs-1-groupe",
+     "position": {
+      "x": -16921,
+      "y": -21848
+     },
+     "keep_position": true,
+     "units": [
+      {
+       "type": "soldier_wwii_us",
+       "count": 6
+      }
+     ]
+    }
+   ],
+   "coalition": "blue",
+   "country_id": 2,
+   "country_name": "USA",
+   "category": "vehicle",
+   "combat_zone": {
+    "friendly_name": "T1 Tourisme — Plages du Débarquement",
+    "radio_group_name": "Tourisme",
+    "training": true,
+    "completable": false,
+    "briefing": "Visite aérienne « Plages du Débarquement », hors combat, à 3 nm de Longues-sur-Mer. Une balise radio VHF/AM à chaque site (SWD 130.0, GLD 130.5, OMA 131.0, UTH 131.5) ; survolez un monument à moins de 1 500 ft sol et un guide vous le raconte.\nPosition : bullseye 051°/23 nm (N49°21.000' W000°37.200')."
+   }
+  }
+ },
+ {
+  "name": "create_combat_zone",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Normandy-WW2-v6",
+   "zone_name": "combatZone_TourCotentin",
+   "position": {
+    "x": 12723,
+    "y": -83571
+   },
+   "radius": 1500,
+   "groups": [
+    {
+     "name": "Visiteurs-2-vehicules",
+     "position": {
+      "x": 12723,
+      "y": -83171
+     },
+     "keep_position": true,
+     "units": [
+      {
+       "type": "Willys_MB",
+       "count": 3
+      }
+     ]
+    },
+    {
+     "name": "Visiteurs-2-groupe",
+     "position": {
+      "x": 12973,
+      "y": -83138
+     },
+     "keep_position": true,
+     "units": [
+      {
+       "type": "soldier_wwii_us",
+       "count": 6
+      }
+     ]
+    }
+   ],
+   "coalition": "blue",
+   "country_id": 2,
+   "country_name": "USA",
+   "category": "vehicle",
+   "combat_zone": {
+    "friendly_name": "T2 Tourisme — Cotentin et Cherbourg",
+    "radio_group_name": "Tourisme",
+    "training": true,
+    "completable": false,
+    "briefing": "Visite aérienne « Cotentin et Cherbourg », hors combat, à 2 nm de Maupertus. Une balise radio VHF/AM à chaque site (CHB 133.0, GAT 133.5, VAA 134.0) ; survolez un monument à moins de 1 500 ft sol et un guide vous le raconte.\nPosition : bullseye 334°/33 nm (N49°37.200' W001°27.000')."
+   }
+  }
+ },
+ {
+  "name": "create_combat_zone",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Normandy-WW2-v6",
+   "zone_name": "combatZone_TourAngleterre",
+   "position": {
+    "x": 144316,
+    "y": -68683
+   },
+   "radius": 1500,
+   "groups": [
+    {
+     "name": "Visiteurs-3-vehicules",
+     "position": {
+      "x": 144316,
+      "y": -68283
+     },
+     "keep_position": true,
+     "units": [
+      {
+       "type": "Bedford_MWD",
+       "count": 3
+      }
+     ]
+    },
+    {
+     "name": "Visiteurs-3-groupe",
+     "position": {
+      "x": 144566,
+      "y": -68250
+     },
+     "keep_position": true,
+     "units": [
+      {
+       "type": "soldier_wwii_br_01",
+       "count": 6
+      }
+     ]
+    }
+   ],
+   "coalition": "blue",
+   "country_id": 4,
+   "country_name": "UK",
+   "category": "vehicle",
+   "combat_zone": {
+    "friendly_name": "T3 Tourisme — Côte sud de l'Angleterre",
+    "radio_group_name": "Tourisme",
+    "training": true,
+    "completable": false,
+    "briefing": "Visite aérienne « Côte sud de l'Angleterre », hors combat, à 19 nm de Stoney Cross. Une balise radio VHF/AM à chaque site (NDL 135.0, POR 135.5, BCH 136.0, DVR 136.5) ; survolez un monument à moins de 1 500 ft sol et un guide vous le raconte.\nPosition : bullseye 356°/101 nm (N50°48.000' W001°12.000')."
+   }
+  }
+ }
+]

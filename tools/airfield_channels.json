@@ -1,0 +1,1342 @@
+{
+ "theatre": "Normandy",
+ "candidates": [
+  {
+   "airdrome_id": 75,
+   "name": "Abbeville Drucat",
+   "coalition": "red",
+   "dynamic_slots": true,
+   "parked_slots": 0,
+   "freqs": {
+    "uhf": 253.5,
+    "vhf": 118.05,
+    "fm": 41.9
+   },
+   "tacan": null,
+   "channel": null,
+   "tier": 0
+  },
+  {
+   "airdrome_id": 15,
+   "name": "Azeville",
+   "coalition": "blue",
+   "dynamic_slots": true,
+   "parked_slots": 0,
+   "freqs": {
+    "uhf": 250.25,
+    "vhf": 118.35,
+    "fm": 38.7
+   },
+   "tacan": null,
+   "channel": null,
+   "tier": 0
+  },
+  {
+   "airdrome_id": 20,
+   "name": "Bazenville",
+   "coalition": "blue",
+   "dynamic_slots": true,
+   "parked_slots": 0,
+   "freqs": {
+    "uhf": 250.55,
+    "vhf": 118.7,
+    "fm": 39.0
+   },
+   "tacan": null,
+   "channel": null,
+   "tier": 0
+  },
+  {
+   "airdrome_id": 22,
+   "name": "Beny-sur-Mer",
+   "coalition": "blue",
+   "dynamic_slots": true,
+   "parked_slots": 0,
+   "freqs": {
+    "uhf": 250.65,
+    "vhf": 118.8,
+    "fm": 39.1
+   },
+   "tacan": null,
+   "channel": null,
+   "tier": 0
+  },
+  {
+   "airdrome_id": 71,
+   "name": "Biggin Hill",
+   "coalition": "blue",
+   "dynamic_slots": true,
+   "parked_slots": 0,
+   "freqs": {
+    "uhf": 253.3,
+    "vhf": 134.8,
+    "fm": 41.7
+   },
+   "tacan": null,
+   "channel": null,
+   "tier": 0
+  },
+  {
+   "airdrome_id": 19,
+   "name": "Carpiquet",
+   "coalition": "red",
+   "dynamic_slots": true,
+   "parked_slots": 0,
+   "freqs": {
+    "uhf": 250.45,
+    "vhf": 118.6,
+    "fm": 38.9
+   },
+   "tacan": null,
+   "channel": null,
+   "tier": 0
+  },
+  {
+   "airdrome_id": 12,
+   "name": "Deux Jumeaux",
+   "coalition": "blue",
+   "dynamic_slots": true,
+   "parked_slots": 0,
+   "freqs": {
+    "uhf": 250.1,
+    "vhf": 118.15,
+    "fm": 38.55
+   },
+   "tacan": null,
+   "channel": null,
+   "tier": 0
+  },
+  {
+   "airdrome_id": 26,
+   "name": "Evreux",
+   "coalition": "red",
+   "dynamic_slots": true,
+   "parked_slots": 0,
+   "freqs": {
+    "uhf": 250.85,
+    "vhf": 119.0,
+    "fm": 39.3
+   },
+   "tacan": null,
+   "channel": null,
+   "tier": 0
+  },
+  {
+   "airdrome_id": 8,
+   "name": "Lessay",
+   "coalition": "red",
+   "dynamic_slots": true,
+   "parked_slots": 0,
+   "freqs": {
+    "uhf": 253.95,
+    "vhf": 121.85,
+    "fm": 42.1
+   },
+   "tacan": null,
+   "channel": null,
+   "tier": 0
+  },
+  {
+   "airdrome_id": 18,
+   "name": "Longues-sur-Mer",
+   "coalition": "blue",
+   "dynamic_slots": true,
+   "parked_slots": 0,
+   "freqs": {
+    "uhf": 250.4,
+    "vhf": 118.55,
+    "fm": 38.85
+   },
+   "tacan": null,
+   "channel": null,
+   "tier": 0
+  },
+  {
+   "airdrome_id": 72,
+   "name": "Manston",
+   "coalition": "blue",
+   "dynamic_slots": true,
+   "parked_slots": 0,
+   "freqs": {
+    "uhf": 253.35,
+    "vhf": 118.25,
+    "fm": 41.75
+   },
+   "tacan": null,
+   "channel": null,
+   "tier": 0
+  },
+  {
+   "airdrome_id": 4,
+   "name": "Maupertus",
+   "coalition": "blue",
+   "dynamic_slots": true,
+   "parked_slots": 0,
+   "freqs": {
+    "uhf": 252.15,
+    "vhf": 120.35,
+    "fm": 40.6
+   },
+   "tacan": null,
+   "channel": null,
+   "tier": 0
+  },
+  {
+   "airdrome_id": 16,
+   "name": "Picauville",
+   "coalition": "blue",
+   "dynamic_slots": true,
+   "parked_slots": 0,
+   "freqs": {
+    "uhf": 250.3,
+    "vhf": 118.4,
+    "fm": 38.75
+   },
+   "tacan": null,
+   "channel": null,
+   "tier": 0
+  },
+  {
+   "airdrome_id": 58,
+   "name": "Stoney Cross",
+   "coalition": "blue",
+   "dynamic_slots": true,
+   "parked_slots": 0,
+   "freqs": {
+    "uhf": 252.55,
+    "vhf": 120.75,
+    "fm": 41.0
+   },
+   "tacan": null,
+   "channel": null,
+   "tier": 0
+  },
+  {
+   "airdrome_id": 30,
+   "name": "Tangmere",
+   "coalition": "blue",
+   "dynamic_slots": true,
+   "parked_slots": 0,
+   "freqs": {
+    "uhf": 251.1,
+    "vhf": 119.3,
+    "fm": 39.55
+   },
+   "tacan": null,
+   "channel": null,
+   "tier": 0
+  },
+  {
+   "airdrome_id": 85,
+   "name": "Alderney",
+   "coalition": "red",
+   "dynamic_slots": false,
+   "parked_slots": 0,
+   "freqs": {
+    "uhf": 254.2,
+    "vhf": 122.05,
+    "fm": 42.4
+   },
+   "tacan": null,
+   "channel": null,
+   "tier": 1
+  },
+  {
+   "airdrome_id": 59,
+   "name": "Amiens-Glisy",
+   "coalition": "red",
+   "dynamic_slots": false,
+   "parked_slots": 0,
+   "freqs": {
+    "uhf": 252.6,
+    "vhf": 120.8,
+    "fm": 38.4
+   },
+   "tacan": null,
+   "channel": null,
+   "tier": 1
+  },
+  {
+   "airdrome_id": 32,
+   "name": "Argentan",
+   "coalition": "red",
+   "dynamic_slots": false,
+   "parked_slots": 0,
+   "freqs": {
+    "uhf": 251.2,
+    "vhf": 119.4,
+    "fm": 39.65
+   },
+   "tacan": null,
+   "channel": null,
+   "tier": 1
+  },
+  {
+   "airdrome_id": 65,
+   "name": "Avranches Le Val-Saint-Pere",
+   "coalition": "red",
+   "dynamic_slots": false,
+   "parked_slots": 0,
+   "freqs": {
+    "uhf": 252.95,
+    "vhf": 121.15,
+    "fm": 41.35
+   },
+   "tacan": null,
+   "channel": null,
+   "tier": 1
+  },
+  {
+   "airdrome_id": 34,
+   "name": "Barville",
+   "coalition": "red",
+   "dynamic_slots": false,
+   "parked_slots": 0,
+   "freqs": {
+    "uhf": 251.3,
+    "vhf": 119.5,
+    "fm": 39.75
+   },
+   "tacan": null,
+   "channel": null,
+   "tier": 1
+  },
+  {
+   "airdrome_id": 67,
+   "name": "Beaumont-le-Roger",
+   "coalition": "red",
+   "dynamic_slots": false,
+   "parked_slots": 0,
+   "freqs": {
+    "uhf": 253.05,
+    "vhf": 121.25,
+    "fm": 41.45
+   },
+   "tacan": null,
+   "channel": null,
+   "tier": 1
+  },
+  {
+   "airdrome_id": 44,
+   "name": "Beauvais-Tille",
+   "coalition": "red",
+   "dynamic_slots": false,
+   "parked_slots": 0,
+   "freqs": {
+    "uhf": 251.85,
+    "vhf": 120.05,
+    "fm": 40.3
+   },
+   "tacan": null,
+   "channel": null,
+   "tier": 1
+  },
+  {
+   "airdrome_id": 90,
+   "name": "Bembridg",
+   "coalition": "blue",
+   "dynamic_slots": false,
+   "parked_slots": 0,
+   "freqs": {
+    "uhf": 360.0,
+    "vhf": 123.0,
+    "fm": 42.35
+   },
+   "tacan": null,
+   "channel": null,
+   "tier": 1
+  },
+  {
+   "airdrome_id": 69,
+   "name": "Bernay Saint Martin",
+   "coalition": "red",
+   "dynamic_slots": false,
+   "parked_slots": 0,
+   "freqs": {
+    "uhf": 253.15,
+    "vhf": 121.35,
+    "fm": 41.55
+   },
+   "tacan": null,
+   "channel": null,
+   "tier": 1
+  },
+  {
+   "airdrome_id": 14,
+   "name": "Beuzeville",
+   "coalition": "blue",
+   "dynamic_slots": false,
+   "parked_slots": 0,
+   "freqs": {
+    "uhf": 250.2,
+    "vhf": 118.3,
+    "fm": 38.65
+   },
+   "tacan": null,
+   "channel": null,
+   "tier": 1
+  },
+  {
+   "airdrome_id": 10,
+   "name": "Biniville",
+   "coalition": "blue",
+   "dynamic_slots": false,
+   "parked_slots": 0,
+   "freqs": {
+    "uhf": 250.0,
+    "vhf": 118.0,
+    "fm": 38.45
+   },
+   "tacan": null,
+   "channel": null,
+   "tier": 1
+  },
+  {
+   "airdrome_id": 68,
+   "name": "Broglie",
+   "coalition": "red",
+   "dynamic_slots": false,
+   "parked_slots": 0,
+   "freqs": {
+    "uhf": 253.1,
+    "vhf": 121.3,
+    "fm": 41.5
+   },
+   "tacan": null,
+   "channel": null,
+   "tier": 1
+  },
+  {
+   "airdrome_id": 5,
+   "name": "Brucheville",
+   "coalition": "blue",
+   "dynamic_slots": false,
+   "parked_slots": 0,
+   "freqs": {
+    "uhf": 252.65,
+    "vhf": 120.85,
+    "fm": 41.05
+   },
+   "tacan": null,
+   "channel": null,
+   "tier": 1
+  },
+  {
+   "airdrome_id": 11,
+   "name": "Cardonville",
+   "coalition": "blue",
+   "dynamic_slots": false,
+   "parked_slots": 0,
+   "freqs": {
+    "uhf": 250.05,
+    "vhf": 118.1,
+    "fm": 38.5
+   },
+   "tacan": null,
+   "channel": null,
+   "tier": 1
+  },
+  {
+   "airdrome_id": 27,
+   "name": "Chailey",
+   "coalition": "blue",
+   "dynamic_slots": false,
+   "parked_slots": 0,
+   "freqs": {
+    "uhf": 250.9,
+    "vhf": 119.05,
+    "fm": 39.35
+   },
+   "tacan": null,
+   "channel": null,
+   "tier": 1
+  },
+  {
+   "airdrome_id": 13,
+   "name": "Chippelle",
+   "coalition": "blue",
+   "dynamic_slots": false,
+   "parked_slots": 0,
+   "freqs": {
+    "uhf": 250.15,
+    "vhf": 118.2,
+    "fm": 38.6
+   },
+   "tacan": null,
+   "channel": null,
+   "tier": 1
+  },
+  {
+   "airdrome_id": 40,
+   "name": "Conches",
+   "coalition": "red",
+   "dynamic_slots": false,
+   "parked_slots": 0,
+   "freqs": {
+    "uhf": 251.65,
+    "vhf": 119.85,
+    "fm": 40.1
+   },
+   "tacan": null,
+   "channel": null,
+   "tier": 1
+  },
+  {
+   "airdrome_id": 45,
+   "name": "Cormeilles-en-Vexin",
+   "coalition": "red",
+   "dynamic_slots": false,
+   "parked_slots": 0,
+   "freqs": {
+    "uhf": 251.9,
+    "vhf": 120.1,
+    "fm": 40.35
+   },
+   "tacan": null,
+   "channel": null,
+   "tier": 1
+  },
+  {
+   "airdrome_id": 46,
+   "name": "Creil",
+   "coalition": "red",
+   "dynamic_slots": false,
+   "parked_slots": 0,
+   "freqs": {
+    "uhf": 251.95,
+    "vhf": 120.15,
+    "fm": 40.4
+   },
+   "tacan": null,
+   "channel": null,
+   "tier": 1
+  },
+  {
+   "airdrome_id": 3,
+   "name": "Cretteville",
+   "coalition": "blue",
+   "dynamic_slots": false,
+   "parked_slots": 0,
+   "freqs": {
+    "uhf": 251.6,
+    "vhf": 119.8,
+    "fm": 40.05
+   },
+   "tacan": null,
+   "channel": null,
+   "tier": 1
+  },
+  {
+   "airdrome_id": 7,
+   "name": "Cricqueville-en-Bessin",
+   "coalition": "blue",
+   "dynamic_slots": false,
+   "parked_slots": 0,
+   "freqs": {
+    "uhf": 253.75,
+    "vhf": 121.7,
+    "fm": 42.15
+   },
+   "tacan": null,
+   "channel": null,
+   "tier": 1
+  },
+  {
+   "airdrome_id": 54,
+   "name": "Deanland",
+   "coalition": "blue",
+   "dynamic_slots": false,
+   "parked_slots": 0,
+   "freqs": {
+    "uhf": 252.35,
+    "vhf": 120.55,
+    "fm": 40.8
+   },
+   "tacan": null,
+   "channel": null,
+   "tier": 1
+  },
+  {
+   "airdrome_id": 62,
+   "name": "Deauville",
+   "coalition": "red",
+   "dynamic_slots": false,
+   "parked_slots": 0,
+   "freqs": {
+    "uhf": 252.8,
+    "vhf": 121.0,
+    "fm": 41.2
+   },
+   "tacan": null,
+   "channel": null,
+   "tier": 1
+  },
+  {
+   "airdrome_id": 73,
+   "name": "Detling",
+   "coalition": "blue",
+   "dynamic_slots": false,
+   "parked_slots": 0,
+   "freqs": {
+    "uhf": 253.4,
+    "vhf": 118.45,
+    "fm": 41.8
+   },
+   "tacan": null,
+   "channel": null,
+   "tier": 1
+  },
+  {
+   "airdrome_id": 49,
+   "name": "Dinan-Trelivan",
+   "coalition": "red",
+   "dynamic_slots": false,
+   "parked_slots": 0,
+   "freqs": {
+    "uhf": 252.1,
+    "vhf": 120.3,
+    "fm": 40.55
+   },
+   "tacan": null,
+   "channel": null,
+   "tier": 1
+  },
+  {
+   "airdrome_id": 79,
+   "name": "Dunkirk-Mardyck",
+   "coalition": "red",
+   "dynamic_slots": false,
+   "parked_slots": 0,
+   "freqs": {
+    "uhf": 253.7,
+    "vhf": 132.45,
+    "fm": 42.1
+   },
+   "tacan": null,
+   "channel": null,
+   "tier": 1
+  },
+  {
+   "airdrome_id": 81,
+   "name": "Eastchurch",
+   "coalition": "blue",
+   "dynamic_slots": false,
+   "parked_slots": 0,
+   "freqs": {
+    "uhf": 253.85,
+    "vhf": 119.25,
+    "fm": 42.25
+   },
+   "tacan": null,
+   "channel": null,
+   "tier": 1
+  },
+  {
+   "airdrome_id": 35,
+   "name": "Essay",
+   "coalition": "red",
+   "dynamic_slots": false,
+   "parked_slots": 0,
+   "freqs": {
+    "uhf": 251.35,
+    "vhf": 119.55,
+    "fm": 39.8
+   },
+   "tacan": null,
+   "channel": null,
+   "tier": 1
+  },
+  {
+   "airdrome_id": 52,
+   "name": "Farnborough",
+   "coalition": "blue",
+   "dynamic_slots": false,
+   "parked_slots": 0,
+   "freqs": {
+    "uhf": 252.25,
+    "vhf": 120.45,
+    "fm": 40.7
+   },
+   "tacan": null,
+   "channel": null,
+   "tier": 1
+  },
+  {
+   "airdrome_id": 51,
+   "name": "Fecamp-Benouville",
+   "coalition": "red",
+   "dynamic_slots": false,
+   "parked_slots": 0,
+   "freqs": {
+    "uhf": 252.2,
+    "vhf": 120.4,
+    "fm": 40.65
+   },
+   "tacan": null,
+   "channel": null,
+   "tier": 1
+  },
+  {
+   "airdrome_id": 64,
+   "name": "Flers",
+   "coalition": "red",
+   "dynamic_slots": false,
+   "parked_slots": 0,
+   "freqs": {
+    "uhf": 252.9,
+    "vhf": 121.1,
+    "fm": 41.3
+   },
+   "tacan": null,
+   "channel": null,
+   "tier": 1
+  },
+  {
+   "airdrome_id": 31,
+   "name": "Ford",
+   "coalition": "blue",
+   "dynamic_slots": false,
+   "parked_slots": 0,
+   "freqs": {
+    "uhf": 251.15,
+    "vhf": 119.35,
+    "fm": 39.6
+   },
+   "tacan": null,
+   "channel": null,
+   "tier": 1
+  },
+  {
+   "airdrome_id": 53,
+   "name": "Friston",
+   "coalition": "blue",
+   "dynamic_slots": false,
+   "parked_slots": 0,
+   "freqs": {
+    "uhf": 252.3,
+    "vhf": 120.5,
+    "fm": 40.75
+   },
+   "tacan": null,
+   "channel": null,
+   "tier": 1
+  },
+  {
+   "airdrome_id": 29,
+   "name": "Funtington",
+   "coalition": "blue",
+   "dynamic_slots": false,
+   "parked_slots": 0,
+   "freqs": {
+    "uhf": 251.0,
+    "vhf": 119.15,
+    "fm": 39.45
+   },
+   "tacan": null,
+   "channel": null,
+   "tier": 1
+  },
+  {
+   "airdrome_id": 33,
+   "name": "Goulet",
+   "coalition": "red",
+   "dynamic_slots": false,
+   "parked_slots": 0,
+   "freqs": {
+    "uhf": 251.25,
+    "vhf": 119.45,
+    "fm": 39.7
+   },
+   "tacan": null,
+   "channel": null,
+   "tier": 1
+  },
+  {
+   "airdrome_id": 66,
+   "name": "Gravesend",
+   "coalition": "blue",
+   "dynamic_slots": false,
+   "parked_slots": 0,
+   "freqs": {
+    "uhf": 253.0,
+    "vhf": 121.2,
+    "fm": 41.4
+   },
+   "tacan": null,
+   "channel": null,
+   "tier": 1
+  },
+  {
+   "airdrome_id": 83,
+   "name": "Guernsey",
+   "coalition": "red",
+   "dynamic_slots": false,
+   "parked_slots": 0,
+   "freqs": {
+    "uhf": 254.1,
+    "vhf": 118.25,
+    "fm": 42.3
+   },
+   "tacan": null,
+   "channel": null,
+   "tier": 1
+  },
+  {
+   "airdrome_id": 47,
+   "name": "Guyancourt",
+   "coalition": "red",
+   "dynamic_slots": false,
+   "parked_slots": 0,
+   "freqs": {
+    "uhf": 252.0,
+    "vhf": 120.2,
+    "fm": 40.45
+   },
+   "tacan": null,
+   "channel": null,
+   "tier": 1
+  },
+  {
+   "airdrome_id": 36,
+   "name": "Hauterive",
+   "coalition": "red",
+   "dynamic_slots": false,
+   "parked_slots": 0,
+   "freqs": {
+    "uhf": 251.4,
+    "vhf": 119.6,
+    "fm": 39.85
+   },
+   "tacan": null,
+   "channel": null,
+   "tier": 1
+  },
+  {
+   "airdrome_id": 82,
+   "name": "Hawkinge",
+   "coalition": "blue",
+   "dynamic_slots": false,
+   "parked_slots": 0,
+   "freqs": {
+    "uhf": 253.9,
+    "vhf": 121.8,
+    "fm": 42.3
+   },
+   "tacan": null,
+   "channel": null,
+   "tier": 1
+  },
+  {
+   "airdrome_id": 86,
+   "name": "Headcorn",
+   "coalition": "blue",
+   "dynamic_slots": false,
+   "parked_slots": 0,
+   "freqs": {
+    "uhf": 254.25,
+    "vhf": 122.1,
+    "fm": 42.4
+   },
+   "tacan": null,
+   "channel": null,
+   "tier": 1
+  },
+  {
+   "airdrome_id": 78,
+   "name": "High Halden",
+   "coalition": "blue",
+   "dynamic_slots": false,
+   "parked_slots": 0,
+   "freqs": {
+    "uhf": 253.65,
+    "vhf": 121.65,
+    "fm": 42.05
+   },
+   "tacan": null,
+   "channel": null,
+   "tier": 1
+  },
+  {
+   "airdrome_id": 89,
+   "name": "Holmsley South",
+   "coalition": "blue",
+   "dynamic_slots": false,
+   "parked_slots": 0,
+   "freqs": {
+    "uhf": 254.4,
+    "vhf": 122.6,
+    "fm": 41.9
+   },
+   "tacan": null,
+   "channel": null,
+   "tier": 1
+  },
+  {
+   "airdrome_id": 84,
+   "name": "Jersey",
+   "coalition": "red",
+   "dynamic_slots": false,
+   "parked_slots": 0,
+   "freqs": {
+    "uhf": 254.15,
+    "vhf": 122.0,
+    "fm": 42.2
+   },
+   "tacan": null,
+   "channel": null,
+   "tier": 1
+  },
+  {
+   "airdrome_id": 43,
+   "name": "Kenley",
+   "coalition": "blue",
+   "dynamic_slots": false,
+   "parked_slots": 0,
+   "freqs": {
+    "uhf": 251.8,
+    "vhf": 120.0,
+    "fm": 40.25
+   },
+   "tacan": null,
+   "channel": null,
+   "tier": 1
+  },
+  {
+   "airdrome_id": 25,
+   "name": "Lantheuil",
+   "coalition": "blue",
+   "dynamic_slots": false,
+   "parked_slots": 0,
+   "freqs": {
+    "uhf": 250.8,
+    "vhf": 118.95,
+    "fm": 39.25
+   },
+   "tacan": null,
+   "channel": null,
+   "tier": 1
+  },
+  {
+   "airdrome_id": 80,
+   "name": "Lashenden",
+   "coalition": "blue",
+   "dynamic_slots": false,
+   "parked_slots": 0,
+   "freqs": {
+    "uhf": 253.8,
+    "vhf": 121.75,
+    "fm": 42.2
+   },
+   "tacan": null,
+   "channel": null,
+   "tier": 1
+  },
+  {
+   "airdrome_id": 17,
+   "name": "Le Molay",
+   "coalition": "blue",
+   "dynamic_slots": false,
+   "parked_slots": 0,
+   "freqs": {
+    "uhf": 250.35,
+    "vhf": 118.5,
+    "fm": 38.8
+   },
+   "tacan": null,
+   "channel": null,
+   "tier": 1
+  },
+  {
+   "airdrome_id": 2,
+   "name": "Lignerolles",
+   "coalition": "blue",
+   "dynamic_slots": false,
+   "parked_slots": 0,
+   "freqs": {
+    "uhf": 251.05,
+    "vhf": 119.2,
+    "fm": 39.5
+   },
+   "tacan": null,
+   "channel": null,
+   "tier": 1
+  },
+  {
+   "airdrome_id": 48,
+   "name": "Lonrai",
+   "coalition": "red",
+   "dynamic_slots": false,
+   "parked_slots": 0,
+   "freqs": {
+    "uhf": 252.05,
+    "vhf": 120.25,
+    "fm": 40.5
+   },
+   "tacan": null,
+   "channel": null,
+   "tier": 1
+  },
+  {
+   "airdrome_id": 37,
+   "name": "Lymington",
+   "coalition": "blue",
+   "dynamic_slots": false,
+   "parked_slots": 0,
+   "freqs": {
+    "uhf": 251.45,
+    "vhf": 119.65,
+    "fm": 39.9
+   },
+   "tacan": null,
+   "channel": null,
+   "tier": 1
+  },
+  {
+   "airdrome_id": 74,
+   "name": "Lympne",
+   "coalition": "blue",
+   "dynamic_slots": false,
+   "parked_slots": 0,
+   "freqs": {
+    "uhf": 253.45,
+    "vhf": 121.5,
+    "fm": 41.85
+   },
+   "tacan": null,
+   "channel": null,
+   "tier": 1
+  },
+  {
+   "airdrome_id": 6,
+   "name": "Meautis",
+   "coalition": "blue",
+   "dynamic_slots": false,
+   "parked_slots": 0,
+   "freqs": {
+    "uhf": 253.2,
+    "vhf": 121.4,
+    "fm": 41.6
+   },
+   "tacan": null,
+   "channel": null,
+   "tier": 1
+  },
+  {
+   "airdrome_id": 77,
+   "name": "Merville Calonne",
+   "coalition": "red",
+   "dynamic_slots": false,
+   "parked_slots": 0,
+   "freqs": {
+    "uhf": 253.6,
+    "vhf": 121.6,
+    "fm": 42.0
+   },
+   "tacan": null,
+   "channel": null,
+   "tier": 1
+  },
+  {
+   "airdrome_id": 28,
+   "name": "Needs Oar Point",
+   "coalition": "blue",
+   "dynamic_slots": false,
+   "parked_slots": 0,
+   "freqs": {
+    "uhf": 250.95,
+    "vhf": 119.1,
+    "fm": 39.4
+   },
+   "tacan": null,
+   "channel": null,
+   "tier": 1
+  },
+  {
+   "airdrome_id": 88,
+   "name": "Northolt",
+   "coalition": "blue",
+   "dynamic_slots": false,
+   "parked_slots": 0,
+   "freqs": {
+    "uhf": 254.35,
+    "vhf": 122.5,
+    "fm": 41.6
+   },
+   "tacan": null,
+   "channel": null,
+   "tier": 1
+  },
+  {
+   "airdrome_id": 39,
+   "name": "Odiham",
+   "coalition": "blue",
+   "dynamic_slots": false,
+   "parked_slots": 0,
+   "freqs": {
+    "uhf": 251.55,
+    "vhf": 119.75,
+    "fm": 40.0
+   },
+   "tacan": null,
+   "channel": null,
+   "tier": 1
+  },
+  {
+   "airdrome_id": 57,
+   "name": "Orly",
+   "coalition": "red",
+   "dynamic_slots": false,
+   "parked_slots": 0,
+   "freqs": {
+    "uhf": 252.5,
+    "vhf": 120.7,
+    "fm": 40.95
+   },
+   "tacan": null,
+   "channel": null,
+   "tier": 1
+  },
+  {
+   "airdrome_id": 56,
+   "name": "Poix",
+   "coalition": "red",
+   "dynamic_slots": false,
+   "parked_slots": 0,
+   "freqs": {
+    "uhf": 252.45,
+    "vhf": 120.65,
+    "fm": 40.9
+   },
+   "tacan": null,
+   "channel": null,
+   "tier": 1
+  },
+  {
+   "airdrome_id": 60,
+   "name": "Ronai",
+   "coalition": "red",
+   "dynamic_slots": false,
+   "parked_slots": 0,
+   "freqs": {
+    "uhf": 252.7,
+    "vhf": 120.9,
+    "fm": 41.1
+   },
+   "tacan": null,
+   "channel": null,
+   "tier": 1
+  },
+  {
+   "airdrome_id": 61,
+   "name": "Rouen-Boos",
+   "coalition": "red",
+   "dynamic_slots": false,
+   "parked_slots": 0,
+   "freqs": {
+    "uhf": 252.75,
+    "vhf": 120.95,
+    "fm": 41.15
+   },
+   "tacan": null,
+   "channel": null,
+   "tier": 1
+  },
+  {
+   "airdrome_id": 23,
+   "name": "Rucqueville",
+   "coalition": "blue",
+   "dynamic_slots": false,
+   "parked_slots": 0,
+   "freqs": {
+    "uhf": 250.7,
+    "vhf": 118.85,
+    "fm": 39.15
+   },
+   "tacan": null,
+   "channel": null,
+   "tier": 1
+  },
+  {
+   "airdrome_id": 1,
+   "name": "Saint Pierre du Mont",
+   "coalition": "blue",
+   "dynamic_slots": false,
+   "parked_slots": 0,
+   "freqs": {
+    "uhf": 250.5,
+    "vhf": 118.65,
+    "fm": 38.95
+   },
+   "tacan": null,
+   "channel": null,
+   "tier": 1
+  },
+  {
+   "airdrome_id": 70,
+   "name": "Saint-Andre-de-lEure",
+   "coalition": "red",
+   "dynamic_slots": false,
+   "parked_slots": 0,
+   "freqs": {
+    "uhf": 253.25,
+    "vhf": 121.45,
+    "fm": 41.65
+   },
+   "tacan": null,
+   "channel": null,
+   "tier": 1
+  },
+  {
+   "airdrome_id": 63,
+   "name": "Saint-Aubin",
+   "coalition": "red",
+   "dynamic_slots": false,
+   "parked_slots": 0,
+   "freqs": {
+    "uhf": 252.85,
+    "vhf": 121.05,
+    "fm": 41.25
+   },
+   "tacan": null,
+   "channel": null,
+   "tier": 1
+  },
+  {
+   "airdrome_id": 76,
+   "name": "Saint-Omer Wizernes",
+   "coalition": "red",
+   "dynamic_slots": false,
+   "parked_slots": 0,
+   "freqs": {
+    "uhf": 253.55,
+    "vhf": 121.55,
+    "fm": 41.95
+   },
+   "tacan": null,
+   "channel": null,
+   "tier": 1
+  },
+  {
+   "airdrome_id": 87,
+   "name": "Saint-Pol-Bryas",
+   "coalition": "red",
+   "dynamic_slots": false,
+   "parked_slots": 0,
+   "freqs": {
+    "uhf": 254.3,
+    "vhf": 122.15,
+    "fm": 41.4
+   },
+   "tacan": null,
+   "channel": null,
+   "tier": 1
+  },
+  {
+   "airdrome_id": 21,
+   "name": "Sainte-Croix-sur-Mer",
+   "coalition": "blue",
+   "dynamic_slots": false,
+   "parked_slots": 0,
+   "freqs": {
+    "uhf": 250.6,
+    "vhf": 118.75,
+    "fm": 39.05
+   },
+   "tacan": null,
+   "channel": null,
+   "tier": 1
+  },
+  {
+   "airdrome_id": 9,
+   "name": "Sainte-Laurent-sur-Mer",
+   "coalition": "blue",
+   "dynamic_slots": false,
+   "parked_slots": 0,
+   "freqs": {
+    "uhf": 254.0,
+    "vhf": 121.9,
+    "fm": 42.0
+   },
+   "tacan": null,
+   "channel": null,
+   "tier": 1
+  },
+  {
+   "airdrome_id": 24,
+   "name": "Sommervieu",
+   "coalition": "blue",
+   "dynamic_slots": false,
+   "parked_slots": 0,
+   "freqs": {
+    "uhf": 250.75,
+    "vhf": 118.9,
+    "fm": 39.2
+   },
+   "tacan": null,
+   "channel": null,
+   "tier": 1
+  },
+  {
+   "airdrome_id": 55,
+   "name": "Triqueville",
+   "coalition": "red",
+   "dynamic_slots": false,
+   "parked_slots": 0,
+   "freqs": {
+    "uhf": 252.4,
+    "vhf": 120.6,
+    "fm": 40.85
+   },
+   "tacan": null,
+   "channel": null,
+   "tier": 1
+  },
+  {
+   "airdrome_id": 42,
+   "name": "Villacoublay",
+   "coalition": "red",
+   "dynamic_slots": false,
+   "parked_slots": 0,
+   "freqs": {
+    "uhf": 251.75,
+    "vhf": 119.95,
+    "fm": 40.2
+   },
+   "tacan": null,
+   "channel": null,
+   "tier": 1
+  },
+  {
+   "airdrome_id": 38,
+   "name": "Vrigny",
+   "coalition": "red",
+   "dynamic_slots": false,
+   "parked_slots": 0,
+   "freqs": {
+    "uhf": 251.5,
+    "vhf": 119.7,
+    "fm": 39.95
+   },
+   "tacan": null,
+   "channel": null,
+   "tier": 1
+  },
+  {
+   "airdrome_id": 41,
+   "name": "West Malling",
+   "coalition": "blue",
+   "dynamic_slots": false,
+   "parked_slots": 0,
+   "freqs": {
+    "uhf": 251.7,
+    "vhf": 119.9,
+    "fm": 40.15
+   },
+   "tacan": null,
+   "channel": null,
+   "tier": 1
+  }
+ ],
+ "bases_channels": [],
+ "on_a_radio": []
+}

@@ -1,0 +1,11 @@
+mapResource = 
+{
+  ResKey_ImageBriefing_carte = "carte.jpg",
+  ResKey_ImageBriefing_carte_01_plages = "carte_01_plages.jpg",
+  ResKey_ImageBriefing_carte_02_cotentin = "carte_02_cotentin.jpg",
+  ResKey_ImageBriefing_carte_03_seine = "carte_03_seine.jpg",
+  ResKey_ImageBriefing_carte_04_calais = "carte_04_calais.jpg",
+  ResKey_ImageBriefing_carte_05_solent = "carte_05_solent.jpg",
+  ResKey_ImageBriefing_carte_06_kent = "carte_06_kent.jpg",
+  ResKey_ImageBriefing_carte_07_arene = "carte_07_arene.jpg",
+}

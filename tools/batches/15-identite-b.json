@@ -1,0 +1,49 @@
+[
+ {
+  "name": "set_mission_date",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Normandy-WW2-v6",
+   "date": "1944-07-06",
+   "start_time": "09:00"
+  }
+ },
+ {
+  "name": "set_weather",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Normandy-WW2-v6",
+   "metar": "LFRK 061300Z 25008KT 9999 SCT040 18/11 Q1016"
+  }
+ },
+ {
+  "name": "set_bullseye",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Normandy-WW2-v6",
+   "coalition": "blue",
+   "position": {
+    "x": -42728,
+    "y": -56219
+   }
+  }
+ },
+ {
+  "name": "set_bullseye",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Normandy-WW2-v6",
+   "coalition": "red",
+   "position": {
+    "x": -42728,
+    "y": -56219
+   }
+  }
+ },
+ {
+  "name": "set_briefing",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Normandy-WW2-v6",
+   "sortie": "VEAF Open Training — Normandie 1944",
+   "situation": "VEAF Open Training — Normandie (1944, 6 juillet).\nD+30. La tête de pont alliée tient Cherbourg, le Cotentin jusqu'à Carentan et l'ouest de Caen ; l'Angleterre du sud est la base arrière. Le front, tracé à l'estime donc approximatif, court de la côte ouest du Cotentin, par Carentan, Saint-Lô, Caumont et Villers-Bocage, à Carpiquet et à l'Orne ; au-delà, la France jusqu'à Paris et au Pas-de-Calais, plus les îles Anglo-Normandes, est rouge. Bullseye commun : Saint-Lô.\n\nBASES BLEUES (slots dynamiques, VHF) : Tangmere (V119.30), Stoney Cross (V120.75), Biggin Hill (V134.80), Manston (V118.25), Maupertus (V120.35), Longues (V118.55), Deux Jumeaux (V118.15), Azeville (V118.35), Picauville (V118.40), Bazenville (V118.70), Bény (V118.80). Tangmere est la base mère.\nSOUTIEN : pas de ravitailleur ni d'AWACS en 1944 ; rien n'est posé. Raids de B-17G, de Ju 88 : voir les missions à la demande. Radio : une seule radio VHF/AM (Guard 121.5, arène 125.0).\n\nENTRAÎNEMENT (menu F10 VEAF, zones, trois niveaux chacun) : A mitraillage dans le bocage du Cotentin, B bombardement à Salisbury, C antiflak à Aurigny.\nTOURISME : visite aérienne en trois circuits, balises VHF/AM — Plages du Débarquement : SWD 130.0, GLD 130.5, OMA 131.0, UTH 131.5 ; Cotentin et Cherbourg : CHB 133.0, GAT 133.5, VAA 134.0 ; Côte sud de l'Angleterre : NDL 135.0, POR 135.5, BCH 136.0, DVR 136.5 — et un guide qui raconte chaque monument survolé sous 1 500 ft sol ; menu F10 « Tourisme » pour faire apparaître les véhicules d'époque.\nCOMBAT : 16 zones (front, radars et flak, convois, frappes dans la profondeur, bases aériennes, antinavire), chacune avec son briefing dans le menu. Missions à la demande : CAP rouges et bleues, raid de Ju 88 sur la baie de Seine, raid de Ju 88 sur Arromanches, escorte de B-17G sur Rouen, interception d'un Ju 88 de reconnaissance.\nQRA rouges : Caen (8 nm), Seine (12 nm), Pas-de-Calais (16 nm) ; QRA bleues : Solent (13 nm), Tête de pont (11 nm). Décollage 90 s après l'entrée du premier intrus ; pas de couloir de QRA sur le Cotentin sud, la haute Seine, le bocage de Flers et d'Argentan.\nJOUEURS CONTRE JOUEURS : libre hors des sanctuaires. Sanctuaire bleu : Angleterre du sud (50 km) ; rouge : Évreux (25 km). Un intrus y est détruit après 60 s ; un missile tiré sur un défenseur est détruit. Arène de 19 nm de rayon au nord de Cherbourg, slots en vol, canons seulement.\n\nPlan radio, cartes et détail de chaque zone : voir les images du briefing et le README de la mission.",
+   "blue_task": "Tenir la tête de pont et frapper la France occupée : s'entraîner sur les champs de tir A, B et C, puis attaquer les zones de combat rouges. Tangmere est la base mère ; Bény, Bazenville et Picauville sont en première ligne, Maupertus tient Cherbourg.",
+   "red_task": "Tenir la Normandie. Bases rouges avec slots : Carpiquet (V118.60), Lessay (V121.85), Évreux (V119.00), Abbeville (V118.05). Le sanctuaire bleu d'Angleterre détruit tout appareil rouge qui y entre."
+  }
+ }
+]

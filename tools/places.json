@@ -1,0 +1,416 @@
+{
+ "Pointe du Hoc": {
+  "x": -11188,
+  "y": -49646,
+  "osm": "cape",
+  "name": "Pointe du Hoc, Le Guay, Cricqueville-en-Bessin, Bayeux, Calvados, Normandie, France métrop"
+ },
+ "Omaha Beach": {
+  "x": 5595880,
+  "y": -6634842,
+  "osm": "beach",
+  "name": "Omaha Beach, Okoboji, Dickinson County, Iowa, 51331, United States"
+ },
+ "Utah Beach": {
+  "x": -9546,
+  "y": -63137,
+  "osm": "hamlet",
+  "name": "Utah-Beach, Sainte-Marie-du-Mont, Cherbourg, Manche, Normandie, France métropolitaine, 504"
+ },
+ "Arromanches-les-Bains": {
+  "x": -17178,
+  "y": -22786,
+  "osm": "administrative",
+  "name": "Arromanches-les-Bains, Bayeux, Calvados, Normandie, France métropolitaine, 14117, France"
+ },
+ "Pegasus Bridge": {
+  "x": -26836,
+  "y": 2872,
+  "osm": "bridge",
+  "name": "Pegasus Bridge, D 514, Bénouville, Caen, Calvados, Normandie, France métropolitaine, 14970"
+ },
+ "Sainte-Mère-Église": {
+  "x": -10235,
+  "y": -74160,
+  "osm": "administrative",
+  "name": "Sainte-Mère-Église, Cherbourg, Manche, Normandie, France métropolitaine, 50480, France"
+ },
+ "Batterie de Longues-sur-Mer": {
+  "x": -16768,
+  "y": -27871,
+  "osm": "bus_stop",
+  "name": "Batterie, Route du 7 Juin 1944, Le Mesnil, Longues-sur-Mer, Bayeux, Calvados, Normandie, F"
+ },
+ "Courseulles-sur-Mer": {
+  "x": -17572,
+  "y": -10743,
+  "osm": "administrative",
+  "name": "Courseulles-sur-Mer, Caen, Calvados, Normandie, France métropolitaine, 14470, France"
+ },
+ "Ouistreham": {
+  "x": -23044,
+  "y": 3874,
+  "osm": "administrative",
+  "name": "Ouistreham, Caen, Calvados, Normandie, France métropolitaine, 14150, France"
+ },
+ "Batterie de Merville": {
+  "x": -23582,
+  "y": 8385,
+  "osm": "museum",
+  "name": "Musée de la Batterie de Merville, Place du 9e Bataillon, Merville, Merville-Franceville-Pl"
+ },
+ "Vierville-sur-Mer": {
+  "x": -13607,
+  "y": -43384,
+  "osm": "administrative",
+  "name": "Vierville-sur-Mer, Bayeux, Calvados, Normandie, France métropolitaine, 14710, France"
+ },
+ "Normandy American Cemetery and Memorial": {
+  "x": -15276,
+  "y": -39747,
+  "osm": "cemetery",
+  "name": "Cimetière américain de Colleville-sur-Mer, Le Cavey, Colleville-sur-Mer, Bayeux, Calvados,"
+ },
+ "Saint-Vaast-la-Hougue": {
+  "x": 9422,
+  "y": -70215,
+  "osm": "administrative",
+  "name": "Saint-Vaast-la-Hougue, Cherbourg, Manche, Normandie, France métropolitaine, 50550, France"
+ },
+ "Phare de Gatteville": {
+  "x": 21512,
+  "y": -70466,
+  "osm": "lighthouse",
+  "name": "Phare de Gatteville, Route du Phare, Gatteville-le-Phare, Cherbourg, Manche, Normandie, Fr"
+ },
+ "Cherbourg-en-Cotentin": {
+  "x": 14982,
+  "y": -96253,
+  "osm": "administrative",
+  "name": "Cherbourg-en-Cotentin, Cherbourg, Manche, Normandie, France métropolitaine, France"
+ },
+ "Fort du Roule": {
+  "x": 13661,
+  "y": -95414,
+  "osm": "attraction",
+  "name": "Fort du Roule, Montée des Résistants, Cherbourg-Octeville, Cherbourg-en-Cotentin, Cherbour"
+ },
+ "Mont-Saint-Michel": {
+  "x": -96756,
+  "y": -85861,
+  "osm": "islet",
+  "name": "Mont Saint-Michel, Le Mont-Saint-Michel, Avranches, Manche, Normandie, France métropolitai"
+ },
+ "Carentan": {
+  "x": -23119,
+  "y": -68455,
+  "osm": "administrative",
+  "name": "Carentan, Carentan-les-Marais, Saint-Lô, Manche, Normandie, France métropolitaine, 50500, "
+ },
+ "Cap de la Hague": {
+  "x": 23904,
+  "y": -119295,
+  "osm": "cape",
+  "name": "Cap de la Hague, Le Semaphore, Auderville, La Hague, Cherbourg, Manche, Normandie, France "
+ },
+ "Bayeux": {
+  "x": -24084,
+  "y": -28418,
+  "osm": "administrative",
+  "name": "Bayeux, Calvados, Normandie, France métropolitaine, 14400, France"
+ },
+ "Tower Bridge": {
+  "x": 225285,
+  "y": 7437,
+  "osm": "bridge",
+  "name": "Tower Bridge, Butler's Wharf, Bermondsey Village, Bermondsey, London Borough of Tower Haml"
+ },
+ "Palace of Westminster": {
+  "x": 224469,
+  "y": 4056,
+  "osm": "government",
+  "name": "Palace of Westminster, The Royal Porch, Westminster, Millbank, City of Westminster, Greate"
+ },
+ "St Paul's Cathedral": {
+  "x": 226141,
+  "y": 5798,
+  "osm": "place_of_worship",
+  "name": "St Paul's Cathedral, St Paul's Churchyard, West Smithfield, St Paul's, City of London, Gre"
+ },
+ "London Eye": {
+  "x": 224922,
+  "y": 4372,
+  "osm": "attraction",
+  "name": "London Eye, Westminster Bridge Road, South Bank, Lambeth, London Borough of Lambeth, Great"
+ },
+ "Windsor Castle": {
+  "x": 221536,
+  "y": -29168,
+  "osm": "attraction",
+  "name": "Windsor Castle, Chapter Mews, Clewer New Town, Clewer Village, Windsor, Windsor and Maiden"
+ },
+ "Stonehenge": {
+  "x": 185554,
+  "y": -113478,
+  "osm": "attraction",
+  "name": "Stonehenge, A303, Amesbury, Wiltshire, England, SP4 7DE, United Kingdom"
+ },
+ "Dover Castle": {
+  "x": 188245,
+  "y": 106906,
+  "osm": "castle",
+  "name": "Dover Castle, Castle Hill Road, Clarendon, Dover, Kent, England, CT16 1QY, United Kingdom"
+ },
+ "Beachy Head": {
+  "x": 140934,
+  "y": 33744,
+  "osm": "cliff",
+  "name": "Beachy Head, Holywell, Eastbourne, East Sussex, England, BN20 7YA, United Kingdom"
+ },
+ "Portsmouth Historic Dockyard": {
+  "x": 144527,
+  "y": -62306,
+  "osm": "attraction",
+  "name": "Portsmouth Historic Dockyard, Queen Street, Portsea, Portsmouth, England, PO1 3LJ, United "
+ },
+ "The Needles": {
+  "x": 128416,
+  "y": -95939,
+  "osm": "islet",
+  "name": "The Needles, Totland, Isle of Wight, England, United Kingdom"
+ },
+ "Villers-Bocage, Calvados": {
+  "x": -45758,
+  "y": -24327,
+  "osm": "administrative",
+  "name": "Villers-Bocage, Vire, Calvados, Normandie, France métropolitaine, 14310, France"
+ },
+ "Tilly-sur-Seulles": {
+  "x": -35083,
+  "y": -22441,
+  "osm": "administrative",
+  "name": "Tilly-sur-Seulles, Bayeux, Calvados, Normandie, France métropolitaine, 14250, France"
+ },
+ "Caen": {
+  "x": -33852,
+  "y": -3401,
+  "osm": "administrative",
+  "name": "Caen, Calvados, Normandie, France métropolitaine, 14000, France"
+ },
+ "Caumont-l'Éventé": {
+  "x": -44941,
+  "y": -35351,
+  "osm": "village",
+  "name": "Caumont-l'Éventé, Caumont-sur-Aure, Vire, Calvados, Normandie, France métropolitaine, 1424"
+ },
+ "Saint-Lô": {
+  "x": -42728,
+  "y": -56219,
+  "osm": "administrative",
+  "name": "Saint-Lô, Manche, Normandie, France métropolitaine, 50000, France"
+ },
+ "La Haye-du-Puits": {
+  "x": -23983,
+  "y": -89733,
+  "osm": "administrative",
+  "name": "La Haye-du-Puits, La Haye, Coutances, Manche, Normandie, France métropolitaine, 50250, Fra"
+ },
+ "Falaise, Calvados": {
+  "x": -65086,
+  "y": 9693,
+  "osm": "administrative",
+  "name": "Falaise, Caen, Calvados, Normandie, France métropolitaine, 14700, France"
+ },
+ "Argentan": {
+  "x": -81660,
+  "y": 23374,
+  "osm": "administrative",
+  "name": "Argentan, Orne, Normandie, France métropolitaine, 61200, France"
+ },
+ "Lisieux": {
+  "x": -36107,
+  "y": 39688,
+  "osm": "administrative",
+  "name": "Lisieux, Calvados, Normandie, France métropolitaine, 14100, France"
+ },
+ "Vire Normandie": {
+  "x": -73160,
+  "y": -40652,
+  "osm": "town",
+  "name": "Vire Normandie, Vire, Calvados, Normandie, France métropolitaine, 14500, France"
+ },
+ "Flers, Orne": {
+  "x": -82474,
+  "y": -16883,
+  "osm": "administrative",
+  "name": "Flers, Argentan, Orne, Normandie, France métropolitaine, 61100, France"
+ },
+ "Mortain": {
+  "x": -94502,
+  "y": -43976,
+  "osm": "administrative",
+  "name": "Mortain, Mortain-Bocage, Avranches, Manche, Normandie, France métropolitaine, 50140, Franc"
+ },
+ "Avranches": {
+  "x": -90938,
+  "y": -74672,
+  "osm": "administrative",
+  "name": "Avranches, Manche, Normandie, France métropolitaine, 50300, France"
+ },
+ "Coutances": {
+  "x": -50880,
+  "y": -81936,
+  "osm": "administrative",
+  "name": "Coutances, Manche, Normandie, France métropolitaine, 50200, France"
+ },
+ "Évreux": {
+  "x": -46063,
+  "y": 107889,
+  "osm": "administrative",
+  "name": "Évreux, Eure, Normandie, France métropolitaine, 27000, France"
+ },
+ "Rouen": {
+  "x": -331,
+  "y": 101229,
+  "osm": "administrative",
+  "name": "Rouen, Seine-Maritime, Normandie, France métropolitaine, France"
+ },
+ "Elbeuf": {
+  "x": -17697,
+  "y": 96116,
+  "osm": "administrative",
+  "name": "Elbeuf, Rouen, Seine-Maritime, Normandie, France métropolitaine, 76500, France"
+ },
+ "Le Havre": {
+  "x": 2193,
+  "y": 29526,
+  "osm": "administrative",
+  "name": "Le Havre, Seine-Maritime, Normandie, France métropolitaine, France"
+ },
+ "Cap d'Antifer": {
+  "x": 23775,
+  "y": 32723,
+  "osm": "cape",
+  "name": "Cap d'Antifer, Jumel, La Poterie-Cap-d'Antifer, Le Havre, Seine-Maritime, Normandie, Franc"
+ },
+ "Étretat": {
+  "x": 26219,
+  "y": 35408,
+  "osm": "administrative",
+  "name": "Étretat, Le Havre, Seine-Maritime, Normandie, France métropolitaine, 76790, France"
+ },
+ "Fécamp": {
+  "x": 32290,
+  "y": 47643,
+  "osm": "administrative",
+  "name": "Fécamp, Le Havre, Seine-Maritime, Normandie, France métropolitaine, 76400, France"
+ },
+ "Dieppe": {
+  "x": 53417,
+  "y": 97229,
+  "osm": "administrative",
+  "name": "Dieppe, Seine-Maritime, Normandie, France métropolitaine, 76200, France"
+ },
+ "Honfleur": {
+  "x": -5668,
+  "y": 38996,
+  "osm": "administrative",
+  "name": "Honfleur, Lisieux, Calvados, Normandie, France métropolitaine, 14600, France"
+ },
+ "Cap Gris-Nez": {
+  "x": 160692,
+  "y": 126910,
+  "osm": "cape",
+  "name": "Cap Gris Nez, Le Gris-Nez, Audinghen, Boulogne-sur-Mer, Pas-de-Calais, Hauts-de-France, Fr"
+ },
+ "Blockhaus d'Éperlecques": {
+  "x": 158792,
+  "y": 169457,
+  "osm": "bunker",
+  "name": "Blockhaus d'Éperlecques - KNW -, Rue des Sarts, Éperlecques, Saint-Omer, Pas-de-Calais, Ha"
+ },
+ "Fort Tourgis": {
+  "x": 22861,
+  "y": -139260,
+  "osm": "castle",
+  "name": "Fort Tourgis, Zig Zag, Saint Anne, Alderney, GY9 3TR, Guernsey"
+ },
+ "Alderney": {
+  "x": 22650,
+  "y": -137653,
+  "osm": "island",
+  "name": "Alderney, Guernsey"
+ },
+ "La Roche-Guyon": {
+  "x": -38011,
+  "y": 142564,
+  "osm": "administrative",
+  "name": "La Roche-Guyon, Pontoise, Val-d'Oise, Île-de-France, France métropolitaine, 95780, France"
+ },
+ "Mézidon-Canon": {
+  "x": -45051,
+  "y": 18475,
+  "osm": "village",
+  "name": "Mézidon-Canon, Mézidon Vallée d'Auge, Lisieux, Calvados, Normandie, France métropolitaine,"
+ },
+ "Pont-l'Évêque, Calvados": {
+  "x": -20800,
+  "y": 35957,
+  "osm": "administrative",
+  "name": "Pont-l'Évêque, Lisieux, Calvados, Normandie, France métropolitaine, 14130, France"
+ },
+ "Dives-sur-Mer": {
+  "x": -21445,
+  "y": 15343,
+  "osm": "administrative",
+  "name": "Dives-sur-Mer, Lisieux, Calvados, Normandie, France métropolitaine, 14160, France"
+ },
+ "Saint-Valery-en-Caux": {
+  "x": 44825,
+  "y": 71150,
+  "osm": "administrative",
+  "name": "Saint-Valery-en-Caux, Dieppe, Seine-Maritime, Normandie, France métropolitaine, 76460, Fra"
+ },
+ "Siracourt": {
+  "x": 108484,
+  "y": 179174,
+  "osm": "administrative",
+  "name": "Siracourt, Arras, Pas-de-Calais, Hauts-de-France, France métropolitaine, 62130, France"
+ },
+ "Mimoyecques": {
+  "x": 159443,
+  "y": 139404,
+  "osm": "museum",
+  "name": "Forteresse de Mimoyecques, Hameau de Bainghen, Landrethun-le-Nord, Boulogne-sur-Mer, Pas-d"
+ },
+ "Thury-Harcourt": {
+  "x": -56036,
+  "y": -10758,
+  "osm": "administrative",
+  "name": "Thury-Harcourt, Thury-Harcourt-le-Hom, Caen, Calvados, Normandie, France métropolitaine, 1"
+ },
+ "Vimoutiers": {
+  "x": -60244,
+  "y": 38629,
+  "osm": "administrative",
+  "name": "Vimoutiers, Mortagne-au-Perche, Orne, Normandie, France métropolitaine, 61120, France"
+ },
+ "Bernay, Eure": {
+  "x": -41087,
+  "y": 67207,
+  "osm": "administrative",
+  "name": "Bernay, Eure, Normandie, France métropolitaine, 27300, France"
+ },
+ "Les Andelys": {
+  "x": -20494,
+  "y": 126229,
+  "osm": "administrative",
+  "name": "Les Andelys, Eure, Normandie, France métropolitaine, 27700, France"
+ },
+ "Vernon, Eure": {
+  "x": -37300,
+  "y": 131911,
+  "osm": "administrative",
+  "name": "Vernon, Les Andelys, Eure, Normandie, France métropolitaine, 27200, France"
+ }
+}

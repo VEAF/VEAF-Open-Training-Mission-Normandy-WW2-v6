@@ -1,0 +1,651 @@
+[
+ {
+  "name": "add_sound",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Normandy-WW2-v6",
+   "sound_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Normandy-WW2-v6/tools/sons/balise-SWD.wav"
+  }
+ },
+ {
+  "name": "add_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Normandy-WW2-v6",
+   "coalition": "blue",
+   "country_id": 2,
+   "country_name": "USA",
+   "category": "vehicle",
+   "name": "Balise SWD",
+   "position": {
+    "x": -26691,
+    "y": 2839
+   },
+   "units": [
+    {
+     "type": "Willys_MB",
+     "name": "Balise SWD"
+    }
+   ],
+   "keep_position": true
+  }
+ },
+ {
+  "name": "edit_route",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Normandy-WW2-v6",
+   "group_name": "Balise SWD",
+   "operation": "add_task",
+   "index": 1,
+   "task": "set_frequency",
+   "task_params": {
+    "frequency_mhz": 130.0,
+    "modulation": "AM"
+   }
+  }
+ },
+ {
+  "name": "edit_route",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Normandy-WW2-v6",
+   "group_name": "Balise SWD",
+   "operation": "add_task",
+   "index": 1,
+   "task": "transmit_message",
+   "task_params": {
+    "sound": "balise-SWD.wav",
+    "loop": true,
+    "duration_s": 5,
+    "subtitle": "SWD — Sword et Pegasus Bridge"
+   }
+  }
+ },
+ {
+  "name": "add_sound",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Normandy-WW2-v6",
+   "sound_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Normandy-WW2-v6/tools/sons/balise-GLD.wav"
+  }
+ },
+ {
+  "name": "add_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Normandy-WW2-v6",
+   "coalition": "blue",
+   "country_id": 2,
+   "country_name": "USA",
+   "category": "vehicle",
+   "name": "Balise GLD",
+   "position": {
+    "x": -16835,
+    "y": -22642
+   },
+   "units": [
+    {
+     "type": "Willys_MB",
+     "name": "Balise GLD"
+    }
+   ],
+   "keep_position": true
+  }
+ },
+ {
+  "name": "edit_route",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Normandy-WW2-v6",
+   "group_name": "Balise GLD",
+   "operation": "add_task",
+   "index": 1,
+   "task": "set_frequency",
+   "task_params": {
+    "frequency_mhz": 130.5,
+    "modulation": "AM"
+   }
+  }
+ },
+ {
+  "name": "edit_route",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Normandy-WW2-v6",
+   "group_name": "Balise GLD",
+   "operation": "add_task",
+   "index": 1,
+   "task": "transmit_message",
+   "task_params": {
+    "sound": "balise-GLD.wav",
+    "loop": true,
+    "duration_s": 6,
+    "subtitle": "GLD — Gold et Arromanches"
+   }
+  }
+ },
+ {
+  "name": "add_sound",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Normandy-WW2-v6",
+   "sound_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Normandy-WW2-v6/tools/sons/balise-OMA.wav"
+  }
+ },
+ {
+  "name": "add_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Normandy-WW2-v6",
+   "coalition": "blue",
+   "country_id": 2,
+   "country_name": "USA",
+   "category": "vehicle",
+   "name": "Balise OMA",
+   "position": {
+    "x": -15204,
+    "y": -39874
+   },
+   "units": [
+    {
+     "type": "Willys_MB",
+     "name": "Balise OMA"
+    }
+   ],
+   "keep_position": true
+  }
+ },
+ {
+  "name": "edit_route",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Normandy-WW2-v6",
+   "group_name": "Balise OMA",
+   "operation": "add_task",
+   "index": 1,
+   "task": "set_frequency",
+   "task_params": {
+    "frequency_mhz": 131.0,
+    "modulation": "AM"
+   }
+  }
+ },
+ {
+  "name": "edit_route",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Normandy-WW2-v6",
+   "group_name": "Balise OMA",
+   "operation": "add_task",
+   "index": 1,
+   "task": "transmit_message",
+   "task_params": {
+    "sound": "balise-OMA.wav",
+    "loop": true,
+    "duration_s": 6,
+    "subtitle": "OMA — Omaha et Colleville"
+   }
+  }
+ },
+ {
+  "name": "add_sound",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Normandy-WW2-v6",
+   "sound_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Normandy-WW2-v6/tools/sons/balise-UTH.wav"
+  }
+ },
+ {
+  "name": "add_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Normandy-WW2-v6",
+   "coalition": "blue",
+   "country_id": 2,
+   "country_name": "USA",
+   "category": "vehicle",
+   "name": "Balise UTH",
+   "position": {
+    "x": -10782,
+    "y": -62867
+   },
+   "units": [
+    {
+     "type": "Willys_MB",
+     "name": "Balise UTH"
+    }
+   ],
+   "keep_position": true
+  }
+ },
+ {
+  "name": "edit_route",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Normandy-WW2-v6",
+   "group_name": "Balise UTH",
+   "operation": "add_task",
+   "index": 1,
+   "task": "set_frequency",
+   "task_params": {
+    "frequency_mhz": 131.5,
+    "modulation": "AM"
+   }
+  }
+ },
+ {
+  "name": "edit_route",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Normandy-WW2-v6",
+   "group_name": "Balise UTH",
+   "operation": "add_task",
+   "index": 1,
+   "task": "transmit_message",
+   "task_params": {
+    "sound": "balise-UTH.wav",
+    "loop": true,
+    "duration_s": 5,
+    "subtitle": "UTH — Utah et Sainte-Mère-Église"
+   }
+  }
+ },
+ {
+  "name": "add_sound",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Normandy-WW2-v6",
+   "sound_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Normandy-WW2-v6/tools/sons/balise-CHB.wav"
+  }
+ },
+ {
+  "name": "add_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Normandy-WW2-v6",
+   "coalition": "blue",
+   "country_id": 2,
+   "country_name": "USA",
+   "category": "vehicle",
+   "name": "Balise CHB",
+   "position": {
+    "x": 13946,
+    "y": -94937
+   },
+   "units": [
+    {
+     "type": "Willys_MB",
+     "name": "Balise CHB"
+    }
+   ],
+   "keep_position": true
+  }
+ },
+ {
+  "name": "edit_route",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Normandy-WW2-v6",
+   "group_name": "Balise CHB",
+   "operation": "add_task",
+   "index": 1,
+   "task": "set_frequency",
+   "task_params": {
+    "frequency_mhz": 133.0,
+    "modulation": "AM"
+   }
+  }
+ },
+ {
+  "name": "edit_route",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Normandy-WW2-v6",
+   "group_name": "Balise CHB",
+   "operation": "add_task",
+   "index": 1,
+   "task": "transmit_message",
+   "task_params": {
+    "sound": "balise-CHB.wav",
+    "loop": true,
+    "duration_s": 6,
+    "subtitle": "CHB — Cherbourg et le fort du Roule"
+   }
+  }
+ },
+ {
+  "name": "add_sound",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Normandy-WW2-v6",
+   "sound_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Normandy-WW2-v6/tools/sons/balise-GAT.wav"
+  }
+ },
+ {
+  "name": "add_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Normandy-WW2-v6",
+   "coalition": "blue",
+   "country_id": 2,
+   "country_name": "USA",
+   "category": "vehicle",
+   "name": "Balise GAT",
+   "position": {
+    "x": 19621,
+    "y": -70321
+   },
+   "units": [
+    {
+     "type": "Willys_MB",
+     "name": "Balise GAT"
+    }
+   ],
+   "keep_position": true
+  }
+ },
+ {
+  "name": "edit_route",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Normandy-WW2-v6",
+   "group_name": "Balise GAT",
+   "operation": "add_task",
+   "index": 1,
+   "task": "set_frequency",
+   "task_params": {
+    "frequency_mhz": 133.5,
+    "modulation": "AM"
+   }
+  }
+ },
+ {
+  "name": "edit_route",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Normandy-WW2-v6",
+   "group_name": "Balise GAT",
+   "operation": "add_task",
+   "index": 1,
+   "task": "transmit_message",
+   "task_params": {
+    "sound": "balise-GAT.wav",
+    "loop": true,
+    "duration_s": 5,
+    "subtitle": "GAT — phare de Gatteville"
+   }
+  }
+ },
+ {
+  "name": "add_sound",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Normandy-WW2-v6",
+   "sound_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Normandy-WW2-v6/tools/sons/balise-VAA.wav"
+  }
+ },
+ {
+  "name": "add_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Normandy-WW2-v6",
+   "coalition": "blue",
+   "country_id": 2,
+   "country_name": "USA",
+   "category": "vehicle",
+   "name": "Balise VAA",
+   "position": {
+    "x": 9452,
+    "y": -70344
+   },
+   "units": [
+    {
+     "type": "Willys_MB",
+     "name": "Balise VAA"
+    }
+   ],
+   "keep_position": true
+  }
+ },
+ {
+  "name": "edit_route",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Normandy-WW2-v6",
+   "group_name": "Balise VAA",
+   "operation": "add_task",
+   "index": 1,
+   "task": "set_frequency",
+   "task_params": {
+    "frequency_mhz": 134.0,
+    "modulation": "AM"
+   }
+  }
+ },
+ {
+  "name": "edit_route",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Normandy-WW2-v6",
+   "group_name": "Balise VAA",
+   "operation": "add_task",
+   "index": 1,
+   "task": "transmit_message",
+   "task_params": {
+    "sound": "balise-VAA.wav",
+    "loop": true,
+    "duration_s": 5,
+    "subtitle": "VAA — Saint-Vaast-la-Hougue"
+   }
+  }
+ },
+ {
+  "name": "add_sound",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Normandy-WW2-v6",
+   "sound_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Normandy-WW2-v6/tools/sons/balise-NDL.wav"
+  }
+ },
+ {
+  "name": "add_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Normandy-WW2-v6",
+   "coalition": "blue",
+   "country_id": 4,
+   "country_name": "UK",
+   "category": "vehicle",
+   "name": "Balise NDL",
+   "position": {
+    "x": 128303,
+    "y": -95552
+   },
+   "units": [
+    {
+     "type": "Willys_MB",
+     "name": "Balise NDL"
+    }
+   ],
+   "keep_position": true
+  }
+ },
+ {
+  "name": "edit_route",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Normandy-WW2-v6",
+   "group_name": "Balise NDL",
+   "operation": "add_task",
+   "index": 1,
+   "task": "set_frequency",
+   "task_params": {
+    "frequency_mhz": 135.0,
+    "modulation": "AM"
+   }
+  }
+ },
+ {
+  "name": "edit_route",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Normandy-WW2-v6",
+   "group_name": "Balise NDL",
+   "operation": "add_task",
+   "index": 1,
+   "task": "transmit_message",
+   "task_params": {
+    "sound": "balise-NDL.wav",
+    "loop": true,
+    "duration_s": 5,
+    "subtitle": "NDL — les Needles"
+   }
+  }
+ },
+ {
+  "name": "add_sound",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Normandy-WW2-v6",
+   "sound_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Normandy-WW2-v6/tools/sons/balise-POR.wav"
+  }
+ },
+ {
+  "name": "add_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Normandy-WW2-v6",
+   "coalition": "blue",
+   "country_id": 4,
+   "country_name": "UK",
+   "category": "vehicle",
+   "name": "Balise POR",
+   "position": {
+    "x": 144481,
+    "y": -62059
+   },
+   "units": [
+    {
+     "type": "Willys_MB",
+     "name": "Balise POR"
+    }
+   ],
+   "keep_position": true
+  }
+ },
+ {
+  "name": "edit_route",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Normandy-WW2-v6",
+   "group_name": "Balise POR",
+   "operation": "add_task",
+   "index": 1,
+   "task": "set_frequency",
+   "task_params": {
+    "frequency_mhz": 135.5,
+    "modulation": "AM"
+   }
+  }
+ },
+ {
+  "name": "edit_route",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Normandy-WW2-v6",
+   "group_name": "Balise POR",
+   "operation": "add_task",
+   "index": 1,
+   "task": "transmit_message",
+   "task_params": {
+    "sound": "balise-POR.wav",
+    "loop": true,
+    "duration_s": 6,
+    "subtitle": "POR — Portsmouth"
+   }
+  }
+ },
+ {
+  "name": "add_sound",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Normandy-WW2-v6",
+   "sound_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Normandy-WW2-v6/tools/sons/balise-BCH.wav"
+  }
+ },
+ {
+  "name": "add_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Normandy-WW2-v6",
+   "coalition": "blue",
+   "country_id": 4,
+   "country_name": "UK",
+   "category": "vehicle",
+   "name": "Balise BCH",
+   "position": {
+    "x": 140546,
+    "y": 33238
+   },
+   "units": [
+    {
+     "type": "Willys_MB",
+     "name": "Balise BCH"
+    }
+   ],
+   "keep_position": true
+  }
+ },
+ {
+  "name": "edit_route",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Normandy-WW2-v6",
+   "group_name": "Balise BCH",
+   "operation": "add_task",
+   "index": 1,
+   "task": "set_frequency",
+   "task_params": {
+    "frequency_mhz": 136.0,
+    "modulation": "AM"
+   }
+  }
+ },
+ {
+  "name": "edit_route",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Normandy-WW2-v6",
+   "group_name": "Balise BCH",
+   "operation": "add_task",
+   "index": 1,
+   "task": "transmit_message",
+   "task_params": {
+    "sound": "balise-BCH.wav",
+    "loop": true,
+    "duration_s": 6,
+    "subtitle": "BCH — Beachy Head"
+   }
+  }
+ },
+ {
+  "name": "add_sound",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Normandy-WW2-v6",
+   "sound_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Normandy-WW2-v6/tools/sons/balise-DVR.wav"
+  }
+ },
+ {
+  "name": "add_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Normandy-WW2-v6",
+   "coalition": "blue",
+   "country_id": 4,
+   "country_name": "UK",
+   "category": "vehicle",
+   "name": "Balise DVR",
+   "position": {
+    "x": 188137,
+    "y": 106921
+   },
+   "units": [
+    {
+     "type": "Willys_MB",
+     "name": "Balise DVR"
+    }
+   ],
+   "keep_position": true
+  }
+ },
+ {
+  "name": "edit_route",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Normandy-WW2-v6",
+   "group_name": "Balise DVR",
+   "operation": "add_task",
+   "index": 1,
+   "task": "set_frequency",
+   "task_params": {
+    "frequency_mhz": 136.5,
+    "modulation": "AM"
+   }
+  }
+ },
+ {
+  "name": "edit_route",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Normandy-WW2-v6",
+   "group_name": "Balise DVR",
+   "operation": "add_task",
+   "index": 1,
+   "task": "transmit_message",
+   "task_params": {
+    "sound": "balise-DVR.wav",
+    "loop": true,
+    "duration_s": 6,
+    "subtitle": "DVR — Douvres"
+   }
+  }
+ }
+]

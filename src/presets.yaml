@@ -1,0 +1,180 @@
+# Plan radio de l'Open Training Normandie WW2 — écrit par tools/gen_12_presets.py, ne pas éditer à la main.
+# Tous les appareils de 1944 n'ont qu'une radio VHF/AM (rôle primary_2). Hors bande des tours (VHF 118.0-123.0, 132.45,
+# 134.8) : arène 125.0, balises touristiques VHF 130.0-137.0 (voir README). Guard 121.5.
+# Les canaux d'aérodromes (collection `bases`) viennent de set_airfield_channels : fréquences DCS.
+channel_lists:
+  blue:
+    primary_2:
+      1:
+        title: Guard/VHF
+        channel: Guard
+      2: Arene
+      3: Base-Tangmere
+      4: Base-Stoney Cross
+      5: Base-Biggin Hill
+      6: Base-Manston
+      7: Base-Maupertus
+      8: Base-Longues-sur-Mer
+      9: Base-Deux Jumeaux
+      10: Base-Azeville
+      11: Base-Picauville
+      12: Base-Bazenville
+      13: Base-Beny-sur-Mer
+  red:
+    primary_2:
+      1:
+        title: Guard/VHF
+        channel: Guard
+      2: Arene
+      3: Base-Carpiquet
+      4: Base-Lessay
+      5: Base-Evreux
+      6: Base-Abbeville Drucat
+      7: Base-Triqueville
+      8: Base-Rouen-Boos
+      9: Base-Beaumont-le-Roger
+      10: Base-Argentan
+      11: Base-Flers
+      12: Base-Saint-Omer Wizernes
+      13: Base-Fecamp-Benouville
+      14: Base-Deauville
+      15: Base-Beauvais-Tille
+      16: Base-Creil
+      17: Base-Cormeilles-en-Vexin
+      18: Base-Ronai
+      19: Base-Vrigny
+presets_assignments:
+  blue:
+    helicopter:
+      all: none
+  red:
+    helicopter:
+      all: none
+    plane:
+      FW-190A8: ww2_red_fug16
+      FW-190D9: ww2_red_fug16
+radios_collection:
+  red_radios:
+    radio_fug16:
+      title: FuG 16 Z
+      type: fm
+      channels:
+        1: 38.9
+        2: 42.1
+        3: 39.3
+        4: 41.9
+        5: 40.85
+        6: 41.15
+        7: 41.45
+        8: 39.65
+        9: 41.3
+        10: 41.95
+        11: 40.65
+        12: 41.2
+        13: 40.3
+        14: 40.4
+        15: 40.35
+        16: 41.1
+        17: 39.95
+presets_collection:
+  red_presets:
+    ww2_red_fug16:
+      title: Red coalition - FuG 16 Z (Fw 190)
+      radios:
+        radio_1: radio_fug16
+channels_collection:
+  tactical:
+    Guard:
+      title: Guard
+      freqs:
+        uhf: 243
+        vhf: 121.5
+    Arene:
+      title: Arène — combat entre joueurs
+      freqs:
+        vhf: 125.0
+  bases:
+    Base-Abbeville Drucat:
+      title: Abbeville Drucat
+      freqs: {uhf: 253.5, vhf: 118.05, fm: 41.9}
+    Base-Argentan:
+      title: Argentan
+      freqs: {uhf: 251.2, vhf: 119.4, fm: 39.65}
+    Base-Azeville:
+      title: Azeville
+      freqs: {uhf: 250.25, vhf: 118.35, fm: 38.7}
+    Base-Bazenville:
+      title: Bazenville
+      freqs: {uhf: 250.55, vhf: 118.7, fm: 39.0}
+    Base-Beaumont-le-Roger:
+      title: Beaumont-le-Roger
+      freqs: {uhf: 253.05, vhf: 121.25, fm: 41.45}
+    Base-Beauvais-Tille:
+      title: Beauvais-Tille
+      freqs: {uhf: 251.85, vhf: 120.05, fm: 40.3}
+    Base-Beny-sur-Mer:
+      title: Beny-sur-Mer
+      freqs: {uhf: 250.65, vhf: 118.8, fm: 39.1}
+    Base-Biggin Hill:
+      title: Biggin Hill
+      freqs: {uhf: 253.3, vhf: 134.8, fm: 41.7}
+    Base-Carpiquet:
+      title: Carpiquet
+      freqs: {uhf: 250.45, vhf: 118.6, fm: 38.9}
+    Base-Cormeilles-en-Vexin:
+      title: Cormeilles-en-Vexin
+      freqs: {uhf: 251.9, vhf: 120.1, fm: 40.35}
+    Base-Creil:
+      title: Creil
+      freqs: {uhf: 251.95, vhf: 120.15, fm: 40.4}
+    Base-Deauville:
+      title: Deauville
+      freqs: {uhf: 252.8, vhf: 121.0, fm: 41.2}
+    Base-Deux Jumeaux:
+      title: Deux Jumeaux
+      freqs: {uhf: 250.1, vhf: 118.15, fm: 38.55}
+    Base-Evreux:
+      title: Evreux
+      freqs: {uhf: 250.85, vhf: 119.0, fm: 39.3}
+    Base-Fecamp-Benouville:
+      title: Fecamp-Benouville
+      freqs: {uhf: 252.2, vhf: 120.4, fm: 40.65}
+    Base-Flers:
+      title: Flers
+      freqs: {uhf: 252.9, vhf: 121.1, fm: 41.3}
+    Base-Lessay:
+      title: Lessay
+      freqs: {uhf: 253.95, vhf: 121.85, fm: 42.1}
+    Base-Longues-sur-Mer:
+      title: Longues-sur-Mer
+      freqs: {uhf: 250.4, vhf: 118.55, fm: 38.85}
+    Base-Manston:
+      title: Manston
+      freqs: {uhf: 253.35, vhf: 118.25, fm: 41.75}
+    Base-Maupertus:
+      title: Maupertus
+      freqs: {uhf: 252.15, vhf: 120.35, fm: 40.6}
+    Base-Picauville:
+      title: Picauville
+      freqs: {uhf: 250.3, vhf: 118.4, fm: 38.75}
+    Base-Ronai:
+      title: Ronai
+      freqs: {uhf: 252.7, vhf: 120.9, fm: 41.1}
+    Base-Rouen-Boos:
+      title: Rouen-Boos
+      freqs: {uhf: 252.75, vhf: 120.95, fm: 41.15}
+    Base-Saint-Omer Wizernes:
+      title: Saint-Omer Wizernes
+      freqs: {uhf: 253.55, vhf: 121.55, fm: 41.95}
+    Base-Stoney Cross:
+      title: Stoney Cross
+      freqs: {uhf: 252.55, vhf: 120.75, fm: 41.0}
+    Base-Tangmere:
+      title: Tangmere
+      freqs: {uhf: 251.1, vhf: 119.3, fm: 39.55}
+    Base-Triqueville:
+      title: Triqueville
+      freqs: {uhf: 252.4, vhf: 120.6, fm: 40.85}
+    Base-Vrigny:
+      title: Vrigny
+      freqs: {uhf: 251.5, vhf: 119.7, fm: 39.95}
