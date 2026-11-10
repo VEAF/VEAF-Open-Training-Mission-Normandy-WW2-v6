@@ -1,0 +1,191 @@
+{
+  "title": "VEAF Open Training — Normandie (6 juillet 1944)",
+  "kneeboard_only": true,
+  "sheets": [
+    {
+      "title": "Mission",
+      "paragraphs": [
+        "Open Training : mission d'entraînement ouverte des serveurs VEAF, Normandie, 6 juillet 1944. Tout se pilote par le menu F10 › VEAF ; le README est le briefing complet.",
+        "Base mère : Tangmere. Autres bases bleues : Azeville, Bazenville, Beny-sur-Mer, Biggin Hill, Deux Jumeaux, Longues-sur-Mer, Manston, Maupertus, Picauville, Stoney Cross.",
+        "Bases rouges : Abbeville Drucat, Carpiquet, Evreux, Lessay.",
+        "Bleus : P-47D, P-51D, Spitfire LF IX, Mosquito. Rouges : Bf 109 K-4, Fw 190 A-8 et D-9.",
+        "Ni ravitailleur ni AWACS en 1944, ni FARP ni hélicoptère : le soutien est celui de l'époque, des bases proches du front.",
+        "Arène dans la Manche, au nord de Cherbourg : slots en vol à 15 000 ft, bleus au sud, rouges au nord, canons seulement.",
+        "Sanctuaires : l'Angleterre du sud côté bleu (Tangmere, Ford, Funtington, le Solent) ; Évreux côté rouge.",
+        "Bullseye (bleu et rouge) : Saint-Lô, N49°06.949' W001°05.455'. ATC coupé sur tous les aérodromes."
+      ]
+    },
+    {
+      "title": "Conduite",
+      "paragraphs": [
+        "Décollez de la piste, jamais d'un taxiway.",
+        "L'ATC de DCS est coupé : annoncez-vous sur la VHF de l'aérodrome au roulage, au décollage et en tour de piste (fréquences dans le README et le plan radio).",
+        "Ne vous alignez pas derrière un avion qui décolle ; dégagez la piste dès l'atterrissage.",
+        "Une zone de combat activée par un autre pilote est la sienne : demandez avant de la désactiver ou de la nettoyer.",
+        "Nettoyez VOS zones de combat en les désactivant avant de partir."
+      ]
+    },
+    {
+      "title": "Commandes",
+      "paragraphs": [
+        "Marqueur : carte F10, clic droit, « Ajouter un marqueur », tapez la commande, validez.",
+        "Paliers : [ouvert] tout le monde · [pilote VEAF] pilote que le serveur connaît · [confiance] membre de confiance. Un pilote que le serveur ne connaît pas ajoute « , password <mot de passe du palier> » à son marqueur.",
+        "-cas : une zone d'appui aérien rapproché, des groupes dispersés autour du marqueur, terminée par le menu F10 [pilote VEAF]",
+        "-shilka, -manpads, -sa6, -sa11, -sa15, -samSR, -samLR : une défense aérienne à neutraliser ou à éviter [pilote VEAF]",
+        "-armor, -infantry : une cible au sol [pilote VEAF]",
+        "-convoy, dest <point> : une cible mobile [pilote VEAF]",
+        "-cap <type> (ex. -cap Su-27) : une cible aérienne [pilote VEAF]",
+        "-tankerlow, -tankerhigh : le ravitailleur le plus proche au FL120 / FL220 [pilote VEAF]",
+        "-farp <nom>, -fob : une base avancée [pilote VEAF]",
+        "-jtac (laser 1688), -smoke (option color), -tacan : désignation, marque visuelle, balise [ouvert]",
+        "-point <nom> : nommer un point (la destination d'un convoi) [ouvert]",
+        "-destroy : retire ce qui est à moins de 100 m du marqueur [confiance]",
+        "_spawn unit, name <type DCS>, multiplier 4 : un type précis, là où -armor tire au hasard [pilote VEAF]",
+        "Options : side red/blue, defense 0-5, armor 0-5, size.",
+        "Le reste passe par le menu F10 › VEAF : ZONES DE COMBAT, MOYENS, OPS PORTE-AVIONS."
+      ]
+    }
+  ],
+  "objectives": [
+    {
+      "zone": "combatZone_Bocage_Easy",
+      "title": "A1 Mitraillage bocage — facile",
+      "task": "F10 › VEAF › ZONES DE COMBAT › Entraînement appui rapproché › A1 Mitraillage bocage — facile › Activer la zone"
+    },
+    {
+      "zone": "combatZone_Bocage_Medium",
+      "title": "A2 Mitraillage bocage — moyen",
+      "task": "F10 › VEAF › ZONES DE COMBAT › Entraînement appui rapproché › A2 Mitraillage bocage — moyen › Activer la zone"
+    },
+    {
+      "zone": "combatZone_Bocage_Hard",
+      "title": "A3 Mitraillage bocage — difficile",
+      "task": "F10 › VEAF › ZONES DE COMBAT › Entraînement appui rapproché › A3 Mitraillage bocage — difficile › Activer la zone"
+    },
+    {
+      "zone": "combatZone_Salisbury_Easy",
+      "title": "B1 Bombardement Salisbury — facile",
+      "task": "F10 › VEAF › ZONES DE COMBAT › Entraînement bombardement › B1 Bombardement Salisbury — facile › Activer la zone"
+    },
+    {
+      "zone": "combatZone_Salisbury_Medium",
+      "title": "B2 Bombardement Salisbury — moyen",
+      "task": "F10 › VEAF › ZONES DE COMBAT › Entraînement bombardement › B2 Bombardement Salisbury — moyen › Activer la zone"
+    },
+    {
+      "zone": "combatZone_Salisbury_Hard",
+      "title": "B3 Bombardement Salisbury — difficile",
+      "task": "F10 › VEAF › ZONES DE COMBAT › Entraînement bombardement › B3 Bombardement Salisbury — difficile › Activer la zone"
+    },
+    {
+      "zone": "combatZone_Aurigny_Easy",
+      "title": "C1 Antiflak Aurigny — facile",
+      "task": "F10 › VEAF › ZONES DE COMBAT › Entraînement antiflak › C1 Antiflak Aurigny — facile › Activer la zone"
+    },
+    {
+      "zone": "combatZone_Aurigny_Medium",
+      "title": "C2 Antiflak Aurigny — moyen",
+      "task": "F10 › VEAF › ZONES DE COMBAT › Entraînement antiflak › C2 Antiflak Aurigny — moyen › Activer la zone"
+    },
+    {
+      "zone": "combatZone_Aurigny_Hard",
+      "title": "C3 Antiflak Aurigny — difficile",
+      "task": "F10 › VEAF › ZONES DE COMBAT › Entraînement antiflak › C3 Antiflak Aurigny — difficile › Activer la zone"
+    },
+    {
+      "zone": "combatZone_TourPlages",
+      "title": "T1 Tourisme — Plages du Débarquement",
+      "task": "F10 › VEAF › ZONES DE COMBAT › Tourisme › T1 Tourisme — Plages du Débarquement › Activer la zone"
+    },
+    {
+      "zone": "combatZone_TourCotentin",
+      "title": "T2 Tourisme — Cotentin et Cherbourg",
+      "task": "F10 › VEAF › ZONES DE COMBAT › Tourisme › T2 Tourisme — Cotentin et Cherbourg › Activer la zone"
+    },
+    {
+      "zone": "combatZone_TourAngleterre",
+      "title": "T3 Tourisme — Côte sud de l'Angleterre",
+      "task": "F10 › VEAF › ZONES DE COMBAT › Tourisme › T3 Tourisme — Côte sud de l'Angleterre › Activer la zone"
+    },
+    {
+      "zone": "combatZone_VillersBocage",
+      "title": "Z01 Front — Villers-Bocage",
+      "task": "F10 › VEAF › ZONES DE COMBAT › Front › Z01 Front — Villers-Bocage › Activer la zone"
+    },
+    {
+      "zone": "combatZone_CaenNord",
+      "title": "Z02 Front — Caen et Carpiquet",
+      "task": "F10 › VEAF › ZONES DE COMBAT › Front › Z02 Front — Caen et Carpiquet › Activer la zone"
+    },
+    {
+      "zone": "combatZone_CotentinSud",
+      "title": "Z03 Front — La Haye-du-Puits et Lessay",
+      "task": "F10 › VEAF › ZONES DE COMBAT › Front › Z03 Front — La Haye-du-Puits et Lessay › Activer la zone"
+    },
+    {
+      "zone": "combatZone_Antifer",
+      "title": "Z04 Radars — station du cap d'Antifer",
+      "task": "F10 › VEAF › ZONES DE COMBAT › Flak et radars › Z04 Radars — station du cap d'Antifer › Activer la zone"
+    },
+    {
+      "zone": "combatZone_GrisNez",
+      "title": "Z05 Radars — cap Gris-Nez",
+      "task": "F10 › VEAF › ZONES DE COMBAT › Flak et radars › Z05 Radars — cap Gris-Nez › Activer la zone"
+    },
+    {
+      "zone": "combatZone_ConvoiFalaise",
+      "title": "Z06 Convoi — Falaise vers Caen",
+      "task": "F10 › VEAF › ZONES DE COMBAT › Convois › Z06 Convoi — Falaise vers Caen › Activer la zone"
+    },
+    {
+      "zone": "combatZone_ConvoiLisieux",
+      "title": "Z07 Convoi — Lisieux vers Caen",
+      "task": "F10 › VEAF › ZONES DE COMBAT › Convois › Z07 Convoi — Lisieux vers Caen › Activer la zone"
+    },
+    {
+      "zone": "combatZone_ConvoiCoutances",
+      "title": "Z08 Convoi — Coutances vers La Haye-du-Puits",
+      "task": "F10 › VEAF › ZONES DE COMBAT › Convois › Z08 Convoi — Coutances vers La Haye-du-Puits › Activer la zone"
+    },
+    {
+      "zone": "combatZone_RocheGuyon",
+      "title": "Z09 Frappe — état-major de La Roche-Guyon",
+      "task": "F10 › VEAF › ZONES DE COMBAT › Frappes en profondeur › Z09 Frappe — état-major de La Roche-Guyon › Activer la zone"
+    },
+    {
+      "zone": "combatZone_TriageArgentan",
+      "title": "Z10 Frappe — gare de triage d'Argentan",
+      "task": "F10 › VEAF › ZONES DE COMBAT › Frappes en profondeur › Z10 Frappe — gare de triage d'Argentan › Activer la zone"
+    },
+    {
+      "zone": "combatZone_Eperlecques",
+      "title": "Z11 Frappe — blockhaus d'Éperlecques",
+      "task": "F10 › VEAF › ZONES DE COMBAT › Frappes en profondeur › Z11 Frappe — blockhaus d'Éperlecques › Activer la zone"
+    },
+    {
+      "zone": "combatZone_DepotLisieux",
+      "title": "Z12 Frappe — dépôts d'essence de Lisieux",
+      "task": "F10 › VEAF › ZONES DE COMBAT › Frappes en profondeur › Z12 Frappe — dépôts d'essence de Lisieux › Activer la zone"
+    },
+    {
+      "zone": "combatZone_Triqueville",
+      "title": "Z13 OCA — base aérienne de Triqueville",
+      "task": "F10 › VEAF › ZONES DE COMBAT › Bases aériennes › Z13 OCA — base aérienne de Triqueville › Activer la zone"
+    },
+    {
+      "zone": "combatZone_BeaumontLeRoger",
+      "title": "Z14 OCA — base aérienne de Beaumont-le-Roger",
+      "task": "F10 › VEAF › ZONES DE COMBAT › Bases aériennes › Z14 OCA — base aérienne de Beaumont-le-Roger › Activer la zone"
+    },
+    {
+      "zone": "combatZone_VedettesLeHavre",
+      "title": "Z15 Antinavire — vedettes lance-torpilles du Havre",
+      "task": "F10 › VEAF › ZONES DE COMBAT › Antinavire › Z15 Antinavire — vedettes lance-torpilles du Havre › Activer la zone"
+    },
+    {
+      "zone": "combatZone_ConvoiCotier",
+      "title": "Z16 Antinavire — convoi côtier vers Dieppe",
+      "task": "F10 › VEAF › ZONES DE COMBAT › Antinavire › Z16 Antinavire — convoi côtier vers Dieppe › Activer la zone"
+    }
+  ]
+}
