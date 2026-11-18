@@ -1,0 +1,250 @@
+{
+  "name": "caennord",
+  "title": "Z02 Front — Caen et Carpiquet",
+  "heading_deg": 79.0,
+  "pitch_deg": 30.0,
+  "slant_m": 4100.0,
+  "mark": "groups",
+  "labels": {},
+  "zone": "combatZone_CaenNord",
+  "camera": {
+    "position": [
+      -34217.1396261267,
+      2105.3124999999995,
+      -10245.93438610195
+    ],
+    "forward": [
+      0.1652454372666754,
+      -0.49999999999999994,
+      0.8501140779110444
+    ],
+    "up": [
+      0.09540449768827244,
+      0.8660254037844387,
+      0.49081359172383193
+    ],
+    "right": [
+      -0.981627183447664,
+      0.0,
+      0.19080899537654492
+    ],
+    "hfov_deg": 80.0
+  },
+  "window": {
+    "width": 2650,
+    "height": 1660,
+    "cropped_bottom": 40
+  },
+  "target": {
+    "x": -33539.63333333333,
+    "z": -6760.466666666667,
+    "alt_m": 55.3125,
+    "lat": 49.18518894100204,
+    "lon": -0.40946445364558626,
+    "dms": "N49°11'06.68\" W000°24'34.07\""
+  },
+  "theatre": "Normandy",
+  "date": "1944-07-06",
+  "time": "11:37",
+  "units": [
+    {
+      "kind": "unit",
+      "group": "combatZone_CaenNord [r] Armored Platoon#10562",
+      "type": "Sd_Kfz_234_2_Puma",
+      "x": -34223.5,
+      "z": -6465.7,
+      "alt": 35.0
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_CaenNord [r] Armored Platoon#10562",
+      "type": "Sd_Kfz_234_2_Puma",
+      "x": -34364.5,
+      "z": -6404.7,
+      "alt": 30.6
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_CaenNord [r] Armored Platoon#10562",
+      "type": "Sd_Kfz_251",
+      "x": -34097.5,
+      "z": -6436.7,
+      "alt": 39.7
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_CaenNord [r] Armored Platoon#10562",
+      "type": "Sd_Kfz_234_2_Puma",
+      "x": -34278.5,
+      "z": -6234.7,
+      "alt": 39.4
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_CaenNord [r] Armored Platoon#10562",
+      "type": "Sd_Kfz_234_2_Puma",
+      "x": -34192.5,
+      "z": -6224.7,
+      "alt": 40.9
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_CaenNord [r] Armored Platoon#10562",
+      "type": "Sd_Kfz_234_2_Puma",
+      "x": -34375.5,
+      "z": -6328.7,
+      "alt": 32.1
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_CaenNord [r] Armored Platoon#10562",
+      "type": "Sd_Kfz_234_2_Puma",
+      "x": -34262.5,
+      "z": -6371.7,
+      "alt": 35.3
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_CaenNord [r] combatZone_CaenNord-Artillerie#10561",
+      "type": "Wespe124",
+      "x": -34620.1,
+      "z": -7405.5,
+      "alt": 57.0
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_CaenNord [r] combatZone_CaenNord-Artillerie#10561",
+      "type": "Wespe124",
+      "x": -34600.1,
+      "z": -7405.5,
+      "alt": 57.0
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_CaenNord [r] combatZone_CaenNord-Artillerie#10561",
+      "type": "Wespe124",
+      "x": -34580.1,
+      "z": -7405.5,
+      "alt": 57.0
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_CaenNord [r] Air Defense Battery#10560",
+      "type": "Blitz_36-6700A",
+      "x": -33580.0,
+      "z": -7482.0,
+      "alt": 57.0
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_CaenNord [r] Air Defense Battery#10560",
+      "type": "flak37",
+      "x": -33567.0,
+      "z": -7478.0,
+      "alt": 57.0
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_CaenNord [r] Air Defense Battery#10560",
+      "type": "flak38",
+      "x": -33535.0,
+      "z": -7500.0,
+      "alt": 57.0
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_CaenNord [r] Air Defense Battery#10560",
+      "type": "Blitz_36-6700A",
+      "x": -33567.0,
+      "z": -7520.0,
+      "alt": 57.0
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_CaenNord [r] Armored Platoon#10558",
+      "type": "Elefant_SdKfz_184",
+      "x": -32699.7,
+      "z": -6325.1,
+      "alt": 69.7
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_CaenNord [r] Armored Platoon#10558",
+      "type": "Sd_Kfz_251",
+      "x": -32722.7,
+      "z": -6403.1,
+      "alt": 69.4
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_CaenNord [r] Armored Platoon#10558",
+      "type": "Sd_Kfz_251",
+      "x": -32791.7,
+      "z": -6506.1,
+      "alt": 69.7
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_CaenNord [r] Armored Platoon#10558",
+      "type": "Sd_Kfz_234_2_Puma",
+      "x": -32814.7,
+      "z": -6400.1,
+      "alt": 69.3
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_CaenNord [r] Armored Platoon#10558",
+      "type": "Sd_Kfz_234_2_Puma",
+      "x": -32874.7,
+      "z": -6335.1,
+      "alt": 67.8
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_CaenNord [r] Armored Platoon#10558",
+      "type": "Sd_Kfz_234_2_Puma",
+      "x": -32702.7,
+      "z": -6286.1,
+      "alt": 69.9
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_CaenNord [r] combatZone_CaenNord-Tigers#10557",
+      "type": "Tiger_I",
+      "x": -33006.6,
+      "z": -7106.6,
+      "alt": 61.2
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_CaenNord [r] combatZone_CaenNord-Tigers#10557",
+      "type": "Tiger_I",
+      "x": -32986.6,
+      "z": -7106.6,
+      "alt": 62.8
+    },
+    {
+      "kind": "static",
+      "group": "combatZone_CaenNord [r] combatZone_CaenNord-Static-Bunker-2#10559 #273",
+      "type": "Bunker",
+      "x": -32246.0,
+      "z": -6320.0,
+      "alt": 66.4
+    },
+    {
+      "kind": "static",
+      "group": "combatZone_CaenNord [r] combatZone_CaenNord-Static-Bunker-1#10563 #272",
+      "type": "Bunker",
+      "x": -32262.0,
+      "z": -6799.0,
+      "alt": 69.3
+    }
+  ],
+  "image": "caennord.jpg",
+  "heading": 79,
+  "pitch": -30.0,
+  "x": -34217.1396261267,
+  "y": -10245.93438610195,
+  "altitude_m": 2105,
+  "order": 11
+}

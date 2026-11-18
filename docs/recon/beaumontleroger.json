@@ -1,0 +1,242 @@
+{
+  "name": "beaumontleroger",
+  "title": "Z14 OCA — base aérienne de Beaumont-le-Roger",
+  "heading_deg": 93.0,
+  "pitch_deg": 30.0,
+  "slant_m": 3200.0,
+  "mark": "groups",
+  "labels": {},
+  "zone": "combatZone_BeaumontLeRoger",
+  "camera": {
+    "position": [
+      -39532.87538703749,
+      1753.0565217391302,
+      79333.8601308468
+    ],
+    "forward": [
+      -0.045324267637740154,
+      -0.49999999999999994,
+      0.8648385460668959
+    ],
+    "up": [
+      -0.026167978121471917,
+      0.8660254037844387,
+      0.49931476737728686
+    ],
+    "right": [
+      -0.9986295347545738,
+      0.0,
+      -0.05233595624294384
+    ],
+    "hfov_deg": 80.0
+  },
+  "window": {
+    "width": 2650,
+    "height": 1660,
+    "cropped_bottom": 40
+  },
+  "target": {
+    "x": -39677.913043478264,
+    "z": 82101.34347826087,
+    "alt_m": 153.05652173913043,
+    "lat": 49.09634108343316,
+    "lon": 0.8034405692497595,
+    "dms": "N49°05'46.83\" E000°48'12.39\""
+  },
+  "theatre": "Normandy",
+  "date": "1944-07-06",
+  "time": "11:43",
+  "units": [
+    {
+      "kind": "unit",
+      "group": "combatZone_BeaumontLeRoger [r] Air Defense Battery#10636",
+      "type": "flak37",
+      "x": -39724.0,
+      "z": 83119.0,
+      "alt": 160.7
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_BeaumontLeRoger [r] Air Defense Battery#10636",
+      "type": "flak18",
+      "x": -39661.0,
+      "z": 83154.0,
+      "alt": 161.5
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_BeaumontLeRoger [r] Air Defense Battery#10636",
+      "type": "flak37",
+      "x": -39673.0,
+      "z": 83168.0,
+      "alt": 161.2
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_BeaumontLeRoger [r] Air Defense Battery#10636",
+      "type": "Blitz_36-6700A",
+      "x": -39693.0,
+      "z": 83109.0,
+      "alt": 161.3
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_BeaumontLeRoger [r] Air Defense Battery#10636",
+      "type": "flak38",
+      "x": -39662.0,
+      "z": 83093.0,
+      "alt": 161.6
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_BeaumontLeRoger [r] Air Defense Battery#10636",
+      "type": "Blitz_36-6700A",
+      "x": -39699.0,
+      "z": 83142.0,
+      "alt": 160.8
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_BeaumontLeRoger [r] Air Defense Battery#10633",
+      "type": "flak36",
+      "x": -39647.0,
+      "z": 81405.0,
+      "alt": 149.0
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_BeaumontLeRoger [r] Air Defense Battery#10633",
+      "type": "flak36",
+      "x": -39699.0,
+      "z": 81408.0,
+      "alt": 149.0
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_BeaumontLeRoger [r] Air Defense Battery#10633",
+      "type": "flak37",
+      "x": -39702.0,
+      "z": 81380.0,
+      "alt": 149.0
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_BeaumontLeRoger [r] Air Defense Battery#10633",
+      "type": "flak38",
+      "x": -39744.0,
+      "z": 81383.0,
+      "alt": 149.0
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_BeaumontLeRoger [r] Air Defense Battery#10633",
+      "type": "KDO_Mod40",
+      "x": -39711.0,
+      "z": 81471.0,
+      "alt": 149.0
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_BeaumontLeRoger [r] Air Defense Battery#10633",
+      "type": "Sd_Kfz_7",
+      "x": -39681.0,
+      "z": 81468.0,
+      "alt": 149.0
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_BeaumontLeRoger [r] Air Defense Battery#10633",
+      "type": "flak41",
+      "x": -39729.0,
+      "z": 81473.0,
+      "alt": 149.0
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_BeaumontLeRoger [r] Air Defense Battery#10633",
+      "type": "Sd_Kfz_7",
+      "x": -39754.0,
+      "z": 81441.0,
+      "alt": 149.0
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_BeaumontLeRoger [r] Air Defense Battery#10633",
+      "type": "flak36",
+      "x": -39679.0,
+      "z": 81428.0,
+      "alt": 149.0
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_BeaumontLeRoger [r] Air Defense Battery#10633",
+      "type": "Flakscheinwerfer_37",
+      "x": -39669.0,
+      "z": 81450.0,
+      "alt": 149.0
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_BeaumontLeRoger [r] Air Defense Battery#10633",
+      "type": "Maschinensatz_33",
+      "x": -39663.0,
+      "z": 81403.0,
+      "alt": 149.0
+    },
+    {
+      "kind": "static",
+      "group": "combatZone_BeaumontLeRoger [r] combatZone_BeaumontLeRoger-Static-Ju-88A4-2#10634 #382",
+      "type": "Ju-88A4",
+      "x": -39340.0,
+      "z": 82356.0,
+      "alt": 154.0
+    },
+    {
+      "kind": "static",
+      "group": "combatZone_BeaumontLeRoger [r] combatZone_BeaumontLeRoger-Static-Fuel-6#10635 #386",
+      "type": "Fuel tank",
+      "x": -40073.0,
+      "z": 82089.0,
+      "alt": 149.0
+    },
+    {
+      "kind": "static",
+      "group": "combatZone_BeaumontLeRoger [r] combatZone_BeaumontLeRoger-Static-Ju-88A4-1#10637 #381",
+      "type": "Ju-88A4",
+      "x": -39397.0,
+      "z": 82226.0,
+      "alt": 153.1
+    },
+    {
+      "kind": "static",
+      "group": "combatZone_BeaumontLeRoger [r] combatZone_BeaumontLeRoger-Static-Ju-88A4-3#10638 #383",
+      "type": "Ju-88A4",
+      "x": -39468.0,
+      "z": 82418.9,
+      "alt": 154.7
+    },
+    {
+      "kind": "static",
+      "group": "combatZone_BeaumontLeRoger [r] combatZone_BeaumontLeRoger-Static-FW-190A8-4#10639 #384",
+      "type": "FW-190A8",
+      "x": -39527.0,
+      "z": 82520.0,
+      "alt": 154.4
+    },
+    {
+      "kind": "static",
+      "group": "combatZone_BeaumontLeRoger [r] combatZone_BeaumontLeRoger-Static-Hangar-5#10632 #385",
+      "type": "Hangar A",
+      "x": -39997.0,
+      "z": 82226.0,
+      "alt": 149.0
+    }
+  ],
+  "image": "beaumontleroger.jpg",
+  "heading": 93,
+  "pitch": -30.0,
+  "x": -39532.87538703749,
+  "y": 79333.8601308468,
+  "altitude_m": 1753,
+  "order": 23
+}

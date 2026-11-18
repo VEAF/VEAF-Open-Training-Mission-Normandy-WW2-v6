@@ -1,0 +1,154 @@
+{
+  "name": "bocage-easy",
+  "title": "A1 Mitraillage bocage — facile",
+  "heading_deg": 294.0,
+  "pitch_deg": 30.0,
+  "slant_m": 3550.0,
+  "mark": "groups",
+  "labels": {},
+  "zone": "combatZone_Bocage_Easy",
+  "camera": {
+    "position": [
+      -1845.750476048779,
+      1809.8666666666663,
+      -81703.24647956883
+    ],
+    "forward": [
+      0.35224426555364663,
+      -0.49999999999999994,
+      -0.7911535738303734
+    ],
+    "up": [
+      0.20336832153789985,
+      0.8660254037844387,
+      -0.4567727288213005
+    ],
+    "right": [
+      0.9135454576426011,
+      0.0,
+      0.40673664307579976
+    ],
+    "hfov_deg": 80.0
+  },
+  "window": {
+    "width": 2650,
+    "height": 1660,
+    "cropped_bottom": 40
+  },
+  "target": {
+    "x": -595.2833333333334,
+    "z": -84511.84166666666,
+    "alt_m": 34.86666666666667,
+    "lat": 49.500425276234665,
+    "lon": -1.4667741004188526,
+    "dms": "N49°30'01.53\" W001°28'00.39\""
+  },
+  "theatre": "Normandy",
+  "date": "1944-07-06",
+  "time": "11:30",
+  "units": [
+    {
+      "kind": "unit",
+      "group": "combatZone_Bocage_Easy [r] combatZone_Bocage_Easy-Inert-Blitz_36-6700A-A1-5#10445",
+      "type": "Blitz_36-6700A",
+      "x": -1210.4,
+      "z": -84517.0,
+      "alt": 32.8
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Bocage_Easy [r] combatZone_Bocage_Easy-Inert-Sd_Kfz_7-A1-7#10444",
+      "type": "Sd_Kfz_7",
+      "x": -928.6,
+      "z": -85270.4,
+      "alt": 23.9
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Bocage_Easy [r] combatZone_Bocage_Easy-Inert-Sd_Kfz_251-A1-3#10442",
+      "type": "Sd_Kfz_251",
+      "x": -583.8,
+      "z": -84257.8,
+      "alt": 41.2
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Bocage_Easy [r] combatZone_Bocage_Easy-Inert-Stug_III-A1-2#10441",
+      "type": "Stug_III",
+      "x": -9.7,
+      "z": -84229.9,
+      "alt": 33.6
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Bocage_Easy [r] combatZone_Bocage_Easy-Inert-Sd_Kfz_251-A1-4#10440",
+      "type": "Sd_Kfz_251",
+      "x": -956.6,
+      "z": -84125.2,
+      "alt": 41.8
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Bocage_Easy [r] combatZone_Bocage_Easy-Inert-Pz_IV_H-A1-1#10439",
+      "type": "Pz_IV_H",
+      "x": -73.7,
+      "z": -84747.2,
+      "alt": 31.2
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Bocage_Easy [r] combatZone_Bocage_Easy-Inert-Blitz_36-6700A-A1-6#10438",
+      "type": "Blitz_36-6700A",
+      "x": -1391.7,
+      "z": -84997.3,
+      "alt": 27.2
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Bocage_Easy [r] combatZone_Bocage_Easy-Inert-Horch_901_typ_40_kfz_21-A1-8#10437",
+      "type": "Horch_901_typ_40_kfz_21",
+      "x": -557.2,
+      "z": -85217.8,
+      "alt": 25.7
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Bocage_Easy [r] combatZone_Bocage_Easy-Inert-Kubelwagen_82-A1-9#10435",
+      "type": "Kubelwagen_82",
+      "x": -111.7,
+      "z": -85203.5,
+      "alt": 29.7
+    },
+    {
+      "kind": "static",
+      "group": "combatZone_Bocage_Easy [r] combatZone_Bocage_Easy-Static-Fuel-B2#10436 #153",
+      "type": "Fuel tank",
+      "x": -1057.0,
+      "z": -83616.0,
+      "alt": 46.4
+    },
+    {
+      "kind": "static",
+      "group": "combatZone_Bocage_Easy [r] combatZone_Bocage_Easy-Static-Fuel-B1#10443 #152",
+      "type": "Fuel tank",
+      "x": -838.0,
+      "z": -83661.0,
+      "alt": 47.5
+    },
+    {
+      "kind": "static",
+      "group": "combatZone_Bocage_Easy [r] combatZone_Bocage_Easy-Static-Barracks-B3#10434 #154",
+      "type": "Barracks 2",
+      "x": 575.0,
+      "z": -84299.0,
+      "alt": 37.4
+    }
+  ],
+  "image": "bocage-easy.jpg",
+  "heading": 294,
+  "pitch": -30.0,
+  "x": -1845.750476048779,
+  "y": -81703.24647956883,
+  "altitude_m": 1810,
+  "order": 1
+}

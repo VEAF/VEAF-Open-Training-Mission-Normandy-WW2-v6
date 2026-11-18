@@ -1,0 +1,234 @@
+{
+  "name": "rocheguyon",
+  "title": "Z09 Frappe — état-major de La Roche-Guyon",
+  "heading_deg": 91.0,
+  "pitch_deg": 30.0,
+  "slant_m": 1850.0,
+  "mark": "groups",
+  "labels": {},
+  "zone": "combatZone_RocheGuyon",
+  "camera": {
+    "position": [
+      -37613.28867943606,
+      1010.3954545454544,
+      140667.00610865568
+    ],
+    "forward": [
+      -0.01511422733185856,
+      -0.49999999999999994,
+      0.8658935039207541
+    ],
+    "up": [
+      -0.008726203218641737,
+      0.8660254037844387,
+      0.4999238475781956
+    ],
+    "right": [
+      -0.9998476951563913,
+      0.0,
+      -0.017452406437283477
+    ],
+    "hfov_deg": 80.0
+  },
+  "window": {
+    "width": 2650,
+    "height": 1660,
+    "cropped_bottom": 40
+  },
+  "target": {
+    "x": -37641.25,
+    "z": 142268.9090909091,
+    "alt_m": 85.39545454545454,
+    "lat": 49.0845467107673,
+    "lon": 1.6268596060702585,
+    "dms": "N49°05'04.37\" E001°37'36.69\""
+  },
+  "theatre": "Normandy",
+  "date": "1944-07-06",
+  "time": "11:41",
+  "units": [
+    {
+      "kind": "unit",
+      "group": "combatZone_RocheGuyon [r] Air Defense Battery#10591",
+      "type": "flak36",
+      "x": -38205.0,
+      "z": 142075.0,
+      "alt": 44.4
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_RocheGuyon [r] Air Defense Battery#10591",
+      "type": "KDO_Mod40",
+      "x": -38201.0,
+      "z": 142092.0,
+      "alt": 42.3
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_RocheGuyon [r] Air Defense Battery#10591",
+      "type": "Sd_Kfz_7",
+      "x": -38144.0,
+      "z": 142097.0,
+      "alt": 60.2
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_RocheGuyon [r] Air Defense Battery#10591",
+      "type": "Sd_Kfz_7",
+      "x": -38209.0,
+      "z": 142035.0,
+      "alt": 48.7
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_RocheGuyon [r] Air Defense Battery#10591",
+      "type": "flak38",
+      "x": -38174.0,
+      "z": 142059.0,
+      "alt": 59.1
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_RocheGuyon [r] Air Defense Battery#10591",
+      "type": "flak37",
+      "x": -38161.0,
+      "z": 142037.0,
+      "alt": 65.4
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_RocheGuyon [r] Air Defense Battery#10591",
+      "type": "flak36",
+      "x": -38182.0,
+      "z": 142042.0,
+      "alt": 57.7
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_RocheGuyon [r] Air Defense Battery#10590",
+      "type": "flak38",
+      "x": -37270.0,
+      "z": 142731.0,
+      "alt": 107.3
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_RocheGuyon [r] Air Defense Battery#10590",
+      "type": "flak37",
+      "x": -37283.0,
+      "z": 142718.0,
+      "alt": 105.7
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_RocheGuyon [r] Air Defense Battery#10590",
+      "type": "flak38",
+      "x": -37264.0,
+      "z": 142763.0,
+      "alt": 110.3
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_RocheGuyon [r] Air Defense Battery#10590",
+      "type": "Blitz_36-6700A",
+      "x": -37250.0,
+      "z": 142747.0,
+      "alt": 109.1
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_RocheGuyon [r] combatZone_RocheGuyon-PC mobile#10589",
+      "type": "Horch_901_typ_40_kfz_21",
+      "x": -37334.7,
+      "z": 142056.6,
+      "alt": 83.6
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_RocheGuyon [r] combatZone_RocheGuyon-PC mobile#10589",
+      "type": "Horch_901_typ_40_kfz_21",
+      "x": -37314.7,
+      "z": 142056.6,
+      "alt": 82.6
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_RocheGuyon [r] combatZone_RocheGuyon-PC mobile#10589",
+      "type": "Horch_901_typ_40_kfz_21",
+      "x": -37294.7,
+      "z": 142056.6,
+      "alt": 81.5
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_RocheGuyon [r] combatZone_RocheGuyon-PC mobile#10589",
+      "type": "Kubelwagen_82",
+      "x": -37274.7,
+      "z": 142056.6,
+      "alt": 80.4
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_RocheGuyon [r] combatZone_RocheGuyon-PC mobile#10589",
+      "type": "Kubelwagen_82",
+      "x": -37254.7,
+      "z": 142056.6,
+      "alt": 79.3
+    },
+    {
+      "kind": "static",
+      "group": "combatZone_RocheGuyon [r] combatZone_RocheGuyon-Static-Barracks-6#10594 #342",
+      "type": "Barracks 2",
+      "x": -37309.0,
+      "z": 142520.0,
+      "alt": 103.9
+    },
+    {
+      "kind": "static",
+      "group": "combatZone_RocheGuyon [r] combatZone_RocheGuyon-Static-Military-5#10595 #341",
+      "type": "Military staff",
+      "x": -37698.0,
+      "z": 142485.0,
+      "alt": 115.6
+    },
+    {
+      "kind": "static",
+      "group": "combatZone_RocheGuyon [r] combatZone_RocheGuyon-Static-Bunker-2#10587 #338",
+      "type": "Bunker",
+      "x": -37521.0,
+      "z": 142508.0,
+      "alt": 117.7
+    },
+    {
+      "kind": "static",
+      "group": "combatZone_RocheGuyon [r] combatZone_RocheGuyon-Static-Bunker-3#10588 #339",
+      "type": "Bunker",
+      "x": -37721.0,
+      "z": 142308.0,
+      "alt": 116.6
+    },
+    {
+      "kind": "static",
+      "group": "combatZone_RocheGuyon [r] combatZone_RocheGuyon-Static-Bunker-4#10593 #340",
+      "type": "Bunker",
+      "x": -37521.0,
+      "z": 142108.0,
+      "alt": 95.2
+    },
+    {
+      "kind": "static",
+      "group": "combatZone_RocheGuyon [r] combatZone_RocheGuyon-Static-Command-1#10592 #337",
+      "type": ".Command Center",
+      "x": -37521.0,
+      "z": 142308.0,
+      "alt": 112.1
+    }
+  ],
+  "image": "rocheguyon.jpg",
+  "heading": 91,
+  "pitch": -30.0,
+  "x": -37613.28867943606,
+  "y": 140667.00610865568,
+  "altitude_m": 1010,
+  "order": 18
+}

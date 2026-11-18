@@ -1,0 +1,178 @@
+{
+  "name": "triageargentan",
+  "title": "Z10 Frappe — gare de triage d'Argentan",
+  "heading_deg": 144.0,
+  "pitch_deg": 30.0,
+  "slant_m": 1800.0,
+  "mark": "groups",
+  "labels": {},
+  "zone": "combatZone_TriageArgentan",
+  "camera": {
+    "position": [
+      -80162.20064873366,
+      1061.3333333333333,
+      22979.866804514106
+    ],
+    "forward": [
+      -0.7006292692220367,
+      -0.49999999999999994,
+      0.5090369604551274
+    ],
+    "up": [
+      -0.4045084971874736,
+      0.8660254037844387,
+      0.29389262614623657
+    ],
+    "right": [
+      -0.5877852522924732,
+      0.0,
+      -0.8090169943749473
+    ],
+    "hfov_deg": 80.0
+  },
+  "window": {
+    "width": 2650,
+    "height": 1660,
+    "cropped_bottom": 40
+  },
+  "target": {
+    "x": -81423.33333333333,
+    "z": 23896.133333333335,
+    "alt_m": 161.33333333333334,
+    "lat": 48.74483589696435,
+    "lon": -0.015116398642965212,
+    "dms": "N48°44'41.41\" W000°00'54.42\""
+  },
+  "theatre": "Normandy",
+  "date": "1944-07-06",
+  "time": "11:41",
+  "units": [
+    {
+      "kind": "unit",
+      "group": "combatZone_TriageArgentan [r] Air Defense Battery#10603",
+      "type": "flak38",
+      "x": -81875.0,
+      "z": 23706.0,
+      "alt": 158.7
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_TriageArgentan [r] Air Defense Battery#10603",
+      "type": "Blitz_36-6700A",
+      "x": -81904.0,
+      "z": 23690.0,
+      "alt": 158.9
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_TriageArgentan [r] Air Defense Battery#10603",
+      "type": "Blitz_36-6700A",
+      "x": -81946.0,
+      "z": 23661.0,
+      "alt": 159.2
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_TriageArgentan [r] Air Defense Battery#10603",
+      "type": "flak37",
+      "x": -81922.0,
+      "z": 23725.0,
+      "alt": 158.5
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_TriageArgentan [r] Air Defense Battery#10602",
+      "type": "Blitz_36-6700A",
+      "x": -80860.0,
+      "z": 24092.0,
+      "alt": 163.2
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_TriageArgentan [r] Air Defense Battery#10602",
+      "type": "flak38",
+      "x": -80882.0,
+      "z": 24051.0,
+      "alt": 162.9
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_TriageArgentan [r] Air Defense Battery#10602",
+      "type": "flak37",
+      "x": -80878.0,
+      "z": 24090.0,
+      "alt": 162.9
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_TriageArgentan [r] Air Defense Battery#10602",
+      "type": "Blitz_36-6700A",
+      "x": -80898.0,
+      "z": 24076.0,
+      "alt": 162.7
+    },
+    {
+      "kind": "static",
+      "group": "combatZone_TriageArgentan [r] combatZone_TriageArgentan-Static-Fuel-6#10597 #350",
+      "type": "Fuel tank",
+      "x": -81695.0,
+      "z": 23702.0,
+      "alt": 162.9
+    },
+    {
+      "kind": "static",
+      "group": "combatZone_TriageArgentan [r] combatZone_TriageArgentan-Static-Railway-1#10598 #345",
+      "type": "Railway station",
+      "x": -81349.0,
+      "z": 23902.0,
+      "alt": 165.6
+    },
+    {
+      "kind": "static",
+      "group": "combatZone_TriageArgentan [r] combatZone_TriageArgentan-Static-Warehouse-4#10599 #348",
+      "type": "Warehouse",
+      "x": -81349.0,
+      "z": 24202.0,
+      "alt": 158.8
+    },
+    {
+      "kind": "static",
+      "group": "combatZone_TriageArgentan [r] combatZone_TriageArgentan-Static-Fuel-5#10600 #349",
+      "type": "Fuel tank",
+      "x": -81678.0,
+      "z": 23782.0,
+      "alt": 162.6
+    },
+    {
+      "kind": "static",
+      "group": "combatZone_TriageArgentan [r] combatZone_TriageArgentan-Static-Warehouse-3#10601 #347",
+      "type": "Warehouse",
+      "x": -81224.0,
+      "z": 24119.0,
+      "alt": 161.3
+    },
+    {
+      "kind": "static",
+      "group": "combatZone_TriageArgentan [r] combatZone_TriageArgentan-Static-Warehouse-2#10604 #346",
+      "type": "Warehouse",
+      "x": -81196.0,
+      "z": 24031.0,
+      "alt": 162.0
+    },
+    {
+      "kind": "static",
+      "group": "combatZone_TriageArgentan [r] combatZone_TriageArgentan-Static-Fuel-7#10596 #351",
+      "type": "Fuel tank",
+      "x": -81694.0,
+      "z": 23613.0,
+      "alt": 159.8
+    }
+  ],
+  "image": "triageargentan.jpg",
+  "heading": 144,
+  "pitch": -30.0,
+  "x": -80162.20064873366,
+  "y": 22979.866804514106,
+  "altitude_m": 1061,
+  "order": 19
+}

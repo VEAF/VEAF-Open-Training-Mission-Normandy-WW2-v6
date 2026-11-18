@@ -1,0 +1,194 @@
+{
+  "name": "salisbury-easy",
+  "title": "B1 Bombardement Salisbury — facile",
+  "heading_deg": 333.0,
+  "pitch_deg": 30.0,
+  "slant_m": 3400.0,
+  "mark": "groups",
+  "labels": {},
+  "zone": "combatZone_Salisbury_Easy",
+  "camera": {
+    "position": [
+      185009.76696080345,
+      1835.0294117647056,
+      -122847.33704245872
+    ],
+    "forward": [
+      0.7716342848848005,
+      -0.49999999999999994,
+      -0.39316730585124027
+    ],
+    "up": [
+      0.44550326209418384,
+      0.8660254037844387,
+      -0.22699524986977346
+    ],
+    "right": [
+      0.45399049973954697,
+      0.0,
+      0.8910065241883678
+    ],
+    "hfov_deg": 80.0
+  },
+  "window": {
+    "width": 2650,
+    "height": 1660,
+    "cropped_bottom": 40
+  },
+  "target": {
+    "x": 187633.32352941178,
+    "z": -124184.10588235293,
+    "alt_m": 135.02941176470588,
+    "lat": 51.19896455080935,
+    "lon": -1.9789086137751735,
+    "dms": "N51°11'56.27\" W001°58'44.07\""
+  },
+  "theatre": "Normandy",
+  "date": "1944-07-06",
+  "time": "11:32",
+  "units": [
+    {
+      "kind": "unit",
+      "group": "combatZone_Salisbury_Easy [r] combatZone_Salisbury_Easy-Inert-Pz_IV_H-B1-1#10495",
+      "type": "Pz_IV_H",
+      "x": 188428.5,
+      "z": -124263.3,
+      "alt": 139.9
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Salisbury_Easy [r] combatZone_Salisbury_Easy-Inert-Tiger_I-B1-2#10493",
+      "type": "Tiger_I",
+      "x": 188433.0,
+      "z": -123661.9,
+      "alt": 133.5
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Salisbury_Easy [r] combatZone_Salisbury_Easy-Inert-Sd_Kfz_251-B1-8#10491",
+      "type": "Sd_Kfz_251",
+      "x": 187889.3,
+      "z": -124843.2,
+      "alt": 134.5
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Salisbury_Easy [r] combatZone_Salisbury_Easy-Inert-Stug_III-B1-3#10487",
+      "type": "Stug_III",
+      "x": 187831.5,
+      "z": -123664.6,
+      "alt": 121.4
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Salisbury_Easy [r] combatZone_Salisbury_Easy-Inert-Sd_Kfz_251-B1-4#10486",
+      "type": "Sd_Kfz_251",
+      "x": 187396.0,
+      "z": -123561.7,
+      "alt": 131.7
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Salisbury_Easy [r] combatZone_Salisbury_Easy-Inert-Blitz_36-6700A-B1-6#10484",
+      "type": "Blitz_36-6700A",
+      "x": 187126.6,
+      "z": -124500.8,
+      "alt": 141.1
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Salisbury_Easy [r] combatZone_Salisbury_Easy-Inert-Blitz_36-6700A-B1-5#10481",
+      "type": "Blitz_36-6700A",
+      "x": 187315.4,
+      "z": -124098.9,
+      "alt": 136.1
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Salisbury_Easy [r] combatZone_Salisbury_Easy-Inert-Sd_Kfz_7-B1-7#10479",
+      "type": "Sd_Kfz_7",
+      "x": 187315.2,
+      "z": -125035.4,
+      "alt": 140.7
+    },
+    {
+      "kind": "static",
+      "group": "combatZone_Salisbury_Easy [r] combatZone_Salisbury_Easy-Static-Barracks-S3#10482 #157",
+      "type": "Barracks 2",
+      "x": 187747.0,
+      "z": -123662.0,
+      "alt": 125.4
+    },
+    {
+      "kind": "static",
+      "group": "combatZone_Salisbury_Easy [r] combatZone_Salisbury_Easy-Static-Warehouse-S5#10483 #159",
+      "type": "Warehouse",
+      "x": 187287.0,
+      "z": -123876.0,
+      "alt": 134.0
+    },
+    {
+      "kind": "static",
+      "group": "combatZone_Salisbury_Easy [r] combatZone_Salisbury_Easy-Static-Barracks-S4#10485 #158",
+      "type": "Barracks 2",
+      "x": 187625.0,
+      "z": -123573.0,
+      "alt": 131.6
+    },
+    {
+      "kind": "static",
+      "group": "combatZone_Salisbury_Easy [r] combatZone_Salisbury_Easy-Static-Railway-S9#10488 #163",
+      "type": "Railway station",
+      "x": 188247.0,
+      "z": -125128.0,
+      "alt": 139.1
+    },
+    {
+      "kind": "static",
+      "group": "combatZone_Salisbury_Easy [r] combatZone_Salisbury_Easy-Static-Warehouse-S6#10489 #160",
+      "type": "Warehouse",
+      "x": 187141.0,
+      "z": -123912.0,
+      "alt": 135.0
+    },
+    {
+      "kind": "static",
+      "group": "combatZone_Salisbury_Easy [r] combatZone_Salisbury_Easy-Static-Fuel-S8#10494 #162",
+      "type": "Fuel tank",
+      "x": 186924.0,
+      "z": -124737.0,
+      "alt": 147.3
+    },
+    {
+      "kind": "static",
+      "group": "combatZone_Salisbury_Easy [r] combatZone_Salisbury_Easy-Static-Bunker-S2#10490 #156",
+      "type": "Bunker",
+      "x": 188036.0,
+      "z": -123917.0,
+      "alt": 126.5
+    },
+    {
+      "kind": "static",
+      "group": "combatZone_Salisbury_Easy [r] combatZone_Salisbury_Easy-Static-Bunker-S1#10492 #155",
+      "type": "Bunker",
+      "x": 188123.0,
+      "z": -124125.0,
+      "alt": 132.6
+    },
+    {
+      "kind": "static",
+      "group": "combatZone_Salisbury_Easy [r] combatZone_Salisbury_Easy-Static-Fuel-S7#10480 #161",
+      "type": "Fuel tank",
+      "x": 186901.0,
+      "z": -124570.0,
+      "alt": 145.1
+    }
+  ],
+  "image": "salisbury-easy.jpg",
+  "heading": 333,
+  "pitch": -30.0,
+  "x": 185009.76696080345,
+  "y": -122847.33704245872,
+  "altitude_m": 1835,
+  "order": 4
+}

@@ -1,0 +1,362 @@
+{
+  "name": "bocage-hard",
+  "title": "A3 Mitraillage bocage — difficile",
+  "heading_deg": 294.0,
+  "pitch_deg": 30.0,
+  "slant_m": 5000.0,
+  "mark": "groups",
+  "labels": {},
+  "zone": "combatZone_Bocage_Hard",
+  "camera": {
+    "position": [
+      -2395.4371172419173,
+      2530.568421052631,
+      -81278.03739400602
+    ],
+    "forward": [
+      0.35224426555364663,
+      -0.49999999999999994,
+      -0.7911535738303734
+    ],
+    "up": [
+      0.20336832153789985,
+      0.8660254037844387,
+      -0.4567727288213005
+    ],
+    "right": [
+      0.9135454576426011,
+      0.0,
+      0.40673664307579976
+    ],
+    "hfov_deg": 80.0
+  },
+  "window": {
+    "width": 2650,
+    "height": 1660,
+    "cropped_bottom": 40
+  },
+  "target": {
+    "x": -634.2157894736843,
+    "z": -85233.80526315789,
+    "alt_m": 30.568421052631578,
+    "lat": 49.500206906019045,
+    "lon": -1.4767523467991825,
+    "dms": "N49°30'00.74\" W001°28'36.31\""
+  },
+  "theatre": "Normandy",
+  "date": "1944-07-06",
+  "time": "11:31",
+  "units": [
+    {
+      "kind": "unit",
+      "group": "combatZone_Bocage_Hard [r] combatZone_Bocage_Easy-Inert-Sd_Kfz_251-A1-4#10478",
+      "type": "Sd_Kfz_251",
+      "x": -977.0,
+      "z": -84131.4,
+      "alt": 41.7
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Bocage_Hard [r] combatZone_Bocage_Easy-Inert-Sd_Kfz_7-A1-7#10477",
+      "type": "Sd_Kfz_7",
+      "x": -900.1,
+      "z": -85264.5,
+      "alt": 24.0
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Bocage_Hard [r] combatZone_Bocage_Easy-Inert-Stug_III-A1-2#10474",
+      "type": "Stug_III",
+      "x": -52.3,
+      "z": -84237.2,
+      "alt": 34.6
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Bocage_Hard [r] combatZone_Bocage_Easy-Inert-Pz_IV_H-A1-1#10473",
+      "type": "Pz_IV_H",
+      "x": -76.6,
+      "z": -84749.6,
+      "alt": 31.2
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Bocage_Hard [r] Air Defense Battery#10472",
+      "type": "Blitz_36-6700A",
+      "x": -1775.0,
+      "z": -85704.0,
+      "alt": 15.8
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Bocage_Hard [r] Air Defense Battery#10472",
+      "type": "flak37",
+      "x": -1803.0,
+      "z": -85711.0,
+      "alt": 15.7
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Bocage_Hard [r] Air Defense Battery#10472",
+      "type": "flak38",
+      "x": -1794.0,
+      "z": -85674.0,
+      "alt": 15.8
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Bocage_Hard [r] Air Defense Battery#10472",
+      "type": "flak38",
+      "x": -1823.0,
+      "z": -85745.0,
+      "alt": 15.9
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Bocage_Hard [r] Air Defense Battery#10472",
+      "type": "Blitz_36-6700A",
+      "x": -1808.0,
+      "z": -85694.0,
+      "alt": 15.7
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Bocage_Hard [r] combatZone_Bocage_Easy-Inert-Blitz_36-6700A-A1-5#10470",
+      "type": "Blitz_36-6700A",
+      "x": -1204.7,
+      "z": -84518.1,
+      "alt": 32.9
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Bocage_Hard [r] combatZone_Bocage_Easy-Inert-Sd_Kfz_251-A1-3#10469",
+      "type": "Sd_Kfz_251",
+      "x": -579.7,
+      "z": -84253.6,
+      "alt": 41.3
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Bocage_Hard [r] Armored Platoon#10468",
+      "type": "Sd_Kfz_234_2_Puma",
+      "x": 802.5,
+      "z": -85486.5,
+      "alt": 34.8
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Bocage_Hard [r] Armored Platoon#10468",
+      "type": "Sd_Kfz_234_2_Puma",
+      "x": 848.5,
+      "z": -85415.5,
+      "alt": 36.4
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Bocage_Hard [r] Armored Platoon#10468",
+      "type": "Elefant_SdKfz_184",
+      "x": 657.5,
+      "z": -85462.5,
+      "alt": 31.6
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Bocage_Hard [r] Armored Platoon#10468",
+      "type": "Elefant_SdKfz_184",
+      "x": 696.5,
+      "z": -85545.5,
+      "alt": 31.9
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Bocage_Hard [r] Armored Platoon#10468",
+      "type": "Sd_Kfz_234_2_Puma",
+      "x": 837.5,
+      "z": -85468.5,
+      "alt": 35.7
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Bocage_Hard [r] Armored Platoon#10467",
+      "type": "Tiger_II_H",
+      "x": 230.3,
+      "z": -86202.4,
+      "alt": 38.4
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Bocage_Hard [r] Armored Platoon#10467",
+      "type": "Stug_IV",
+      "x": 378.3,
+      "z": -86318.4,
+      "alt": 39.3
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Bocage_Hard [r] Armored Platoon#10467",
+      "type": "Tiger_I",
+      "x": 348.3,
+      "z": -86160.4,
+      "alt": 37.0
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Bocage_Hard [r] Armored Platoon#10467",
+      "type": "Stug_III",
+      "x": 282.3,
+      "z": -86139.4,
+      "alt": 37.1
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Bocage_Hard [r] Armored Platoon#10467",
+      "type": "Pz_IV_H",
+      "x": 145.3,
+      "z": -86291.4,
+      "alt": 39.4
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Bocage_Hard [r] Armored Platoon#10467",
+      "type": "Stug_III",
+      "x": 421.3,
+      "z": -86297.4,
+      "alt": 38.3
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Bocage_Hard [r] Air Defense Battery#10466",
+      "type": "flak37",
+      "x": -959.0,
+      "z": -85662.0,
+      "alt": 21.8
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Bocage_Hard [r] Air Defense Battery#10466",
+      "type": "flak38",
+      "x": -972.0,
+      "z": -85726.0,
+      "alt": 21.7
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Bocage_Hard [r] Air Defense Battery#10466",
+      "type": "Blitz_36-6700A",
+      "x": -1016.0,
+      "z": -85645.0,
+      "alt": 21.8
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Bocage_Hard [r] Air Defense Battery#10466",
+      "type": "flak38",
+      "x": -956.0,
+      "z": -85700.0,
+      "alt": 21.5
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Bocage_Hard [r] Air Defense Battery#10466",
+      "type": "Blitz_36-6700A",
+      "x": -997.0,
+      "z": -85684.0,
+      "alt": 21.4
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Bocage_Hard [r] combatZone_Bocage_Easy-Inert-Blitz_36-6700A-A1-6#10465",
+      "type": "Blitz_36-6700A",
+      "x": -1361.1,
+      "z": -85018.9,
+      "alt": 26.5
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Bocage_Hard [r] combatZone_Bocage_Easy-Inert-Horch_901_typ_40_kfz_21-A1-8#10464",
+      "type": "Horch_901_typ_40_kfz_21",
+      "x": -578.7,
+      "z": -85235.5,
+      "alt": 25.6
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Bocage_Hard [r] Air Defense Battery#10463",
+      "type": "flak38",
+      "x": -1765.0,
+      "z": -84090.0,
+      "alt": 37.6
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Bocage_Hard [r] Air Defense Battery#10463",
+      "type": "Blitz_36-6700A",
+      "x": -1789.0,
+      "z": -84110.0,
+      "alt": 37.2
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Bocage_Hard [r] Air Defense Battery#10463",
+      "type": "Blitz_36-6700A",
+      "x": -1753.0,
+      "z": -84076.0,
+      "alt": 37.9
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Bocage_Hard [r] Air Defense Battery#10462",
+      "type": "Blitz_36-6700A",
+      "x": -1687.0,
+      "z": -85329.0,
+      "alt": 21.7
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Bocage_Hard [r] Air Defense Battery#10462",
+      "type": "Blitz_36-6700A",
+      "x": -1689.0,
+      "z": -85359.0,
+      "alt": 21.4
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Bocage_Hard [r] combatZone_Bocage_Easy-Inert-Kubelwagen_82-A1-9#10461",
+      "type": "Kubelwagen_82",
+      "x": -112.3,
+      "z": -85202.9,
+      "alt": 29.7
+    },
+    {
+      "kind": "static",
+      "group": "combatZone_Bocage_Hard [r] combatZone_Bocage_Easy-Static-Fuel-B2#10475 #153",
+      "type": "Fuel tank",
+      "x": -1057.0,
+      "z": -83616.0,
+      "alt": 46.4
+    },
+    {
+      "kind": "static",
+      "group": "combatZone_Bocage_Hard [r] combatZone_Bocage_Easy-Static-Fuel-B1#10476 #152",
+      "type": "Fuel tank",
+      "x": -838.0,
+      "z": -83661.0,
+      "alt": 47.5
+    },
+    {
+      "kind": "static",
+      "group": "combatZone_Bocage_Hard [r] combatZone_Bocage_Easy-Static-Barracks-B3#10471 #154",
+      "type": "Barracks 2",
+      "x": 575.0,
+      "z": -84299.0,
+      "alt": 37.4
+    }
+  ],
+  "image": "bocage-hard.jpg",
+  "heading": 294,
+  "pitch": -30.0,
+  "x": -2395.4371172419173,
+  "y": -81278.03739400602,
+  "altitude_m": 2531,
+  "order": 3
+}

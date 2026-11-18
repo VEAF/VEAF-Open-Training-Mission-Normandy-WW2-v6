@@ -1,0 +1,194 @@
+{
+  "name": "antifer",
+  "title": "Z04 Radars — station du cap d'Antifer",
+  "heading_deg": 37.0,
+  "pitch_deg": 30.0,
+  "slant_m": 1600.0,
+  "mark": "groups",
+  "labels": {},
+  "zone": "combatZone_Antifer",
+  "camera": {
+    "position": [
+      22448.31935236611,
+      856.270588235294,
+      32017.982995455106
+    ],
+    "forward": [
+      0.691638640065298,
+      -0.49999999999999994,
+      0.521187098428794
+    ],
+    "up": [
+      0.39931775502364636,
+      0.8660254037844387,
+      0.3009075115760241
+    ],
+    "right": [
+      -0.6018150231520483,
+      0.0,
+      0.7986355100472928
+    ],
+    "hfov_deg": 80.0
+  },
+  "window": {
+    "width": 2650,
+    "height": 1660,
+    "cropped_bottom": 40
+  },
+  "target": {
+    "x": 23554.941176470587,
+    "z": 32851.882352941175,
+    "alt_m": 56.27058823529412,
+    "lat": 49.68451113618619,
+    "lon": 0.16624168517777038,
+    "dms": "N49°41'04.24\" E000°09'58.47\""
+  },
+  "theatre": "Normandy",
+  "date": "1944-07-06",
+  "time": "11:38",
+  "units": [
+    {
+      "kind": "unit",
+      "group": "combatZone_Antifer [r] combatZone_Antifer-Radars#10577",
+      "type": "FuMG-401",
+      "x": 23775.0,
+      "z": 32723.0,
+      "alt": 56.8
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Antifer [r] combatZone_Antifer-Radars#10577",
+      "type": "FuMG-401",
+      "x": 23795.0,
+      "z": 32723.0,
+      "alt": 31.5
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Antifer [r] combatZone_Antifer-Radars#10577",
+      "type": "FuSe-65",
+      "x": 23815.0,
+      "z": 32723.0,
+      "alt": 3.5
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Antifer [r] combatZone_Antifer-Radars#10577",
+      "type": "FuSe-65",
+      "x": 23835.0,
+      "z": 32723.0,
+      "alt": 1.8
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Antifer [r] Air Defense Battery#10575",
+      "type": "flak38",
+      "x": 23759.0,
+      "z": 33241.0,
+      "alt": 77.7
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Antifer [r] Air Defense Battery#10575",
+      "type": "flak38",
+      "x": 23769.0,
+      "z": 33197.0,
+      "alt": 72.2
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Antifer [r] Air Defense Battery#10575",
+      "type": "Blitz_36-6700A",
+      "x": 23796.0,
+      "z": 33217.0,
+      "alt": 72.7
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Antifer [r] Air Defense Battery#10575",
+      "type": "flak37",
+      "x": 23762.0,
+      "z": 33198.0,
+      "alt": 72.7
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Antifer [r] Air Defense Battery#10573",
+      "type": "KDO_Mod40",
+      "x": 23057.0,
+      "z": 32717.0,
+      "alt": 77.2
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Antifer [r] Air Defense Battery#10573",
+      "type": "flak37",
+      "x": 23102.0,
+      "z": 32736.0,
+      "alt": 75.7
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Antifer [r] Air Defense Battery#10573",
+      "type": "flak36",
+      "x": 23080.0,
+      "z": 32728.0,
+      "alt": 76.3
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Antifer [r] Air Defense Battery#10573",
+      "type": "Sd_Kfz_7",
+      "x": 23051.0,
+      "z": 32694.0,
+      "alt": 76.3
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Antifer [r] Air Defense Battery#10573",
+      "type": "flak36",
+      "x": 23093.0,
+      "z": 32712.0,
+      "alt": 74.7
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Antifer [r] Air Defense Battery#10573",
+      "type": "flak38",
+      "x": 23076.0,
+      "z": 32756.0,
+      "alt": 78.0
+    },
+    {
+      "kind": "static",
+      "group": "combatZone_Antifer [r] combatZone_Antifer-Static-Freya_Shelter_Brick-1#10574 #293",
+      "type": "Freya_Shelter_Brick",
+      "x": 23775.0,
+      "z": 32723.0,
+      "alt": 50.3
+    },
+    {
+      "kind": "static",
+      "group": "combatZone_Antifer [r] combatZone_Antifer-Static-Bunker-3#10576 #295",
+      "type": "Bunker",
+      "x": 24081.0,
+      "z": 32980.0,
+      "alt": 57.6
+    },
+    {
+      "kind": "static",
+      "group": "combatZone_Antifer [r] combatZone_Antifer-Static-Freya_Shelter_Brick-2#10572 #294",
+      "type": "Freya_Shelter_Brick",
+      "x": 23813.0,
+      "z": 32691.0,
+      "alt": 1.6
+    }
+  ],
+  "image": "antifer.jpg",
+  "heading": 37,
+  "pitch": -30.0,
+  "x": 22448.31935236611,
+  "y": 32017.982995455106,
+  "altitude_m": 856,
+  "order": 13
+}

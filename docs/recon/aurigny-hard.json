@@ -1,0 +1,170 @@
+{
+  "name": "aurigny-hard",
+  "title": "C3 Antiflak Aurigny — difficile",
+  "heading_deg": 294.0,
+  "pitch_deg": 30.0,
+  "slant_m": 5300.0,
+  "mark": "groups",
+  "labels": {},
+  "zone": "combatZone_Aurigny_Hard",
+  "camera": {
+    "position": [
+      21215.09110685139,
+      2653.928571428571,
+      -135938.2789158419
+    ],
+    "forward": [
+      0.35224426555364663,
+      -0.49999999999999994,
+      -0.7911535738303734
+    ],
+    "up": [
+      0.20336832153789985,
+      0.8660254037844387,
+      -0.4567727288213005
+    ],
+    "right": [
+      0.9135454576426011,
+      0.0,
+      0.40673664307579976
+    ],
+    "hfov_deg": 80.0
+  },
+  "window": {
+    "width": 2650,
+    "height": 1660,
+    "cropped_bottom": 40
+  },
+  "target": {
+    "x": 23081.985714285714,
+    "z": -140131.39285714287,
+    "alt_m": 3.9285714285714284,
+    "lat": 49.72100537297217,
+    "lon": -2.231490762744232,
+    "dms": "N49°43'15.62\" W002°13'53.37\""
+  },
+  "theatre": "Normandy",
+  "date": "1944-07-06",
+  "time": "11:35",
+  "units": [
+    {
+      "kind": "unit",
+      "group": "combatZone_Aurigny_Hard [r] Air Defense Battery#10542",
+      "type": "flak37",
+      "x": 24176.0,
+      "z": -141505.3,
+      "alt": 6.0
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Aurigny_Hard [r] Air Defense Battery#10542",
+      "type": "Blitz_36-6700A",
+      "x": 24191.0,
+      "z": -141496.3,
+      "alt": 5.7
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Aurigny_Hard [r] Air Defense Battery#10542",
+      "type": "flak38",
+      "x": 24160.0,
+      "z": -141486.3,
+      "alt": 6.1
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Aurigny_Hard [r] Air Defense Battery#10542",
+      "type": "flak38",
+      "x": 24174.0,
+      "z": -141487.3,
+      "alt": 5.9
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Aurigny_Hard [r] combatZone_Aurigny_Hard-Radars#10541",
+      "type": "FuMG-401",
+      "x": 23050.1,
+      "z": -139239.5,
+      "alt": 7.2
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Aurigny_Hard [r] combatZone_Aurigny_Hard-Radars#10541",
+      "type": "FuSe-65",
+      "x": 23070.1,
+      "z": -139239.5,
+      "alt": 5.2
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Aurigny_Hard [r] combatZone_Aurigny_Hard-Projecteurs#10540",
+      "type": "Flakscheinwerfer_37",
+      "x": 22841.2,
+      "z": -139444.1,
+      "alt": 1.0
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Aurigny_Hard [r] combatZone_Aurigny_Hard-Projecteurs#10540",
+      "type": "Flakscheinwerfer_37",
+      "x": 22861.2,
+      "z": -139444.1,
+      "alt": 1.1
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Aurigny_Hard [r] combatZone_Aurigny_Hard-Projecteurs#10540",
+      "type": "KDO_Mod40",
+      "x": 22881.2,
+      "z": -139444.1,
+      "alt": 1.0
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Aurigny_Hard [r] Air Defense Battery#10539",
+      "type": "Sd_Kfz_7",
+      "x": 22374.0,
+      "z": -139809.0,
+      "alt": 0.6
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Aurigny_Hard [r] Air Defense Battery#10539",
+      "type": "flak37",
+      "x": 22357.0,
+      "z": -139776.0,
+      "alt": 1.2
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Aurigny_Hard [r] Air Defense Battery#10539",
+      "type": "flak36",
+      "x": 22310.0,
+      "z": -139819.0,
+      "alt": 12.6
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Aurigny_Hard [r] Air Defense Battery#10539",
+      "type": "flak38",
+      "x": 22371.0,
+      "z": -139836.0,
+      "alt": 0.1
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Aurigny_Hard [r] Air Defense Battery#10539",
+      "type": "Sd_Kfz_7",
+      "x": 22331.0,
+      "z": -139813.0,
+      "alt": 1.3
+    }
+  ],
+  "image": "aurigny-hard.jpg",
+  "heading": 294,
+  "pitch": -30.0,
+  "x": 21215.09110685139,
+  "y": -135938.2789158419,
+  "altitude_m": 2654,
+  "order": 9
+}

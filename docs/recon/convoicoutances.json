@@ -1,0 +1,122 @@
+{
+  "name": "convoicoutances",
+  "title": "Z08 Convoi — Coutances vers La Haye-du-Puits",
+  "heading_deg": 258.0,
+  "pitch_deg": 30.0,
+  "slant_m": 600.0,
+  "mark": "groups",
+  "labels": {},
+  "zone": "combatZone_ConvoiCoutances",
+  "camera": {
+    "position": [
+      -49237.503416404834,
+      410.01249999999993,
+      -83173.90209746824
+    ],
+    "forward": [
+      -0.1800568059919558,
+      -0.49999999999999994,
+      -0.8471006708862739
+    ],
+    "up": [
+      -0.10395584540887988,
+      0.8660254037844387,
+      -0.48907380036690273
+    ],
+    "right": [
+      0.9781476007338056,
+      0.0,
+      -0.2079116908177598
+    ],
+    "hfov_deg": 80.0
+  },
+  "window": {
+    "width": 2650,
+    "height": 1660,
+    "cropped_bottom": 40
+  },
+  "target": {
+    "x": -49345.537500000006,
+    "z": -83682.1625,
+    "alt_m": 110.0125,
+    "lat": 49.06191387297651,
+    "lon": -1.468953948535152,
+    "dms": "N49°03'42.89\" W001°28'08.23\""
+  },
+  "theatre": "Normandy",
+  "date": "1944-07-06",
+  "time": "11:40",
+  "units": [
+    {
+      "kind": "unit",
+      "group": "combatZone_ConvoiCoutances [r] combatZone_ConvoiCoutances-Convoi#10586",
+      "type": "Sd_Kfz_251",
+      "x": -49375.2,
+      "z": -83678.0,
+      "alt": 109.0
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_ConvoiCoutances [r] combatZone_ConvoiCoutances-Convoi#10586",
+      "type": "Sd_Kfz_251",
+      "x": -49401.3,
+      "z": -83682.8,
+      "alt": 107.7
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_ConvoiCoutances [r] combatZone_ConvoiCoutances-Convoi#10586",
+      "type": "Blitz_36-6700A",
+      "x": -49381.3,
+      "z": -83682.8,
+      "alt": 108.7
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_ConvoiCoutances [r] combatZone_ConvoiCoutances-Convoi#10586",
+      "type": "Blitz_36-6700A",
+      "x": -49361.3,
+      "z": -83682.8,
+      "alt": 109.7
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_ConvoiCoutances [r] combatZone_ConvoiCoutances-Convoi#10586",
+      "type": "Blitz_36-6700A",
+      "x": -49341.3,
+      "z": -83682.8,
+      "alt": 110.8
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_ConvoiCoutances [r] combatZone_ConvoiCoutances-Convoi#10586",
+      "type": "Blitz_36-6700A",
+      "x": -49321.3,
+      "z": -83682.7,
+      "alt": 111.0
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_ConvoiCoutances [r] combatZone_ConvoiCoutances-Convoi#10586",
+      "type": "Kubelwagen_82",
+      "x": -49301.3,
+      "z": -83682.7,
+      "alt": 111.4
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_ConvoiCoutances [r] combatZone_ConvoiCoutances-Convoi#10586",
+      "type": "Sd_Kfz_234_2_Puma",
+      "x": -49281.3,
+      "z": -83682.7,
+      "alt": 111.8
+    }
+  ],
+  "image": "convoicoutances.jpg",
+  "heading": 258,
+  "pitch": -30.0,
+  "x": -49237.503416404834,
+  "y": -83173.90209746824,
+  "altitude_m": 410,
+  "order": 17
+}

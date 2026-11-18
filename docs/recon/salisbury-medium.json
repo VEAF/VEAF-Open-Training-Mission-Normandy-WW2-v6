@@ -1,0 +1,250 @@
+{
+  "name": "salisbury-medium",
+  "title": "B2 Bombardement Salisbury — moyen",
+  "heading_deg": 333.0,
+  "pitch_deg": 30.0,
+  "slant_m": 4000.0,
+  "mark": "groups",
+  "labels": {},
+  "zone": "combatZone_Salisbury_Medium",
+  "camera": {
+    "position": [
+      184238.0003604608,
+      2135.695833333333,
+      -122599.05160992837
+    ],
+    "forward": [
+      0.7716342848848005,
+      -0.49999999999999994,
+      -0.39316730585124027
+    ],
+    "up": [
+      0.44550326209418384,
+      0.8660254037844387,
+      -0.22699524986977346
+    ],
+    "right": [
+      0.45399049973954697,
+      0.0,
+      0.8910065241883678
+    ],
+    "hfov_deg": 80.0
+  },
+  "window": {
+    "width": 2650,
+    "height": 1660,
+    "cropped_bottom": 40
+  },
+  "target": {
+    "x": 187324.5375,
+    "z": -124171.72083333333,
+    "alt_m": 135.69583333333333,
+    "lat": 51.1961867814097,
+    "lon": -1.978792764684744,
+    "dms": "N51°11'46.27\" W001°58'43.65\""
+  },
+  "theatre": "Normandy",
+  "date": "1944-07-06",
+  "time": "11:32",
+  "units": [
+    {
+      "kind": "unit",
+      "group": "combatZone_Salisbury_Medium [r] combatZone_Salisbury_Easy-Inert-Pz_IV_H-B1-1#10514",
+      "type": "Pz_IV_H",
+      "x": 188466.5,
+      "z": -124258.2,
+      "alt": 140.0
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Salisbury_Medium [r] combatZone_Salisbury_Easy-Inert-Tiger_I-B1-2#10512",
+      "type": "Tiger_I",
+      "x": 188418.5,
+      "z": -123678.0,
+      "alt": 133.4
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Salisbury_Medium [r] combatZone_Salisbury_Easy-Inert-Blitz_36-6700A-B1-6#10511",
+      "type": "Blitz_36-6700A",
+      "x": 187138.3,
+      "z": -124501.2,
+      "alt": 140.9
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Salisbury_Medium [r] combatZone_Salisbury_Easy-Inert-Stug_III-B1-3#10506",
+      "type": "Stug_III",
+      "x": 187858.3,
+      "z": -123651.7,
+      "alt": 120.1
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Salisbury_Medium [r] combatZone_Salisbury_Easy-Inert-Sd_Kfz_251-B1-4#10505",
+      "type": "Sd_Kfz_251",
+      "x": 187371.3,
+      "z": -123568.3,
+      "alt": 131.8
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Salisbury_Medium [r] combatZone_Salisbury_Easy-Inert-Sd_Kfz_251-B1-8#10503",
+      "type": "Sd_Kfz_251",
+      "x": 187849.3,
+      "z": -124831.8,
+      "alt": 134.4
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Salisbury_Medium [r] combatZone_Salisbury_Easy-Inert-Blitz_36-6700A-B1-5#10500",
+      "type": "Blitz_36-6700A",
+      "x": 187296.4,
+      "z": -124086.3,
+      "alt": 136.4
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Salisbury_Medium [r] Air Defense Battery#10498",
+      "type": "Blitz_36-6700A",
+      "x": 186552.0,
+      "z": -123534.0,
+      "alt": 127.0
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Salisbury_Medium [r] Air Defense Battery#10498",
+      "type": "Blitz_36-6700A",
+      "x": 186572.0,
+      "z": -123546.0,
+      "alt": 127.6
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Salisbury_Medium [r] Air Defense Battery#10498",
+      "type": "flak37",
+      "x": 186531.0,
+      "z": -123588.0,
+      "alt": 128.0
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Salisbury_Medium [r] Air Defense Battery#10498",
+      "type": "flak38",
+      "x": 186508.0,
+      "z": -123577.0,
+      "alt": 127.4
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Salisbury_Medium [r] Air Defense Battery#10497",
+      "type": "Blitz_36-6700A",
+      "x": 186609.0,
+      "z": -124896.0,
+      "alt": 150.6
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Salisbury_Medium [r] Air Defense Battery#10497",
+      "type": "Blitz_36-6700A",
+      "x": 186636.0,
+      "z": -124938.0,
+      "alt": 151.7
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Salisbury_Medium [r] Air Defense Battery#10497",
+      "type": "flak38",
+      "x": 186608.0,
+      "z": -124916.0,
+      "alt": 151.2
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Salisbury_Medium [r] combatZone_Salisbury_Easy-Inert-Sd_Kfz_7-B1-7#10496",
+      "type": "Sd_Kfz_7",
+      "x": 187343.3,
+      "z": -125050.8,
+      "alt": 139.6
+    },
+    {
+      "kind": "static",
+      "group": "combatZone_Salisbury_Medium [r] combatZone_Salisbury_Easy-Static-Barracks-S3#10501 #157",
+      "type": "Barracks 2",
+      "x": 187747.0,
+      "z": -123662.0,
+      "alt": 125.4
+    },
+    {
+      "kind": "static",
+      "group": "combatZone_Salisbury_Medium [r] combatZone_Salisbury_Easy-Static-Warehouse-S5#10502 #159",
+      "type": "Warehouse",
+      "x": 187287.0,
+      "z": -123876.0,
+      "alt": 134.0
+    },
+    {
+      "kind": "static",
+      "group": "combatZone_Salisbury_Medium [r] combatZone_Salisbury_Easy-Static-Barracks-S4#10504 #158",
+      "type": "Barracks 2",
+      "x": 187625.0,
+      "z": -123573.0,
+      "alt": 131.6
+    },
+    {
+      "kind": "static",
+      "group": "combatZone_Salisbury_Medium [r] combatZone_Salisbury_Easy-Static-Railway-S9#10507 #163",
+      "type": "Railway station",
+      "x": 188247.0,
+      "z": -125128.0,
+      "alt": 139.1
+    },
+    {
+      "kind": "static",
+      "group": "combatZone_Salisbury_Medium [r] combatZone_Salisbury_Easy-Static-Warehouse-S6#10508 #160",
+      "type": "Warehouse",
+      "x": 187141.0,
+      "z": -123912.0,
+      "alt": 135.0
+    },
+    {
+      "kind": "static",
+      "group": "combatZone_Salisbury_Medium [r] combatZone_Salisbury_Easy-Static-Fuel-S8#10513 #162",
+      "type": "Fuel tank",
+      "x": 186924.0,
+      "z": -124737.0,
+      "alt": 147.3
+    },
+    {
+      "kind": "static",
+      "group": "combatZone_Salisbury_Medium [r] combatZone_Salisbury_Easy-Static-Bunker-S2#10509 #156",
+      "type": "Bunker",
+      "x": 188036.0,
+      "z": -123917.0,
+      "alt": 126.5
+    },
+    {
+      "kind": "static",
+      "group": "combatZone_Salisbury_Medium [r] combatZone_Salisbury_Easy-Static-Bunker-S1#10510 #155",
+      "type": "Bunker",
+      "x": 188123.0,
+      "z": -124125.0,
+      "alt": 132.6
+    },
+    {
+      "kind": "static",
+      "group": "combatZone_Salisbury_Medium [r] combatZone_Salisbury_Easy-Static-Fuel-S7#10499 #161",
+      "type": "Fuel tank",
+      "x": 186901.0,
+      "z": -124570.0,
+      "alt": 145.1
+    }
+  ],
+  "image": "salisbury-medium.jpg",
+  "heading": 333,
+  "pitch": -30.0,
+  "x": 184238.0003604608,
+  "y": -122599.05160992837,
+  "altitude_m": 2136,
+  "order": 5
+}

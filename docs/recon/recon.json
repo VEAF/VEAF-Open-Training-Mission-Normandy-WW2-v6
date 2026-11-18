@@ -1,0 +1,155 @@
+{
+  "operation": "Open Training Normandie",
+  "shots": [
+    {
+      "name": "bocage-easy",
+      "title": "A1 Mitraillage bocage — facile",
+      "image": "bocage-easy.jpg",
+      "metadata": "bocage-easy.json"
+    },
+    {
+      "name": "bocage-medium",
+      "title": "A2 Mitraillage bocage — moyen",
+      "image": "bocage-medium.jpg",
+      "metadata": "bocage-medium.json"
+    },
+    {
+      "name": "bocage-hard",
+      "title": "A3 Mitraillage bocage — difficile",
+      "image": "bocage-hard.jpg",
+      "metadata": "bocage-hard.json"
+    },
+    {
+      "name": "salisbury-easy",
+      "title": "B1 Bombardement Salisbury — facile",
+      "image": "salisbury-easy.jpg",
+      "metadata": "salisbury-easy.json"
+    },
+    {
+      "name": "salisbury-medium",
+      "title": "B2 Bombardement Salisbury — moyen",
+      "image": "salisbury-medium.jpg",
+      "metadata": "salisbury-medium.json"
+    },
+    {
+      "name": "salisbury-hard",
+      "title": "B3 Bombardement Salisbury — difficile",
+      "image": "salisbury-hard.jpg",
+      "metadata": "salisbury-hard.json"
+    },
+    {
+      "name": "aurigny-easy",
+      "title": "C1 Antiflak Aurigny — facile",
+      "image": "aurigny-easy.jpg",
+      "metadata": "aurigny-easy.json"
+    },
+    {
+      "name": "aurigny-medium",
+      "title": "C2 Antiflak Aurigny — moyen",
+      "image": "aurigny-medium.jpg",
+      "metadata": "aurigny-medium.json"
+    },
+    {
+      "name": "aurigny-hard",
+      "title": "C3 Antiflak Aurigny — difficile",
+      "image": "aurigny-hard.jpg",
+      "metadata": "aurigny-hard.json"
+    },
+    {
+      "name": "villersbocage",
+      "title": "Z01 Front — Villers-Bocage",
+      "image": "villersbocage.jpg",
+      "metadata": "villersbocage.json"
+    },
+    {
+      "name": "caennord",
+      "title": "Z02 Front — Caen et Carpiquet",
+      "image": "caennord.jpg",
+      "metadata": "caennord.json"
+    },
+    {
+      "name": "cotentinsud",
+      "title": "Z03 Front — La Haye-du-Puits et Lessay",
+      "image": "cotentinsud.jpg",
+      "metadata": "cotentinsud.json"
+    },
+    {
+      "name": "antifer",
+      "title": "Z04 Radars — station du cap d'Antifer",
+      "image": "antifer.jpg",
+      "metadata": "antifer.json"
+    },
+    {
+      "name": "grisnez",
+      "title": "Z05 Radars — cap Gris-Nez",
+      "image": "grisnez.jpg",
+      "metadata": "grisnez.json"
+    },
+    {
+      "name": "convoifalaise",
+      "title": "Z06 Convoi — Falaise vers Caen",
+      "image": "convoifalaise.jpg",
+      "metadata": "convoifalaise.json"
+    },
+    {
+      "name": "convoilisieux",
+      "title": "Z07 Convoi — Lisieux vers Caen",
+      "image": "convoilisieux.jpg",
+      "metadata": "convoilisieux.json"
+    },
+    {
+      "name": "convoicoutances",
+      "title": "Z08 Convoi — Coutances vers La Haye-du-Puits",
+      "image": "convoicoutances.jpg",
+      "metadata": "convoicoutances.json"
+    },
+    {
+      "name": "rocheguyon",
+      "title": "Z09 Frappe — état-major de La Roche-Guyon",
+      "image": "rocheguyon.jpg",
+      "metadata": "rocheguyon.json"
+    },
+    {
+      "name": "triageargentan",
+      "title": "Z10 Frappe — gare de triage d'Argentan",
+      "image": "triageargentan.jpg",
+      "metadata": "triageargentan.json"
+    },
+    {
+      "name": "eperlecques",
+      "title": "Z11 Frappe — blockhaus d'Éperlecques",
+      "image": "eperlecques.jpg",
+      "metadata": "eperlecques.json"
+    },
+    {
+      "name": "depotlisieux",
+      "title": "Z12 Frappe — dépôts d'essence de Lisieux",
+      "image": "depotlisieux.jpg",
+      "metadata": "depotlisieux.json"
+    },
+    {
+      "name": "triqueville",
+      "title": "Z13 OCA — base aérienne de Triqueville",
+      "image": "triqueville.jpg",
+      "metadata": "triqueville.json"
+    },
+    {
+      "name": "beaumontleroger",
+      "title": "Z14 OCA — base aérienne de Beaumont-le-Roger",
+      "image": "beaumontleroger.jpg",
+      "metadata": "beaumontleroger.json"
+    },
+    {
+      "name": "vedetteslehavre",
+      "title": "Z15 Antinavire — vedettes lance-torpilles du Havre",
+      "image": "vedetteslehavre.jpg",
+      "metadata": "vedetteslehavre.json"
+    },
+    {
+      "name": "convoicotier",
+      "title": "Z16 Antinavire — convoi côtier vers Dieppe",
+      "image": "convoicotier.jpg",
+      "metadata": "convoicotier.json"
+    }
+  ]
+}
