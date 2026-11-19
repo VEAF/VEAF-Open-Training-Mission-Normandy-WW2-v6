@@ -1,0 +1,122 @@
+{
+  "name": "vedetteslehavre",
+  "title": "Z15 Antinavire — vedettes lance-torpilles du Havre",
+  "heading_deg": 39.0,
+  "pitch_deg": 30.0,
+  "slant_m": 6000.0,
+  "mark": "groups",
+  "labels": {},
+  "zone": "combatZone_VedettesLeHavre",
+  "camera": {
+    "position": [
+      1375.7311295786853,
+      3049.7749999999996,
+      21387.105325387703
+    ],
+    "forward": [
+      0.673028145070219,
+      -0.49999999999999994,
+      0.5450074457687163
+    ],
+    "up": [
+      0.3885729807284854,
+      0.8660254037844387,
+      0.31466019552491864
+    ],
+    "right": [
+      -0.6293203910498374,
+      0.0,
+      0.7771459614569709
+    ],
+    "hfov_deg": 80.0
+  },
+  "window": {
+    "width": 2650,
+    "height": 1660,
+    "cropped_bottom": 40
+  },
+  "target": {
+    "x": 5413.9,
+    "z": 24657.15,
+    "alt_m": 49.775,
+    "lat": 49.524618281536554,
+    "lon": 0.04263568331474543,
+    "dms": "N49°31'28.63\" E000°02'33.49\""
+  },
+  "theatre": "Normandy",
+  "date": "1944-07-06",
+  "time": "11:44",
+  "units": [
+    {
+      "kind": "unit",
+      "group": "combatZone_VedettesLeHavre [r] combatZone_VedettesLeHavre-Batterie Hève#10641",
+      "type": "flak37",
+      "x": 3903.4,
+      "z": 27076.1,
+      "alt": 99.8
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_VedettesLeHavre [r] combatZone_VedettesLeHavre-Batterie Hève#10641",
+      "type": "flak37",
+      "x": 3923.4,
+      "z": 27076.1,
+      "alt": 99.6
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_VedettesLeHavre [r] combatZone_VedettesLeHavre-Batterie Hève#10641",
+      "type": "SK_C_28_naval_gun",
+      "x": 3943.4,
+      "z": 27076.1,
+      "alt": 99.4
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_VedettesLeHavre [r] combatZone_VedettesLeHavre-Batterie Hève#10641",
+      "type": "SK_C_28_naval_gun",
+      "x": 3963.4,
+      "z": 27076.1,
+      "alt": 99.4
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_VedettesLeHavre [r] combatZone_VedettesLeHavre-Vedettes#10640",
+      "type": "Schnellboot_type_S130",
+      "x": 5994.4,
+      "z": 22238.2,
+      "alt": -0.0
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_VedettesLeHavre [r] combatZone_VedettesLeHavre-Vedettes#10640",
+      "type": "Schnellboot_type_S130",
+      "x": 6594.4,
+      "z": 22238.2,
+      "alt": -0.0
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_VedettesLeHavre [r] combatZone_VedettesLeHavre-Vedettes#10640",
+      "type": "Schnellboot_type_S130",
+      "x": 7194.4,
+      "z": 22238.2,
+      "alt": -0.0
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_VedettesLeHavre [r] combatZone_VedettesLeHavre-Vedettes#10640",
+      "type": "Schnellboot_type_S130",
+      "x": 7794.4,
+      "z": 22238.2,
+      "alt": -0.0
+    }
+  ],
+  "image": "vedetteslehavre.jpg",
+  "heading": 39,
+  "pitch": -30.0,
+  "x": 1375.7311295786853,
+  "y": 21387.105325387703,
+  "altitude_m": 3050,
+  "order": 24
+}

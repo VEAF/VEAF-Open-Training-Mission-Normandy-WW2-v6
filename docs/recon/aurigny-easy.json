@@ -1,0 +1,98 @@
+{
+  "name": "aurigny-easy",
+  "title": "C1 Antiflak Aurigny — facile",
+  "heading_deg": 294.0,
+  "pitch_deg": 30.0,
+  "slant_m": 600.0,
+  "mark": "groups",
+  "labels": {},
+  "zone": "combatZone_Aurigny_Easy",
+  "camera": {
+    "position": [
+      22857.053440667813,
+      307.61999999999995,
+      -138829.10785570176
+    ],
+    "forward": [
+      0.35224426555364663,
+      -0.49999999999999994,
+      -0.7911535738303734
+    ],
+    "up": [
+      0.20336832153789985,
+      0.8660254037844387,
+      -0.4567727288213005
+    ],
+    "right": [
+      0.9135454576426011,
+      0.0,
+      0.40673664307579976
+    ],
+    "hfov_deg": 80.0
+  },
+  "window": {
+    "width": 2650,
+    "height": 1660,
+    "cropped_bottom": 40
+  },
+  "target": {
+    "x": 23068.4,
+    "z": -139303.8,
+    "alt_m": 7.62,
+    "lat": 49.720806450055875,
+    "lon": -2.2200123424947105,
+    "dms": "N49°43'14.90\" W002°13'12.04\""
+  },
+  "theatre": "Normandy",
+  "date": "1944-07-06",
+  "time": "11:33",
+  "units": [
+    {
+      "kind": "unit",
+      "group": "combatZone_Aurigny_Easy [r] Air Defense Battery#10536",
+      "type": "Sd_Kfz_7",
+      "x": 23073.0,
+      "z": -139294.0,
+      "alt": 3.6
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Aurigny_Easy [r] Air Defense Battery#10536",
+      "type": "flak36",
+      "x": 23092.0,
+      "z": -139316.0,
+      "alt": 1.1
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Aurigny_Easy [r] Air Defense Battery#10536",
+      "type": "KDO_Mod40",
+      "x": 23055.0,
+      "z": -139329.0,
+      "alt": 12.5
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Aurigny_Easy [r] Air Defense Battery#10536",
+      "type": "flak38",
+      "x": 23060.0,
+      "z": -139278.0,
+      "alt": 9.6
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Aurigny_Easy [r] Air Defense Battery#10536",
+      "type": "flak36",
+      "x": 23062.0,
+      "z": -139302.0,
+      "alt": 11.3
+    }
+  ],
+  "image": "aurigny-easy.jpg",
+  "heading": 294,
+  "pitch": -30.0,
+  "x": 22857.053440667813,
+  "y": -138829.10785570176,
+  "altitude_m": 308,
+  "order": 7
+}

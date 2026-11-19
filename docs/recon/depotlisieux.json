@@ -1,0 +1,178 @@
+{
+  "name": "depotlisieux",
+  "title": "Z12 Frappe — dépôts d'essence de Lisieux",
+  "heading_deg": 92.0,
+  "pitch_deg": 30.0,
+  "slant_m": 1450.0,
+  "mark": "groups",
+  "labels": {},
+  "zone": "combatZone_DepotLisieux",
+  "camera": {
+    "position": [
+      -36209.508749784036,
+      794.2799999999999,
+      38764.29479213054
+    ],
+    "forward": [
+      -0.03022385072365708,
+      -0.49999999999999994,
+      0.8654978445076765
+    ],
+    "up": [
+      -0.017449748351250474,
+      0.8660254037844387,
+      0.4996954135095478
+    ],
+    "right": [
+      -0.9993908270190958,
+      0.0,
+      -0.034899496702500955
+    ],
+    "hfov_deg": 80.0
+  },
+  "window": {
+    "width": 2650,
+    "height": 1660,
+    "cropped_bottom": 40
+  },
+  "target": {
+    "x": -36253.333333333336,
+    "z": 40019.26666666667,
+    "alt_m": 69.28,
+    "lat": 49.14464505712679,
+    "lon": 0.22996830416703462,
+    "dms": "N49°08'40.72\" E000°13'47.89\""
+  },
+  "theatre": "Normandy",
+  "date": "1944-07-06",
+  "time": "11:42",
+  "units": [
+    {
+      "kind": "unit",
+      "group": "combatZone_DepotLisieux [r] Air Defense Battery#10623",
+      "type": "flak38",
+      "x": -36659.0,
+      "z": 39856.0,
+      "alt": 49.7
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_DepotLisieux [r] Air Defense Battery#10623",
+      "type": "Blitz_36-6700A",
+      "x": -36660.0,
+      "z": 39834.0,
+      "alt": 49.4
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_DepotLisieux [r] Air Defense Battery#10623",
+      "type": "flak37",
+      "x": -36708.0,
+      "z": 39876.0,
+      "alt": 49.6
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_DepotLisieux [r] Air Defense Battery#10623",
+      "type": "Blitz_36-6700A",
+      "x": -36680.0,
+      "z": 39816.0,
+      "alt": 49.0
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_DepotLisieux [r] Air Defense Battery#10616",
+      "type": "flak38",
+      "x": -35850.0,
+      "z": 40167.0,
+      "alt": 83.6
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_DepotLisieux [r] Air Defense Battery#10616",
+      "type": "Blitz_36-6700A",
+      "x": -35822.0,
+      "z": 40161.0,
+      "alt": 74.9
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_DepotLisieux [r] Air Defense Battery#10616",
+      "type": "flak37",
+      "x": -35843.0,
+      "z": 40144.0,
+      "alt": 73.4
+    },
+    {
+      "kind": "static",
+      "group": "combatZone_DepotLisieux [r] combatZone_DepotLisieux-Static-Fuel-5#10615 #367",
+      "type": "Fuel tank",
+      "x": -36439.0,
+      "z": 40150.0,
+      "alt": 85.4
+    },
+    {
+      "kind": "static",
+      "group": "combatZone_DepotLisieux [r] combatZone_DepotLisieux-Static-Fuel-4#10617 #366",
+      "type": "Fuel tank",
+      "x": -36324.0,
+      "z": 40211.0,
+      "alt": 86.8
+    },
+    {
+      "kind": "static",
+      "group": "combatZone_DepotLisieux [r] combatZone_DepotLisieux-Static-Warehouse-8#10618 #370",
+      "type": "Warehouse",
+      "x": -36015.0,
+      "z": 39853.0,
+      "alt": 60.9
+    },
+    {
+      "kind": "static",
+      "group": "combatZone_DepotLisieux [r] combatZone_DepotLisieux-Static-Fuel-3#10619 #365",
+      "type": "Fuel tank",
+      "x": -36214.0,
+      "z": 40170.0,
+      "alt": 85.1
+    },
+    {
+      "kind": "static",
+      "group": "combatZone_DepotLisieux [r] combatZone_DepotLisieux-Static-Warehouse-7#10620 #369",
+      "type": "Warehouse",
+      "x": -36114.0,
+      "z": 39847.0,
+      "alt": 60.7
+    },
+    {
+      "kind": "static",
+      "group": "combatZone_DepotLisieux [r] combatZone_DepotLisieux-Static-Pump-6#10621 #368",
+      "type": "Pump station",
+      "x": -36274.0,
+      "z": 39916.0,
+      "alt": 59.9
+    },
+    {
+      "kind": "static",
+      "group": "combatZone_DepotLisieux [r] combatZone_DepotLisieux-Static-Fuel-2#10622 #364",
+      "type": "Fuel tank",
+      "x": -36114.0,
+      "z": 40193.0,
+      "alt": 94.7
+    },
+    {
+      "kind": "static",
+      "group": "combatZone_DepotLisieux [r] combatZone_DepotLisieux-Static-Fuel-1#10614 #363",
+      "type": "Fuel tank",
+      "x": -36084.0,
+      "z": 40095.0,
+      "alt": 76.1
+    }
+  ],
+  "image": "depotlisieux.jpg",
+  "heading": 92,
+  "pitch": -30.0,
+  "x": -36209.508749784036,
+  "y": 38764.29479213054,
+  "altitude_m": 794,
+  "order": 21
+}

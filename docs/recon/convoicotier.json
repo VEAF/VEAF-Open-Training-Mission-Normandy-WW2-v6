@@ -1,0 +1,98 @@
+{
+  "name": "convoicotier",
+  "title": "Z16 Antinavire — convoi côtier vers Dieppe",
+  "heading_deg": 32.0,
+  "pitch_deg": 30.0,
+  "slant_m": 3600.0,
+  "mark": "groups",
+  "labels": {},
+  "zone": "combatZone_ConvoiCotier",
+  "camera": {
+    "position": [
+      46505.00769835102,
+      1799.8999999999999,
+      39865.63523878942
+    ],
+    "forward": [
+      0.7344311949024933,
+      -0.49999999999999994,
+      0.45892354478071395
+    ],
+    "up": [
+      0.4240240480782129,
+      0.8660254037844387,
+      0.2649596321166024
+    ],
+    "right": [
+      -0.5299192642332049,
+      0.0,
+      0.848048096156426
+    ],
+    "hfov_deg": 80.0
+  },
+  "window": {
+    "width": 2650,
+    "height": 1660,
+    "cropped_bottom": 40
+  },
+  "target": {
+    "x": 49148.96,
+    "z": 41517.759999999995,
+    "alt_m": -0.1,
+    "lat": 49.91098776969371,
+    "lon": 0.30178754043518907,
+    "dms": "N49°54'39.56\" E000°18'06.44\""
+  },
+  "theatre": "Normandy",
+  "date": "1944-07-06",
+  "time": "11:45",
+  "units": [
+    {
+      "kind": "unit",
+      "group": "combatZone_ConvoiCotier [r] combatZone_ConvoiCotier-Convoi#10642",
+      "type": "Dry-cargo ship-1",
+      "x": 47949.0,
+      "z": 41517.7,
+      "alt": -0.1
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_ConvoiCotier [r] combatZone_ConvoiCotier-Convoi#10642",
+      "type": "Dry-cargo ship-1",
+      "x": 48549.0,
+      "z": 41518.0,
+      "alt": -0.1
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_ConvoiCotier [r] combatZone_ConvoiCotier-Convoi#10642",
+      "type": "Dry-cargo ship-2",
+      "x": 49149.0,
+      "z": 41517.7,
+      "alt": -0.1
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_ConvoiCotier [r] combatZone_ConvoiCotier-Convoi#10642",
+      "type": "Schnellboot_type_S130",
+      "x": 49748.9,
+      "z": 41517.7,
+      "alt": -0.1
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_ConvoiCotier [r] combatZone_ConvoiCotier-Convoi#10642",
+      "type": "Schnellboot_type_S130",
+      "x": 50348.9,
+      "z": 41517.7,
+      "alt": -0.1
+    }
+  ],
+  "image": "convoicotier.jpg",
+  "heading": 32,
+  "pitch": -30.0,
+  "x": 46505.00769835102,
+  "y": 39865.63523878942,
+  "altitude_m": 1800,
+  "order": 25
+}

@@ -1,0 +1,258 @@
+{
+  "name": "cotentinsud",
+  "title": "Z03 Front — La Haye-du-Puits et Lessay",
+  "heading_deg": 271.0,
+  "pitch_deg": 30.0,
+  "slant_m": 4900.0,
+  "mark": "groups",
+  "labels": {},
+  "zone": "combatZone_CotentinSud",
+  "camera": {
+    "position": [
+      -33248.45971392611,
+      2470.2479999999996,
+      -81886.68583078831
+    ],
+    "forward": [
+      0.01511422733185826,
+      -0.49999999999999994,
+      -0.8658935039207541
+    ],
+    "up": [
+      0.008726203218641563,
+      0.8660254037844387,
+      -0.4999238475781956
+    ],
+    "right": [
+      0.9998476951563913,
+      0.0,
+      0.01745240643728313
+    ],
+    "hfov_deg": 80.0
+  },
+  "window": {
+    "width": 2650,
+    "height": 1660,
+    "cropped_bottom": 40
+  },
+  "target": {
+    "x": -33174.4,
+    "z": -86129.564,
+    "alt_m": 20.248,
+    "lat": 49.20776941177041,
+    "lon": -1.49805669046984,
+    "dms": "N49°12'27.97\" W001°29'53.00\""
+  },
+  "theatre": "Normandy",
+  "date": "1944-07-06",
+  "time": "11:37",
+  "units": [
+    {
+      "kind": "unit",
+      "group": "combatZone_CotentinSud [r] Armored Platoon#10571",
+      "type": "Sd_Kfz_234_2_Puma",
+      "x": -32338.8,
+      "z": -86555.4,
+      "alt": 20.0
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_CotentinSud [r] Armored Platoon#10571",
+      "type": "Sd_Kfz_234_2_Puma",
+      "x": -32226.8,
+      "z": -86671.4,
+      "alt": 20.0
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_CotentinSud [r] Armored Platoon#10571",
+      "type": "Sd_Kfz_234_2_Puma",
+      "x": -32191.8,
+      "z": -86603.4,
+      "alt": 20.0
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_CotentinSud [r] Armored Platoon#10571",
+      "type": "Sd_Kfz_234_2_Puma",
+      "x": -32147.8,
+      "z": -86637.4,
+      "alt": 20.0
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_CotentinSud [r] Armored Platoon#10571",
+      "type": "Elefant_SdKfz_184",
+      "x": -32264.8,
+      "z": -86632.4,
+      "alt": 20.0
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_CotentinSud [r] Armored Platoon#10571",
+      "type": "Sd_Kfz_234_2_Puma",
+      "x": -32384.8,
+      "z": -86733.4,
+      "alt": 20.0
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_CotentinSud [r] Armored Platoon#10571",
+      "type": "Sd_Kfz_234_2_Puma",
+      "x": -32195.8,
+      "z": -86824.4,
+      "alt": 20.0
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_CotentinSud [r] Armored Platoon#10571",
+      "type": "Sd_Kfz_234_2_Puma",
+      "x": -32153.8,
+      "z": -86734.4,
+      "alt": 20.0
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_CotentinSud [r] combatZone_CotentinSud-Antichars#10569",
+      "type": "Pak40",
+      "x": -34795.8,
+      "z": -86381.0,
+      "alt": 20.0
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_CotentinSud [r] combatZone_CotentinSud-Antichars#10569",
+      "type": "Pak40",
+      "x": -34775.8,
+      "z": -86381.0,
+      "alt": 20.0
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_CotentinSud [r] combatZone_CotentinSud-Antichars#10569",
+      "type": "Pak40",
+      "x": -34755.8,
+      "z": -86381.0,
+      "alt": 20.0
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_CotentinSud [r] combatZone_CotentinSud-Antichars#10569",
+      "type": "Pak40",
+      "x": -34735.8,
+      "z": -86381.0,
+      "alt": 20.0
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_CotentinSud [r] Armored Platoon#10568",
+      "type": "Sd_Kfz_234_2_Puma",
+      "x": -33017.9,
+      "z": -85275.5,
+      "alt": 20.7
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_CotentinSud [r] Armored Platoon#10568",
+      "type": "Sd_Kfz_234_2_Puma",
+      "x": -33099.9,
+      "z": -85181.5,
+      "alt": 21.0
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_CotentinSud [r] Armored Platoon#10568",
+      "type": "Sd_Kfz_251",
+      "x": -32982.9,
+      "z": -85226.5,
+      "alt": 20.9
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_CotentinSud [r] Armored Platoon#10568",
+      "type": "Sd_Kfz_234_2_Puma",
+      "x": -33158.9,
+      "z": -85240.5,
+      "alt": 20.0
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_CotentinSud [r] combatZone_CotentinSud-Artillerie#10567",
+      "type": "LeFH_18-40-105",
+      "x": -33631.6,
+      "z": -85046.3,
+      "alt": 20.6
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_CotentinSud [r] combatZone_CotentinSud-Artillerie#10567",
+      "type": "LeFH_18-40-105",
+      "x": -33611.6,
+      "z": -85046.3,
+      "alt": 21.2
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_CotentinSud [r] combatZone_CotentinSud-Artillerie#10567",
+      "type": "LeFH_18-40-105",
+      "x": -33591.6,
+      "z": -85046.3,
+      "alt": 21.8
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_CotentinSud [r] Air Defense Battery#10566",
+      "type": "flak37",
+      "x": -33491.0,
+      "z": -86490.0,
+      "alt": 20.0
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_CotentinSud [r] Air Defense Battery#10566",
+      "type": "flak38",
+      "x": -33465.0,
+      "z": -86498.0,
+      "alt": 20.0
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_CotentinSud [r] Air Defense Battery#10566",
+      "type": "Blitz_36-6700A",
+      "x": -33520.0,
+      "z": -86470.0,
+      "alt": 20.0
+    },
+    {
+      "kind": "static",
+      "group": "combatZone_CotentinSud [r] combatZone_CotentinSud-Static-Bunker-3#10564 #286",
+      "type": "Bunker",
+      "x": -33139.0,
+      "z": -86640.0,
+      "alt": 20.0
+    },
+    {
+      "kind": "static",
+      "group": "combatZone_CotentinSud [r] combatZone_CotentinSud-Static-Bunker-1#10565 #284",
+      "type": "Bunker",
+      "x": -32529.0,
+      "z": -86276.0,
+      "alt": 20.0
+    },
+    {
+      "kind": "static",
+      "group": "combatZone_CotentinSud [r] combatZone_CotentinSud-Static-Bunker-2#10570 #285",
+      "type": "Bunker",
+      "x": -33154.0,
+      "z": -85886.0,
+      "alt": 20.0
+    }
+  ],
+  "image": "cotentinsud.jpg",
+  "heading": 271,
+  "pitch": -30.0,
+  "x": -33248.45971392611,
+  "y": -81886.68583078831,
+  "altitude_m": 2470,
+  "order": 12
+}

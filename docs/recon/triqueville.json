@@ -1,0 +1,226 @@
+{
+  "name": "triqueville",
+  "title": "Z13 OCA — base aérienne de Triqueville",
+  "heading_deg": 73.0,
+  "pitch_deg": 30.0,
+  "slant_m": 3450.0,
+  "mark": "groups",
+  "labels": {},
+  "zone": "combatZone_Triqueville",
+  "camera": {
+    "position": [
+      -15058.501709407044,
+      1847.4095238095235,
+      53206.52637189957
+    ],
+    "forward": [
+      0.2532013236376528,
+      -0.49999999999999994,
+      0.8281842124238669
+    ],
+    "up": [
+      0.14618585236136836,
+      0.8660254037844387,
+      0.47815237798151766
+    ],
+    "right": [
+      -0.9563047559630354,
+      0.0,
+      0.29237170472273677
+    ],
+    "hfov_deg": 80.0
+  },
+  "window": {
+    "width": 2650,
+    "height": 1660,
+    "cropped_bottom": 40
+  },
+  "target": {
+    "x": -14184.957142857142,
+    "z": 56063.76190476191,
+    "alt_m": 122.4095238095238,
+    "lat": 49.336434697304725,
+    "lon": 0.4634212750284554,
+    "dms": "N49°20'11.16\" E000°27'48.32\""
+  },
+  "theatre": "Normandy",
+  "date": "1944-07-06",
+  "time": "11:43",
+  "units": [
+    {
+      "kind": "unit",
+      "group": "combatZone_Triqueville [r] Air Defense Battery#10628",
+      "type": "flak36",
+      "x": -14214.0,
+      "z": 55456.0,
+      "alt": 122.5
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Triqueville [r] Air Defense Battery#10628",
+      "type": "flak36",
+      "x": -14256.0,
+      "z": 55546.0,
+      "alt": 122.5
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Triqueville [r] Air Defense Battery#10628",
+      "type": "flak37",
+      "x": -14256.0,
+      "z": 55494.0,
+      "alt": 122.5
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Triqueville [r] Air Defense Battery#10628",
+      "type": "flak38",
+      "x": -14238.0,
+      "z": 55476.0,
+      "alt": 122.5
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Triqueville [r] Air Defense Battery#10628",
+      "type": "Sd_Kfz_7",
+      "x": -14191.0,
+      "z": 55445.0,
+      "alt": 122.5
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Triqueville [r] Air Defense Battery#10628",
+      "type": "flak41",
+      "x": -14236.0,
+      "z": 55463.0,
+      "alt": 122.5
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Triqueville [r] Air Defense Battery#10628",
+      "type": "flak36",
+      "x": -14277.0,
+      "z": 55537.0,
+      "alt": 122.5
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Triqueville [r] Air Defense Battery#10628",
+      "type": "KDO_Mod40",
+      "x": -14219.0,
+      "z": 55541.0,
+      "alt": 122.5
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Triqueville [r] Air Defense Battery#10628",
+      "type": "Flakscheinwerfer_37",
+      "x": -14170.0,
+      "z": 55519.0,
+      "alt": 122.5
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Triqueville [r] Air Defense Battery#10628",
+      "type": "Maschinensatz_33",
+      "x": -14223.0,
+      "z": 55513.0,
+      "alt": 122.5
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Triqueville [r] Air Defense Battery#10628",
+      "type": "Sd_Kfz_7",
+      "x": -14272.0,
+      "z": 55436.0,
+      "alt": 122.5
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Triqueville [r] Air Defense Battery#10624",
+      "type": "flak38",
+      "x": -14264.0,
+      "z": 57167.0,
+      "alt": 120.4
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Triqueville [r] Air Defense Battery#10624",
+      "type": "flak38",
+      "x": -14218.0,
+      "z": 57213.0,
+      "alt": 119.9
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Triqueville [r] Air Defense Battery#10624",
+      "type": "flak37",
+      "x": -14191.0,
+      "z": 57206.0,
+      "alt": 120.0
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Triqueville [r] Air Defense Battery#10624",
+      "type": "Blitz_36-6700A",
+      "x": -14235.0,
+      "z": 57189.0,
+      "alt": 120.1
+    },
+    {
+      "kind": "static",
+      "group": "combatZone_Triqueville [r] combatZone_Triqueville-Static-Fuel-6#10626 #378",
+      "type": "Fuel tank",
+      "x": -14627.0,
+      "z": 56291.0,
+      "alt": 124.0
+    },
+    {
+      "kind": "static",
+      "group": "combatZone_Triqueville [r] combatZone_Triqueville-Static-Hangar-5#10627 #377",
+      "type": "Hangar A",
+      "x": -13967.0,
+      "z": 56141.0,
+      "alt": 124.5
+    },
+    {
+      "kind": "static",
+      "group": "combatZone_Triqueville [r] combatZone_Triqueville-Static-FW-190A8-1#10629 #373",
+      "type": "FW-190A8",
+      "x": -13927.0,
+      "z": 56291.0,
+      "alt": 124.8
+    },
+    {
+      "kind": "static",
+      "group": "combatZone_Triqueville [r] combatZone_Triqueville-Static-FW-190A8-2#10630 #374",
+      "type": "FW-190A8",
+      "x": -13898.0,
+      "z": 56379.0,
+      "alt": 124.4
+    },
+    {
+      "kind": "static",
+      "group": "combatZone_Triqueville [r] combatZone_Triqueville-Static-Bf-109K-4-4#10631 #376",
+      "type": "Bf-109K-4",
+      "x": -14008.0,
+      "z": 56552.0,
+      "alt": 122.4
+    },
+    {
+      "kind": "static",
+      "group": "combatZone_Triqueville [r] combatZone_Triqueville-Static-Bf-109K-4-3#10625 #375",
+      "type": "Bf-109K-4",
+      "x": -13997.1,
+      "z": 56484.0,
+      "alt": 122.6
+    }
+  ],
+  "image": "triqueville.jpg",
+  "heading": 73,
+  "pitch": -30.0,
+  "x": -15058.501709407044,
+  "y": 53206.52637189957,
+  "altitude_m": 1847,
+  "order": 22
+}

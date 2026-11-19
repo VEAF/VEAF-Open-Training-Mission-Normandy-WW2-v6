@@ -1,0 +1,130 @@
+{
+  "name": "convoifalaise",
+  "title": "Z06 Convoi — Falaise vers Caen",
+  "heading_deg": 146.0,
+  "pitch_deg": 30.0,
+  "slant_m": 600.0,
+  "mark": "groups",
+  "labels": {},
+  "zone": "combatZone_ConvoiFalaise",
+  "camera": {
+    "position": [
+      -62774.63055199644,
+      453.9333333333333,
+      8594.21262176479
+    ],
+    "forward": [
+      -0.7179675985244508,
+      -0.49999999999999994,
+      0.4842752600216462
+    ],
+    "up": [
+      -0.41451878627752076,
+      0.8660254037844387,
+      0.2795964517353734
+    ],
+    "right": [
+      -0.5591929034707469,
+      0.0,
+      -0.8290375725550416
+    ],
+    "hfov_deg": 80.0
+  },
+  "window": {
+    "width": 2650,
+    "height": 1660,
+    "cropped_bottom": 40
+  },
+  "target": {
+    "x": -63205.411111111105,
+    "z": 8884.777777777777,
+    "alt_m": 153.93333333333334,
+    "lat": 48.91363454461528,
+    "lon": -0.20998000300763264,
+    "dms": "N48°54'49.08\" W000°12'35.93\""
+  },
+  "theatre": "Normandy",
+  "date": "1944-07-06",
+  "time": "11:39",
+  "units": [
+    {
+      "kind": "unit",
+      "group": "combatZone_ConvoiFalaise [r] combatZone_ConvoiFalaise-Convoi#10584",
+      "type": "Pz_IV_H",
+      "x": -63240.7,
+      "z": 8869.4,
+      "alt": 153.8
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_ConvoiFalaise [r] combatZone_ConvoiFalaise-Convoi#10584",
+      "type": "Pz_IV_H",
+      "x": -63271.0,
+      "z": 8886.7,
+      "alt": 154.1
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_ConvoiFalaise [r] combatZone_ConvoiFalaise-Convoi#10584",
+      "type": "Sd_Kfz_251",
+      "x": -63251.0,
+      "z": 8886.7,
+      "alt": 154.1
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_ConvoiFalaise [r] combatZone_ConvoiFalaise-Convoi#10584",
+      "type": "Sd_Kfz_251",
+      "x": -63231.0,
+      "z": 8886.7,
+      "alt": 153.9
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_ConvoiFalaise [r] combatZone_ConvoiFalaise-Convoi#10584",
+      "type": "Blitz_36-6700A",
+      "x": -63211.0,
+      "z": 8886.7,
+      "alt": 153.9
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_ConvoiFalaise [r] combatZone_ConvoiFalaise-Convoi#10584",
+      "type": "Blitz_36-6700A",
+      "x": -63191.0,
+      "z": 8886.7,
+      "alt": 153.9
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_ConvoiFalaise [r] combatZone_ConvoiFalaise-Convoi#10584",
+      "type": "Blitz_36-6700A",
+      "x": -63171.0,
+      "z": 8886.7,
+      "alt": 153.9
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_ConvoiFalaise [r] combatZone_ConvoiFalaise-Convoi#10584",
+      "type": "Blitz_36-6700A",
+      "x": -63151.0,
+      "z": 8886.7,
+      "alt": 153.9
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_ConvoiFalaise [r] combatZone_ConvoiFalaise-Convoi#10584",
+      "type": "Sd_Kfz_234_2_Puma",
+      "x": -63131.0,
+      "z": 8886.7,
+      "alt": 153.9
+    }
+  ],
+  "image": "convoifalaise.jpg",
+  "heading": 146,
+  "pitch": -30.0,
+  "x": -62774.63055199644,
+  "y": 8594.21262176479,
+  "altitude_m": 454,
+  "order": 15
+}

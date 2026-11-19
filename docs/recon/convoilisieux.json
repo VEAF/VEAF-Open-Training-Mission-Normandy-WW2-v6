@@ -1,0 +1,130 @@
+{
+  "name": "convoilisieux",
+  "title": "Z07 Convoi — Lisieux vers Caen",
+  "heading_deg": 93.0,
+  "pitch_deg": 30.0,
+  "slant_m": 600.0,
+  "mark": "groups",
+  "labels": {},
+  "zone": "combatZone_ConvoiLisieux",
+  "camera": {
+    "position": [
+      -36732.38321719513,
+      371.8666666666666,
+      38001.18576124875
+    ],
+    "forward": [
+      -0.045324267637740154,
+      -0.49999999999999994,
+      0.8648385460668959
+    ],
+    "up": [
+      -0.026167978121471917,
+      0.8660254037844387,
+      0.49931476737728686
+    ],
+    "right": [
+      -0.9986295347545738,
+      0.0,
+      -0.05233595624294384
+    ],
+    "hfov_deg": 80.0
+  },
+  "window": {
+    "width": 2650,
+    "height": 1660,
+    "cropped_bottom": 40
+  },
+  "target": {
+    "x": -36759.57777777778,
+    "z": 38520.08888888889,
+    "alt_m": 71.86666666666666,
+    "lat": 49.14067123046325,
+    "lon": 0.2091505062187995,
+    "dms": "N49°08'26.42\" E000°12'32.94\""
+  },
+  "theatre": "Normandy",
+  "date": "1944-07-06",
+  "time": "11:39",
+  "units": [
+    {
+      "kind": "unit",
+      "group": "combatZone_ConvoiLisieux [r] combatZone_ConvoiLisieux-Convoi#10585",
+      "type": "Blitz_36-6700A",
+      "x": -36842.9,
+      "z": 38471.9,
+      "alt": 70.9
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_ConvoiLisieux [r] combatZone_ConvoiLisieux-Convoi#10585",
+      "type": "Blitz_36-6700A",
+      "x": -36829.1,
+      "z": 38517.4,
+      "alt": 65.6
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_ConvoiLisieux [r] combatZone_ConvoiLisieux-Convoi#10585",
+      "type": "Blitz_36-6700A",
+      "x": -36797.8,
+      "z": 38527.2,
+      "alt": 67.7
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_ConvoiLisieux [r] combatZone_ConvoiLisieux-Convoi#10585",
+      "type": "Blitz_36-6700A",
+      "x": -36777.5,
+      "z": 38528.0,
+      "alt": 71.7
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_ConvoiLisieux [r] combatZone_ConvoiLisieux-Convoi#10585",
+      "type": "Blitz_36-6700A",
+      "x": -36759.3,
+      "z": 38524.3,
+      "alt": 74.1
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_ConvoiLisieux [r] combatZone_ConvoiLisieux-Convoi#10585",
+      "type": "Blitz_36-6700A",
+      "x": -36737.4,
+      "z": 38528.0,
+      "alt": 73.0
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_ConvoiLisieux [r] combatZone_ConvoiLisieux-Convoi#10585",
+      "type": "Sd_Kfz_7",
+      "x": -36717.4,
+      "z": 38528.0,
+      "alt": 74.0
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_ConvoiLisieux [r] combatZone_ConvoiLisieux-Convoi#10585",
+      "type": "Sd_Kfz_7",
+      "x": -36697.4,
+      "z": 38528.0,
+      "alt": 74.3
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_ConvoiLisieux [r] combatZone_ConvoiLisieux-Convoi#10585",
+      "type": "Sd_Kfz_251",
+      "x": -36677.4,
+      "z": 38528.0,
+      "alt": 75.5
+    }
+  ],
+  "image": "convoilisieux.jpg",
+  "heading": 93,
+  "pitch": -30.0,
+  "x": -36732.38321719513,
+  "y": 38001.18576124875,
+  "altitude_m": 372,
+  "order": 16
+}

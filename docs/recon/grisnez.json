@@ -1,0 +1,242 @@
+{
+  "name": "grisnez",
+  "title": "Z05 Radars — cap Gris-Nez",
+  "heading_deg": 35.0,
+  "pitch_deg": 30.0,
+  "slant_m": 2050.0,
+  "mark": "groups",
+  "labels": {},
+  "zone": "combatZone_GrisNez",
+  "camera": {
+    "position": [
+      158959.5862813891,
+      1052.5260869565216,
+      126085.23901240586
+    ],
+    "forward": [
+      0.7094064799162225,
+      -0.49999999999999994,
+      0.49673176489215404
+    ],
+    "up": [
+      0.40957602214449584,
+      0.8660254037844387,
+      0.28678821817552297
+    ],
+    "right": [
+      -0.573576436351046,
+      0.0,
+      0.8191520442889918
+    ],
+    "hfov_deg": 80.0
+  },
+  "window": {
+    "width": 2650,
+    "height": 1660,
+    "cropped_bottom": 40
+  },
+  "target": {
+    "x": 160413.86956521738,
+    "z": 127103.53913043477,
+    "alt_m": 27.52608695652174,
+    "lat": 50.868500212677766,
+    "lon": 1.585901531833522,
+    "dms": "N50°52'06.60\" E001°35'09.25\""
+  },
+  "theatre": "Normandy",
+  "date": "1944-07-06",
+  "time": "11:38",
+  "units": [
+    {
+      "kind": "unit",
+      "group": "combatZone_GrisNez [r] Air Defense Battery#10581",
+      "type": "Maschinensatz_33",
+      "x": 160137.0,
+      "z": 126875.0,
+      "alt": 35.9
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_GrisNez [r] Air Defense Battery#10581",
+      "type": "flak41",
+      "x": 160124.0,
+      "z": 126888.0,
+      "alt": 35.8
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_GrisNez [r] Air Defense Battery#10581",
+      "type": "flak36",
+      "x": 160146.0,
+      "z": 126934.0,
+      "alt": 35.8
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_GrisNez [r] Air Defense Battery#10581",
+      "type": "flak37",
+      "x": 160093.0,
+      "z": 126877.0,
+      "alt": 35.6
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_GrisNez [r] Air Defense Battery#10581",
+      "type": "flak36",
+      "x": 160063.0,
+      "z": 126931.0,
+      "alt": 35.4
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_GrisNez [r] Air Defense Battery#10581",
+      "type": "Flakscheinwerfer_37",
+      "x": 160156.0,
+      "z": 126963.0,
+      "alt": 35.8
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_GrisNez [r] Air Defense Battery#10581",
+      "type": "Sd_Kfz_7",
+      "x": 160080.0,
+      "z": 126879.0,
+      "alt": 35.5
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_GrisNez [r] Air Defense Battery#10581",
+      "type": "KDO_Mod40",
+      "x": 160141.0,
+      "z": 126955.0,
+      "alt": 35.7
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_GrisNez [r] Air Defense Battery#10581",
+      "type": "flak38",
+      "x": 160159.0,
+      "z": 126878.0,
+      "alt": 36.0
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_GrisNez [r] Air Defense Battery#10581",
+      "type": "flak36",
+      "x": 160137.0,
+      "z": 126890.0,
+      "alt": 35.9
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_GrisNez [r] Air Defense Battery#10581",
+      "type": "flak37",
+      "x": 160104.0,
+      "z": 126983.0,
+      "alt": 35.2
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_GrisNez [r] Air Defense Battery#10581",
+      "type": "Sd_Kfz_7",
+      "x": 160099.0,
+      "z": 126911.0,
+      "alt": 35.6
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_GrisNez [r] Air Defense Battery#10580",
+      "type": "Blitz_36-6700A",
+      "x": 160680.0,
+      "z": 127714.0,
+      "alt": 42.8
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_GrisNez [r] Air Defense Battery#10580",
+      "type": "flak38",
+      "x": 160720.0,
+      "z": 127667.0,
+      "alt": 1.5
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_GrisNez [r] Air Defense Battery#10580",
+      "type": "Blitz_36-6700A",
+      "x": 160695.0,
+      "z": 127730.0,
+      "alt": 42.8
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_GrisNez [r] Air Defense Battery#10580",
+      "type": "flak18",
+      "x": 160701.0,
+      "z": 127685.0,
+      "alt": 41.3
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_GrisNez [r] Air Defense Battery#10580",
+      "type": "flak37",
+      "x": 160738.0,
+      "z": 127711.0,
+      "alt": 1.3
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_GrisNez [r] combatZone_GrisNez-Radars#10579",
+      "type": "FuMG-401",
+      "x": 160711.0,
+      "z": 126975.8,
+      "alt": 30.6
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_GrisNez [r] combatZone_GrisNez-Radars#10579",
+      "type": "FuSe-65",
+      "x": 160731.0,
+      "z": 126975.8,
+      "alt": 30.6
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_GrisNez [r] combatZone_GrisNez-Radars#10579",
+      "type": "FuSe-65",
+      "x": 160751.0,
+      "z": 126975.8,
+      "alt": 11.0
+    },
+    {
+      "kind": "static",
+      "group": "combatZone_GrisNez [r] combatZone_GrisNez-Static-Bunker-3#10578 #303",
+      "type": "Bunker",
+      "x": 160791.0,
+      "z": 127003.0,
+      "alt": 0.7
+    },
+    {
+      "kind": "static",
+      "group": "combatZone_GrisNez [r] combatZone_GrisNez-Static-SK_C_28_naval_gun-2#10582 #302",
+      "type": "SK_C_28_naval_gun",
+      "x": 160779.0,
+      "z": 127056.0,
+      "alt": 1.7
+    },
+    {
+      "kind": "static",
+      "group": "combatZone_GrisNez [r] combatZone_GrisNez-Static-SK_C_28_naval_gun-1#10583 #301",
+      "type": "SK_C_28_naval_gun",
+      "x": 160783.0,
+      "z": 126924.0,
+      "alt": 0.6
+    }
+  ],
+  "image": "grisnez.jpg",
+  "heading": 35,
+  "pitch": -30.0,
+  "x": 158959.5862813891,
+  "y": 126085.23901240586,
+  "altitude_m": 1053,
+  "order": 14
+}

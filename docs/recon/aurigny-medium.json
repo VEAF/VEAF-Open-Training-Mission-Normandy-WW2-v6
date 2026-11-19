@@ -1,0 +1,146 @@
+{
+  "name": "aurigny-medium",
+  "title": "C2 Antiflak Aurigny — moyen",
+  "heading_deg": 294.0,
+  "pitch_deg": 30.0,
+  "slant_m": 4800.0,
+  "mark": "groups",
+  "labels": {},
+  "zone": "combatZone_Aurigny_Medium",
+  "camera": {
+    "position": [
+      21307.86388897886,
+      2408.945454545454,
+      -136633.3719365233
+    ],
+    "forward": [
+      0.35224426555364663,
+      -0.49999999999999994,
+      -0.7911535738303734
+    ],
+    "up": [
+      0.20336832153789985,
+      0.8660254037844387,
+      -0.4567727288213005
+    ],
+    "right": [
+      0.9135454576426011,
+      0.0,
+      0.40673664307579976
+    ],
+    "hfov_deg": 80.0
+  },
+  "window": {
+    "width": 2650,
+    "height": 1660,
+    "cropped_bottom": 40
+  },
+  "target": {
+    "x": 22998.636363636364,
+    "z": -140430.9090909091,
+    "alt_m": 8.945454545454545,
+    "lat": 49.720283246871034,
+    "lon": -2.2356574354816177,
+    "dms": "N49°43'13.02\" W002°14'08.37\""
+  },
+  "theatre": "Normandy",
+  "date": "1944-07-06",
+  "time": "11:34",
+  "units": [
+    {
+      "kind": "unit",
+      "group": "combatZone_Aurigny_Medium [r] Air Defense Battery#10538",
+      "type": "flak38",
+      "x": 24167.5,
+      "z": -141491.5,
+      "alt": 6.0
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Aurigny_Medium [r] Air Defense Battery#10538",
+      "type": "Blitz_36-6700A",
+      "x": 24193.5,
+      "z": -141465.5,
+      "alt": 6.5
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Aurigny_Medium [r] Air Defense Battery#10538",
+      "type": "flak37",
+      "x": 24170.5,
+      "z": -141521.5,
+      "alt": 6.1
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Aurigny_Medium [r] Air Defense Battery#10538",
+      "type": "flak18",
+      "x": 24209.5,
+      "z": -141470.5,
+      "alt": 6.4
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Aurigny_Medium [r] Air Defense Battery#10537",
+      "type": "Flakscheinwerfer_37",
+      "x": 22355.0,
+      "z": -139836.0,
+      "alt": 1.1
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Aurigny_Medium [r] Air Defense Battery#10537",
+      "type": "Sd_Kfz_7",
+      "x": 22315.0,
+      "z": -139791.0,
+      "alt": 17.5
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Aurigny_Medium [r] Air Defense Battery#10537",
+      "type": "KDO_Mod40",
+      "x": 22294.0,
+      "z": -139853.0,
+      "alt": 16.6
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Aurigny_Medium [r] Air Defense Battery#10537",
+      "type": "flak36",
+      "x": 22308.0,
+      "z": -139837.0,
+      "alt": 13.2
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Aurigny_Medium [r] Air Defense Battery#10537",
+      "type": "Maschinensatz_33",
+      "x": 22326.0,
+      "z": -139861.0,
+      "alt": 1.2
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Aurigny_Medium [r] Air Defense Battery#10537",
+      "type": "flak37",
+      "x": 22282.0,
+      "z": -139795.0,
+      "alt": 22.8
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Aurigny_Medium [r] Air Defense Battery#10537",
+      "type": "flak38",
+      "x": 22364.0,
+      "z": -139818.0,
+      "alt": 1.0
+    }
+  ],
+  "image": "aurigny-medium.jpg",
+  "heading": 294,
+  "pitch": -30.0,
+  "x": 21307.86388897886,
+  "y": -136633.3719365233,
+  "altitude_m": 2409,
+  "order": 8
+}

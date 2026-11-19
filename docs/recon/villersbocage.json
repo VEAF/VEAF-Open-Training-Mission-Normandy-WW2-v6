@@ -1,0 +1,306 @@
+{
+  "name": "villersbocage",
+  "title": "Z01 Front — Villers-Bocage",
+  "heading_deg": 230.0,
+  "pitch_deg": 30.0,
+  "slant_m": 4500.0,
+  "mark": "groups",
+  "labels": {},
+  "zone": "combatZone_VillersBocage",
+  "camera": {
+    "position": [
+      -43002.73159057788,
+      2397.3677419354835,
+      -21348.58562033655
+    ],
+    "forward": [
+      -0.5566703992264196,
+      -0.49999999999999994,
+      -0.6634139481689383
+    ],
+    "up": [
+      -0.3213938048432697,
+      0.8660254037844387,
+      -0.3830222215594889
+    ],
+    "right": [
+      0.7660444431189779,
+      0.0,
+      -0.6427876096865395
+    ],
+    "hfov_deg": 80.0
+  },
+  "window": {
+    "width": 2650,
+    "height": 1660,
+    "cropped_bottom": 40
+  },
+  "target": {
+    "x": -45507.74838709677,
+    "z": -24333.948387096774,
+    "alt_m": 147.36774193548385,
+    "lat": 49.08277766740405,
+    "lon": -0.655493155055749,
+    "dms": "N49°04'58.00\" W000°39'19.78\""
+  },
+  "theatre": "Normandy",
+  "date": "1944-07-06",
+  "time": "11:36",
+  "units": [
+    {
+      "kind": "unit",
+      "group": "combatZone_VillersBocage [r] combatZone_VillersBocage-Antichars#10556",
+      "type": "Pak40",
+      "x": -46426.3,
+      "z": -24662.6,
+      "alt": 148.9
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_VillersBocage [r] combatZone_VillersBocage-Antichars#10556",
+      "type": "Pak40",
+      "x": -46406.3,
+      "z": -24662.6,
+      "alt": 148.6
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_VillersBocage [r] combatZone_VillersBocage-Antichars#10556",
+      "type": "Pak40",
+      "x": -46386.3,
+      "z": -24662.6,
+      "alt": 148.4
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_VillersBocage [r] Armored Platoon#10555",
+      "type": "Sd_Kfz_251",
+      "x": -46105.5,
+      "z": -23633.8,
+      "alt": 172.1
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_VillersBocage [r] Armored Platoon#10555",
+      "type": "Sd_Kfz_251",
+      "x": -45983.5,
+      "z": -23707.8,
+      "alt": 171.3
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_VillersBocage [r] Armored Platoon#10555",
+      "type": "Sd_Kfz_251",
+      "x": -46080.5,
+      "z": -23671.8,
+      "alt": 171.8
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_VillersBocage [r] Armored Platoon#10555",
+      "type": "Elefant_SdKfz_184",
+      "x": -46179.5,
+      "z": -23702.8,
+      "alt": 172.0
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_VillersBocage [r] Armored Platoon#10555",
+      "type": "Sd_Kfz_234_2_Puma",
+      "x": -46144.5,
+      "z": -23565.8,
+      "alt": 173.7
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_VillersBocage [r] Armored Platoon#10555",
+      "type": "Sd_Kfz_234_2_Puma",
+      "x": -46003.5,
+      "z": -23651.8,
+      "alt": 171.7
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_VillersBocage [r] Air Defense Battery#10554",
+      "type": "Blitz_36-6700A",
+      "x": -45937.0,
+      "z": -24945.0,
+      "alt": 133.5
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_VillersBocage [r] Air Defense Battery#10554",
+      "type": "flak18",
+      "x": -45998.0,
+      "z": -24974.0,
+      "alt": 131.2
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_VillersBocage [r] Air Defense Battery#10554",
+      "type": "flak37",
+      "x": -45983.0,
+      "z": -24932.0,
+      "alt": 133.7
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_VillersBocage [r] Air Defense Battery#10554",
+      "type": "flak38",
+      "x": -45953.0,
+      "z": -24951.0,
+      "alt": 133.0
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_VillersBocage [r] Air Defense Battery#10554",
+      "type": "flak37",
+      "x": -46015.0,
+      "z": -24988.0,
+      "alt": 130.2
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_VillersBocage [r] Air Defense Battery#10554",
+      "type": "Blitz_36-6700A",
+      "x": -46013.0,
+      "z": -24954.0,
+      "alt": 132.0
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_VillersBocage [r] Armored Platoon#10553",
+      "type": "Sd_Kfz_234_2_Puma",
+      "x": -44616.5,
+      "z": -24401.0,
+      "alt": 148.2
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_VillersBocage [r] Armored Platoon#10553",
+      "type": "Sd_Kfz_251",
+      "x": -44588.5,
+      "z": -24308.0,
+      "alt": 153.5
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_VillersBocage [r] Armored Platoon#10553",
+      "type": "Sd_Kfz_234_2_Puma",
+      "x": -44770.5,
+      "z": -24255.0,
+      "alt": 163.2
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_VillersBocage [r] Armored Platoon#10553",
+      "type": "Sd_Kfz_234_2_Puma",
+      "x": -44855.5,
+      "z": -24266.0,
+      "alt": 166.1
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_VillersBocage [r] Armored Platoon#10553",
+      "type": "Sd_Kfz_251",
+      "x": -44759.5,
+      "z": -24251.0,
+      "alt": 163.0
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_VillersBocage [r] Armored Platoon#10553",
+      "type": "Sd_Kfz_251",
+      "x": -44860.5,
+      "z": -24472.0,
+      "alt": 153.9
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_VillersBocage [r] Armored Platoon#10553",
+      "type": "Sd_Kfz_234_2_Puma",
+      "x": -44680.5,
+      "z": -24349.0,
+      "alt": 154.7
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_VillersBocage [r] combatZone_VillersBocage-Artillerie#10551",
+      "type": "LeFH_18-40-105",
+      "x": -45647.2,
+      "z": -23052.7,
+      "alt": 165.9
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_VillersBocage [r] combatZone_VillersBocage-Artillerie#10551",
+      "type": "LeFH_18-40-105",
+      "x": -45627.2,
+      "z": -23052.7,
+      "alt": 166.3
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_VillersBocage [r] combatZone_VillersBocage-Artillerie#10551",
+      "type": "LeFH_18-40-105",
+      "x": -45607.2,
+      "z": -23052.7,
+      "alt": 166.8
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_VillersBocage [r] combatZone_VillersBocage-Artillerie#10551",
+      "type": "LeFH_18-40-105",
+      "x": -45587.2,
+      "z": -23052.7,
+      "alt": 167.2
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_VillersBocage [r] Air Defense Battery#10550",
+      "type": "flak38",
+      "x": -45046.0,
+      "z": -25367.0,
+      "alt": 107.7
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_VillersBocage [r] Air Defense Battery#10550",
+      "type": "Blitz_36-6700A",
+      "x": -45004.0,
+      "z": -25385.0,
+      "alt": 105.0
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_VillersBocage [r] Air Defense Battery#10550",
+      "type": "Blitz_36-6700A",
+      "x": -45022.0,
+      "z": -25419.0,
+      "alt": 101.7
+    },
+    {
+      "kind": "static",
+      "group": "combatZone_VillersBocage [r] combatZone_VillersBocage-Static-Bunker-2#10549 #263",
+      "type": "Bunker",
+      "x": -44124.0,
+      "z": -24900.0,
+      "alt": 109.4
+    },
+    {
+      "kind": "static",
+      "group": "combatZone_VillersBocage [r] combatZone_VillersBocage-Static-Bunker-1#10552 #262",
+      "type": "Bunker",
+      "x": -44329.0,
+      "z": -25103.0,
+      "alt": 103.7
+    }
+  ],
+  "image": "villersbocage.jpg",
+  "heading": 230,
+  "pitch": -30.0,
+  "x": -43002.73159057788,
+  "y": -21348.58562033655,
+  "altitude_m": 2397,
+  "order": 10
+}
